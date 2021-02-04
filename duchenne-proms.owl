@@ -1,12 +1,22 @@
 <?xml version="1.0"?>
 <rdf:RDF xmlns="https://w3id.org/duchenne-proms#"
      xml:base="https://w3id.org/duchenne-proms"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+     xmlns:cito="http://purl.org/spar/cito/"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:vann="http://purl.org/vocab/vann/"
+     xmlns:void="http://rdfs.org/ns/void#"
+     xmlns:terms="http://purl.org/dc/terms/"
+     xmlns:schema="http://schema.org/"
+     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+     xmlns:resource="http://semanticscience.org/resource/">
     <owl:Ontology rdf:about="https://w3id.org/duchenne-proms">
+        <owl:imports rdf:resource="http://semanticscience.org/ontology/sio/v1.48/sio-release.owl"/>
         <rdfs:comment xml:lang="en">An ontology for the Duchenne Data Platform PROMs</rdfs:comment>
         <rdfs:label xml:lang="en">DDP PROMs</rdfs:label>
     </owl:Ontology>
@@ -24,15 +34,169 @@
     
 
 
-    <!-- https://w3id.org/duchenne-proms#phenotype -->
+    <!-- https://w3id.org/duchenne-proms#bone_health_and_orthopedics_section -->
 
-    <owl:Class rdf:about="https://w3id.org/duchenne-proms#phenotype"/>
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#bone_health_and_orthopedics_section">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#covid_19_section -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#covid_19_section">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#diagnosis_section -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#diagnosis_section">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section">
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000171"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#duchenne_prom_questionnaire -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#duchenne_prom_questionnaire">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_questionnaire"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#gastrointestinal_section -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#gastrointestinal_section">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#heart_condition_section -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#heart_condition_section">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#learning_and_behavior_outcomes_section -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#learning_and_behavior_outcomes_section">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#nutrition_section -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#nutrition_section">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#pain_section -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#pain_section">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#physical_outcomes_section -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#physical_outcomes_section">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#problems_and_comorbidity_section -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#problems_and_comorbidity_section">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section"/>
+    </owl:Class>
     
 
 
     <!-- https://w3id.org/duchenne-proms#process -->
 
     <owl:Class rdf:about="https://w3id.org/duchenne-proms#process"/>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#prom_question -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#prom_question">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#questionnaire_question"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#prom_questionnaire -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#prom_questionnaire">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#questionnaire"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#questionnaire -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#questionnaire">
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000148"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#questionnaire_activities_section -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#questionnaire_activities_section">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#questionnaire_question -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#questionnaire_question">
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000171"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#respiratory_condition_section -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#respiratory_condition_section">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#technical_support_section -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#technical_support_section">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/duchenne-proms#urinary_tract_section -->
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#urinary_tract_section">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section"/>
+    </owl:Class>
 </rdf:RDF>
 
 
