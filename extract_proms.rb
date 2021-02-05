@@ -2,8 +2,8 @@ count = 1
 
 promlist = File.read('./proms_count.txt')
 promlist = promlist.split("\n")
-puts promlist.class
-puts promlist.first
+#puts promlist.class
+#puts promlist.first
 
 ordered = Hash.new
 promlist.sort.each do |prom|
@@ -27,7 +27,7 @@ ordered.each do |question|
   clause = %{
     <!-- https://w3id.org/duchenne-proms#DDP_#{number} -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_#{number}">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_#{number}">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">#{label}</rdfs:label>
             <dc:description xml:lang="en">#{question}</dc:description>

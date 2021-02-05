@@ -57,1052 +57,7 @@
     </owl:Class>
     
 
-
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0001 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0001">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">difSpelling</rdfs:label>
-            <dc:description xml:lang="en">1. Your son has difficulty with spelling</dc:description>
-            <dc:identifier>DDP_0001</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0002 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0002">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">simpleTask</rdfs:label>
-            <dc:description xml:lang="en">1. Can your son perform a simple task? (e.g. clean up something)</dc:description>
-            <dc:identifier>DDP_0002</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0003 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0003">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">complexTask</rdfs:label>
-            <dc:description xml:lang="en">2. Can your son perform a job consisting of several parts? (e.g. make a school assignment and get himself ready for school)</dc:description>
-            <dc:identifier>DDP_0003</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0004 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0004">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">diffLetters</rdfs:label>
-            <dc:description xml:lang="en">2. Your son has difficulty learning letters from names</dc:description>
-            <dc:identifier>DDP_0004</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0005 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0005">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">difPron</rdfs:label>
-            <dc:description xml:lang="en">3. Your son has difficulty pronouncing words</dc:description>
-            <dc:identifier>DDP_0005</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0006 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0006">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">listenStory</rdfs:label>
-            <dc:description xml:lang="en">3. Can your son listen attentively to a story?</dc:description>
-            <dc:identifier>DDP_0006</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0007 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0007">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">readSlow</rdfs:label>
-            <dc:description xml:lang="en">4. Your son reads slowly</dc:description>
-            <dc:identifier>DDP_0007</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0008 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0008">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">tellStory</rdfs:label>
-            <dc:description xml:lang="en">4. Can your son tell a coherent story himself?</dc:description>
-            <dc:identifier>DDP_0008</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0009 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0009">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">makeClear</rdfs:label>
-            <dc:description xml:lang="en">5. Can your son's words make clear to others what he wants?</dc:description>
-            <dc:identifier>DDP_0009</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0010 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0010">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">readLevel</rdfs:label>
-            <dc:description xml:lang="en">5. Your son reads at a lower level than expected</dc:description>
-            <dc:identifier>DDP_0010</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0011 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0011">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canRead</rdfs:label>
-            <dc:description xml:lang="en">6. Can your son read and understand a piece of text?</dc:description>
-            <dc:identifier>DDP_0011</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0012 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0012">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">extraHelp</rdfs:label>
-            <dc:description xml:lang="en">6. Your son gets extra help at school because of reading or spelling problems</dc:description>
-            <dc:identifier>DDP_0012</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0013 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0013">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">worseAtArith</rdfs:label>
-            <dc:description xml:lang="en">7. Your son gets worse grades for arithmetic than for reading and spelling</dc:description>
-            <dc:identifier>DDP_0013</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0014 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0014">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">writeSentence</rdfs:label>
-            <dc:description xml:lang="en">7. Can your son write a readable sentence of at least 5 words?</dc:description>
-            <dc:identifier>DDP_0014</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0015 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0015">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">mistakes</rdfs:label>
-            <dc:description xml:lang="en">8. Your son makes careless mistakes during arithmetic, such as adding where there is a minus sign</dc:description>
-            <dc:identifier>DDP_0015</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0016 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0016">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">typeSentence</rdfs:label>
-            <dc:description xml:lang="en">8. Can your son type a readable sentence of at least 5 words?</dc:description>
-            <dc:identifier>DDP_0016</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0017 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0017">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">arithConcept</rdfs:label>
-            <dc:description xml:lang="en">9. Your son has difficulty learning new arithmetic concepts such as tail division</dc:description>
-            <dc:identifier>DDP_0017</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0018 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0018">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">drawCross</rdfs:label>
-            <dc:description xml:lang="en">9. Can your son draw a cross? (2 lines that clearly intersect)</dc:description>
-            <dc:identifier>DDP_0018</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0019 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0019">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">difArith</rdfs:label>
-            <dc:description xml:lang="en">10. Your son has difficulty learning early arithmetic facts/calculation knowledge</dc:description>
-            <dc:identifier>DDP_0019</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0020 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0020">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">layToSit</rdfs:label>
-            <dc:description xml:lang="en">10. Can your son sit down from lying down?</dc:description>
-            <dc:identifier>DDP_0020</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0021 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0021">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">seatToStand</rdfs:label>
-            <dc:description xml:lang="en">11. Can your son stand from a seated position?</dc:description>
-            <dc:identifier>DDP_0021</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0022 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0022">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">troubSL</rdfs:label>
-            <dc:description xml:lang="en">11. Your son has trouble with storylines</dc:description>
-            <dc:identifier>DDP_0022</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0023 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0023">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">remInstr</rdfs:label>
-            <dc:description xml:lang="en">12. Your son has difficulty remembering multiple instructions at the same time</dc:description>
-            <dc:identifier>DDP_0023</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0024 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0024">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">standToSit</rdfs:label>
-            <dc:description xml:lang="en">12. Can your son sit down from a standing position?</dc:description>
-            <dc:identifier>DDP_0024</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0025 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0025">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">outBed</rdfs:label>
-            <dc:description xml:lang="en">13. Can your son get out of bed?</dc:description>
-            <dc:identifier>DDP_0025</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0026 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0026">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">troubRem</rdfs:label>
-            <dc:description xml:lang="en">13. Your son has trouble remembering where he put things</dc:description>
-            <dc:identifier>DDP_0026</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0027 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0027">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">difRhymes</rdfs:label>
-            <dc:description xml:lang="en">14. Your son has difficulty learning rhymes</dc:description>
-            <dc:identifier>DDP_0027</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0028 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0028">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">pickUp</rdfs:label>
-            <dc:description xml:lang="en">14. Can your son bend down and pick something up?</dc:description>
-            <dc:identifier>DDP_0028</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0029 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0029">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">difRec</rdfs:label>
-            <dc:description xml:lang="en">15. Your son has difficulty recounting a story</dc:description>
-            <dc:identifier>DDP_0029</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0030 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0030">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">getUp</rdfs:label>
-            <dc:description xml:lang="en">15. Can your son get up from a crouching position?</dc:description>
-            <dc:identifier>DDP_0030</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0031 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0031">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">bendKnee</rdfs:label>
-            <dc:description xml:lang="en">16. Can your son bend his knee?</dc:description>
-            <dc:identifier>DDP_0031</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0032 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0032">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">forgetful</rdfs:label>
-            <dc:description xml:lang="en">16. Your son is forgetful in daily activities</dc:description>
-            <dc:identifier>DDP_0032</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0033 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0033">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">adjust</rdfs:label>
-            <dc:description xml:lang="en">17. Your son adjusts easily when plans change</dc:description>
-            <dc:identifier>DDP_0033</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0034 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0034">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">changeSurface</rdfs:label>
-            <dc:description xml:lang="en">17. Can your son move from one surface to another while sitting?</dc:description>
-            <dc:identifier>DDP_0034</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0035 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0035">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">difOrg</rdfs:label>
-            <dc:description xml:lang="en">18. Your son has difficulty organizing and planning daily activities</dc:description>
-            <dc:identifier>DDP_0035</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0036 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0036">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">sitChair</rdfs:label>
-            <dc:description xml:lang="en">18. Can your son sit on a chair?</dc:description>
-            <dc:identifier>DDP_0036</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0037 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0037">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">getOnCar</rdfs:label>
-            <dc:description xml:lang="en">19. Can your son get in and out of a car?</dc:description>
-            <dc:identifier>DDP_0037</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0038 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0038">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">leaveTask</rdfs:label>
-            <dc:description xml:lang="en">19. Your son leaves tasks until last</dc:description>
-            <dc:identifier>DDP_0038</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0039 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0039">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">deskChaos</rdfs:label>
-            <dc:description xml:lang="en">20. His desk at school or at home is chaotic</dc:description>
-            <dc:identifier>DDP_0039</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0040 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0040">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">liftCup</rdfs:label>
-            <dc:description xml:lang="en">20. Can your son lift a cup/glass from a table?</dc:description>
-            <dc:identifier>DDP_0040</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0041 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0041">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">placeCup</rdfs:label>
-            <dc:description xml:lang="en">21. Can your son place a cup/glass on a table?</dc:description>
-            <dc:identifier>DDP_0041</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0042 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0042">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">putBackpack</rdfs:label>
-            <dc:description xml:lang="en">22. Can your son put on a backpack?</dc:description>
-            <dc:identifier>DDP_0042</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0043 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0043">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">hangCoat</rdfs:label>
-            <dc:description xml:lang="en">23. Can your son hang up a coat?</dc:description>
-            <dc:identifier>DDP_0043</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0044 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0044">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">liftObject</rdfs:label>
-            <dc:description xml:lang="en">24. Can your son lift a heavy object?</dc:description>
-            <dc:identifier>DDP_0044</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0045 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0045">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">carryHeavyObject</rdfs:label>
-            <dc:description xml:lang="en">25. Can your son carry and put down a heavy object?</dc:description>
-            <dc:identifier>DDP_0045</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0046 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0046">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">moveTable</rdfs:label>
-            <dc:description xml:lang="en">26. Can your son move a table with his hands?</dc:description>
-            <dc:identifier>DDP_0046</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0047 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0047">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">moveChair</rdfs:label>
-            <dc:description xml:lang="en">27. Can your son move a chair with his hands?</dc:description>
-            <dc:identifier>DDP_0047</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0048 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0048">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">catchObject</rdfs:label>
-            <dc:description xml:lang="en">28. Can your son catch an object (e.g. a ball)?</dc:description>
-            <dc:identifier>DDP_0048</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0049 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0049">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">throwObject</rdfs:label>
-            <dc:description xml:lang="en">29. Can your son throw an object (e.g., a ball)?</dc:description>
-            <dc:identifier>DDP_0049</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0050 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0050">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">kickBall</rdfs:label>
-            <dc:description xml:lang="en">30. Can your son kick away a ball?</dc:description>
-            <dc:identifier>DDP_0050</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0051 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0051">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">pickUp</rdfs:label>
-            <dc:description xml:lang="en">31. Can your son pick up a small object (for example, a coin)?</dc:description>
-            <dc:identifier>DDP_0051</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0052 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0052">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">openCloseDoor</rdfs:label>
-            <dc:description xml:lang="en">32. Can your son open and close a door? (A remote control may not be used)</dc:description>
-            <dc:identifier>DDP_0052</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0053 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0053">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">closeLock</rdfs:label>
-            <dc:description xml:lang="en">33. Can your son close a lock?</dc:description>
-            <dc:identifier>DDP_0053</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0054 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0054">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">openDoorKey</rdfs:label>
-            <dc:description xml:lang="en">34. Can your son open a door with a key?</dc:description>
-            <dc:identifier>DDP_0054</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0055 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0055">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">pressPedal</rdfs:label>
-            <dc:description xml:lang="en">35. Can your son press a pedal with his foot?</dc:description>
-            <dc:identifier>DDP_0055</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0056 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0056">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canWashBody</rdfs:label>
-            <dc:description xml:lang="en">36. Can your son wash his body?</dc:description>
-            <dc:identifier>DDP_0056</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0057 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0057">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canWashFace</rdfs:label>
-            <dc:description xml:lang="en">37. Can your son wash his face?</dc:description>
-            <dc:identifier>DDP_0057</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0058 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0058">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canDryBody</rdfs:label>
-            <dc:description xml:lang="en">38. Can your son dry his body?</dc:description>
-            <dc:identifier>DDP_0058</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0059 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0059">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canBrushTeeth</rdfs:label>
-            <dc:description xml:lang="en">39. Can your son brush his teeth?</dc:description>
-            <dc:identifier>DDP_0059</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0060 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0060">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canToilet</rdfs:label>
-            <dc:description xml:lang="en">40. Can your son go to the toilet (by this we don't mean to pee in a bottle, but actually sit on the toilet)?</dc:description>
-            <dc:identifier>DDP_0060</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0061 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0061">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canComb</rdfs:label>
-            <dc:description xml:lang="en">41. Can your son comb his hair?</dc:description>
-            <dc:identifier>DDP_0061</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0062 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0062">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canPutTrousers</rdfs:label>
-            <dc:description xml:lang="en">42. Can your son put on his trousers?</dc:description>
-            <dc:identifier>DDP_0062</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0063 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0063">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canPutTsh</rdfs:label>
-            <dc:description xml:lang="en">43. Can your son put on his t-shirt?</dc:description>
-            <dc:identifier>DDP_0063</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0064 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0064">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">putShoes</rdfs:label>
-            <dc:description xml:lang="en">44. Can your son put his shoes on?</dc:description>
-            <dc:identifier>DDP_0064</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0065 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0065">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canEat</rdfs:label>
-            <dc:description xml:lang="en">45. Can your son eat well with a knife, fork and spoon?</dc:description>
-            <dc:identifier>DDP_0065</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0066 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0066">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canSandw</rdfs:label>
-            <dc:description xml:lang="en">46. Can your son prepare a sandwich?</dc:description>
-            <dc:identifier>DDP_0066</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0067 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0067">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canDrink</rdfs:label>
-            <dc:description xml:lang="en">47. Can your son drink on his own?</dc:description>
-            <dc:identifier>DDP_0067</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0068 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0068">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canAvoidRisk</rdfs:label>
-            <dc:description xml:lang="en">48. Can your son avoid risks that could lead to physical injury or damage (e.g. not just cross the road without looking or lighting a fire where it is not allowed)?</dc:description>
-            <dc:identifier>DDP_0068</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0069 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0069">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">understBL</rdfs:label>
-            <dc:description xml:lang="en">49. Can your son understand other people's body language? (e.g., understand that a person is angry when that person looks angry or his hands ball up into fists)</dc:description>
-            <dc:identifier>DDP_0069</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0070 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0070">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">otherFeel</rdfs:label>
-            <dc:description xml:lang="en">50. Can your son take other people's feelings into account?</dc:description>
-            <dc:identifier>DDP_0070</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0071 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0071">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">speakToStrangers</rdfs:label>
-            <dc:description xml:lang="en">51. Does your son dare to speak to strangers? (e.g. to ask for directions)</dc:description>
-            <dc:identifier>DDP_0071</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0072 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0072">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canCope</rdfs:label>
-            <dc:description xml:lang="en">52. Can your son cope well with most teachers and therapists?</dc:description>
-            <dc:identifier>DDP_0072</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0073 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0073">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">relationships</rdfs:label>
-            <dc:description xml:lang="en">53. Can your son establish and maintain relationships with friends?</dc:description>
-            <dc:identifier>DDP_0073</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0074 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0074">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">copeFamily</rdfs:label>
-            <dc:description xml:lang="en">54. Can your son cope well with his parents and, if there are any, siblings?</dc:description>
-            <dc:identifier>DDP_0074</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0075 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0075">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canWait</rdfs:label>
-            <dc:description xml:lang="en">55. Can your son well wait his turn?</dc:description>
-            <dc:identifier>DDP_0075</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0076 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0076">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canConcentrate</rdfs:label>
-            <dc:description xml:lang="en">56. Can your son concentrate well?</dc:description>
-            <dc:identifier>DDP_0076</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0077 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0077">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">goSchool</rdfs:label>
-            <dc:description xml:lang="en">57. Can your son go to school?</dc:description>
-            <dc:identifier>DDP_0077</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0078 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0078">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canPlay</rdfs:label>
-            <dc:description xml:lang="en">58. Can your son play games or work at the computer?</dc:description>
-            <dc:identifier>DDP_0078</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0079 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0079">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canEngage</rdfs:label>
-            <dc:description xml:lang="en">59. Can your son engage himself in a game or hobby?</dc:description>
-            <dc:identifier>DDP_0079</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0080 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0080">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">takeSports</rdfs:label>
-            <dc:description xml:lang="en">60. Can your son take part in a sports activity? This may also be an adapted sport</dc:description>
-            <dc:identifier>DDP_0080</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0081 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0081">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">sleepWell</rdfs:label>
-            <dc:description xml:lang="en">61. Does your son fall asleep easily (this is allowed with night respiration, if your son has one)?</dc:description>
-            <dc:identifier>DDP_0081</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0082 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0082">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canStand</rdfs:label>
-            <dc:description xml:lang="en">63. Can your son (possibly with difficulty) stand?</dc:description>
-            <dc:identifier>DDP_0082</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0083 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0083">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">standShortTime</rdfs:label>
-            <dc:description xml:lang="en">64. Can your son stand for a short time (max 15 min)?</dc:description>
-            <dc:identifier>DDP_0083</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0084 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0084">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">standLongTime</rdfs:label>
-            <dc:description xml:lang="en">65. Can your son stand for a long time (several hours)? </dc:description>
-            <dc:identifier>DDP_0084</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0085 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0085">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">standLeg</rdfs:label>
-            <dc:description xml:lang="en">66. Can your son stand on one leg for at least 5 seconds?</dc:description>
-            <dc:identifier>DDP_0085</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0086 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0086">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canCycle</rdfs:label>
-            <dc:description xml:lang="en">67. Can your son ride a bicycle?</dc:description>
-            <dc:identifier>DDP_0086</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0087 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0087">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canWalk</rdfs:label>
-            <dc:description xml:lang="en">68. Can your son (possibly with difficulty) walk?</dc:description>
-            <dc:identifier>DDP_0087</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0088 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0088">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">moveOnFoot</rdfs:label>
-            <dc:description xml:lang="en">69. Can your son move from one room to another on foot?</dc:description>
-            <dc:identifier>DDP_0088</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0089 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0089">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">climbLadder</rdfs:label>
-            <dc:description xml:lang="en">70. Can your son climb a ladder?</dc:description>
-            <dc:identifier>DDP_0089</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0090 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0090">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">walkOut</rdfs:label>
-            <dc:description xml:lang="en">71. Can your son walk outside: up to a maximum of 100 m?</dc:description>
-            <dc:identifier>DDP_0090</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0091 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0091">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">walkFlat</rdfs:label>
-            <dc:description xml:lang="en">72. Can your son walk on a level (flat) surface?</dc:description>
-            <dc:identifier>DDP_0091</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0092 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0092">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">walkUneven</rdfs:label>
-            <dc:description xml:lang="en">73. Can your son walk on uneven (rough/bumpy) ground? </dc:description>
-            <dc:identifier>DDP_0092</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0093 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0093">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">walkNoBump</rdfs:label>
-            <dc:description xml:lang="en">74. Can your son walk without bumping into anything (e.g. can walk at the market or in a shop, in traffic or other crowded places without bumping into anything)?</dc:description>
-            <dc:identifier>DDP_0093</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0094 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0094">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canRun</rdfs:label>
-            <dc:description xml:lang="en">75. Can your son run?</dc:description>
-            <dc:identifier>DDP_0094</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_0095 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_0095">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">canJump</rdfs:label>
-            <dc:description xml:lang="en">76. Can your son jump?</dc:description>
-            <dc:identifier>DDP_0095</dc:identifier>
-        </owl:Class>
-        
-        
+   
     
 
 
@@ -1245,6 +200,1059 @@
     <owl:Class rdf:about="https://w3id.org/duchenne-proms#urinary_tract_section">
         <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section"/>
     </owl:Class>
+    
+    
+    
+        <!-- https://w3id.org/duchenne-proms#DDP_0001 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0001">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">difSpelling</rdfs:label>
+            <dc:description xml:lang="en">1. Your son has difficulty with spelling</dc:description>
+            <dc:identifier>DDP_0001</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0002 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0002">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">simpleTask</rdfs:label>
+            <dc:description xml:lang="en">1. Can your son perform a simple task? (e.g. clean up something)</dc:description>
+            <dc:identifier>DDP_0002</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0003 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0003">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">complexTask</rdfs:label>
+            <dc:description xml:lang="en">2. Can your son perform a job consisting of several parts? (e.g. make a school assignment and get himself ready for school)</dc:description>
+            <dc:identifier>DDP_0003</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0004 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0004">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">diffLetters</rdfs:label>
+            <dc:description xml:lang="en">2. Your son has difficulty learning letters from names</dc:description>
+            <dc:identifier>DDP_0004</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0005 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0005">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">difPron</rdfs:label>
+            <dc:description xml:lang="en">3. Your son has difficulty pronouncing words</dc:description>
+            <dc:identifier>DDP_0005</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0006 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0006">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">listenStory</rdfs:label>
+            <dc:description xml:lang="en">3. Can your son listen attentively to a story?</dc:description>
+            <dc:identifier>DDP_0006</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0007 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0007">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">readSlow</rdfs:label>
+            <dc:description xml:lang="en">4. Your son reads slowly</dc:description>
+            <dc:identifier>DDP_0007</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0008 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0008">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">tellStory</rdfs:label>
+            <dc:description xml:lang="en">4. Can your son tell a coherent story himself?</dc:description>
+            <dc:identifier>DDP_0008</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0009 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0009">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">makeClear</rdfs:label>
+            <dc:description xml:lang="en">5. Can your son's words make clear to others what he wants?</dc:description>
+            <dc:identifier>DDP_0009</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0010 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0010">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">readLevel</rdfs:label>
+            <dc:description xml:lang="en">5. Your son reads at a lower level than expected</dc:description>
+            <dc:identifier>DDP_0010</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0011 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0011">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canRead</rdfs:label>
+            <dc:description xml:lang="en">6. Can your son read and understand a piece of text?</dc:description>
+            <dc:identifier>DDP_0011</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0012 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0012">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">extraHelp</rdfs:label>
+            <dc:description xml:lang="en">6. Your son gets extra help at school because of reading or spelling problems</dc:description>
+            <dc:identifier>DDP_0012</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0013 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0013">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">worseAtArith</rdfs:label>
+            <dc:description xml:lang="en">7. Your son gets worse grades for arithmetic than for reading and spelling</dc:description>
+            <dc:identifier>DDP_0013</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0014 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0014">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">writeSentence</rdfs:label>
+            <dc:description xml:lang="en">7. Can your son write a readable sentence of at least 5 words?</dc:description>
+            <dc:identifier>DDP_0014</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0015 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0015">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">mistakes</rdfs:label>
+            <dc:description xml:lang="en">8. Your son makes careless mistakes during arithmetic, such as adding where there is a minus sign</dc:description>
+            <dc:identifier>DDP_0015</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0016 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0016">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">typeSentence</rdfs:label>
+            <dc:description xml:lang="en">8. Can your son type a readable sentence of at least 5 words?</dc:description>
+            <dc:identifier>DDP_0016</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0017 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0017">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">arithConcept</rdfs:label>
+            <dc:description xml:lang="en">9. Your son has difficulty learning new arithmetic concepts such as tail division</dc:description>
+            <dc:identifier>DDP_0017</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0018 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0018">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">drawCross</rdfs:label>
+            <dc:description xml:lang="en">9. Can your son draw a cross? (2 lines that clearly intersect)</dc:description>
+            <dc:identifier>DDP_0018</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0019 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0019">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">difArith</rdfs:label>
+            <dc:description xml:lang="en">10. Your son has difficulty learning early arithmetic facts/calculation knowledge</dc:description>
+            <dc:identifier>DDP_0019</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0020 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0020">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">layToSit</rdfs:label>
+            <dc:description xml:lang="en">10. Can your son sit down from lying down?</dc:description>
+            <dc:identifier>DDP_0020</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0021 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0021">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">seatToStand</rdfs:label>
+            <dc:description xml:lang="en">11. Can your son stand from a seated position?</dc:description>
+            <dc:identifier>DDP_0021</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0022 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0022">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">troubSL</rdfs:label>
+            <dc:description xml:lang="en">11. Your son has trouble with storylines</dc:description>
+            <dc:identifier>DDP_0022</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0023 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0023">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">remInstr</rdfs:label>
+            <dc:description xml:lang="en">12. Your son has difficulty remembering multiple instructions at the same time</dc:description>
+            <dc:identifier>DDP_0023</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0024 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0024">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">standToSit</rdfs:label>
+            <dc:description xml:lang="en">12. Can your son sit down from a standing position?</dc:description>
+            <dc:identifier>DDP_0024</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0025 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0025">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">outBed</rdfs:label>
+            <dc:description xml:lang="en">13. Can your son get out of bed?</dc:description>
+            <dc:identifier>DDP_0025</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0026 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0026">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">troubRem</rdfs:label>
+            <dc:description xml:lang="en">13. Your son has trouble remembering where he put things</dc:description>
+            <dc:identifier>DDP_0026</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0027 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0027">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">difRhymes</rdfs:label>
+            <dc:description xml:lang="en">14. Your son has difficulty learning rhymes</dc:description>
+            <dc:identifier>DDP_0027</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0028 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0028">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">pickUp</rdfs:label>
+            <dc:description xml:lang="en">14. Can your son bend down and pick something up?</dc:description>
+            <dc:identifier>DDP_0028</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0029 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0029">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">difRec</rdfs:label>
+            <dc:description xml:lang="en">15. Your son has difficulty recounting a story</dc:description>
+            <dc:identifier>DDP_0029</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0030 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0030">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">getUp</rdfs:label>
+            <dc:description xml:lang="en">15. Can your son get up from a crouching position?</dc:description>
+            <dc:identifier>DDP_0030</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0031 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0031">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">bendKnee</rdfs:label>
+            <dc:description xml:lang="en">16. Can your son bend his knee?</dc:description>
+            <dc:identifier>DDP_0031</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0032 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0032">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">forgetful</rdfs:label>
+            <dc:description xml:lang="en">16. Your son is forgetful in daily activities</dc:description>
+            <dc:identifier>DDP_0032</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0033 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0033">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">adjust</rdfs:label>
+            <dc:description xml:lang="en">17. Your son adjusts easily when plans change</dc:description>
+            <dc:identifier>DDP_0033</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0034 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0034">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">changeSurface</rdfs:label>
+            <dc:description xml:lang="en">17. Can your son move from one surface to another while sitting?</dc:description>
+            <dc:identifier>DDP_0034</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0035 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0035">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">difOrg</rdfs:label>
+            <dc:description xml:lang="en">18. Your son has difficulty organizing and planning daily activities</dc:description>
+            <dc:identifier>DDP_0035</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0036 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0036">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">sitChair</rdfs:label>
+            <dc:description xml:lang="en">18. Can your son sit on a chair?</dc:description>
+            <dc:identifier>DDP_0036</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0037 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0037">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">getOnCar</rdfs:label>
+            <dc:description xml:lang="en">19. Can your son get in and out of a car?</dc:description>
+            <dc:identifier>DDP_0037</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0038 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0038">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">leaveTask</rdfs:label>
+            <dc:description xml:lang="en">19. Your son leaves tasks until last</dc:description>
+            <dc:identifier>DDP_0038</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0039 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0039">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">deskChaos</rdfs:label>
+            <dc:description xml:lang="en">20. His desk at school or at home is chaotic</dc:description>
+            <dc:identifier>DDP_0039</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0040 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0040">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">liftCup</rdfs:label>
+            <dc:description xml:lang="en">20. Can your son lift a cup/glass from a table?</dc:description>
+            <dc:identifier>DDP_0040</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0041 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0041">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">placeCup</rdfs:label>
+            <dc:description xml:lang="en">21. Can your son place a cup/glass on a table?</dc:description>
+            <dc:identifier>DDP_0041</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0042 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0042">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">putBackpack</rdfs:label>
+            <dc:description xml:lang="en">22. Can your son put on a backpack?</dc:description>
+            <dc:identifier>DDP_0042</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0043 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0043">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">hangCoat</rdfs:label>
+            <dc:description xml:lang="en">23. Can your son hang up a coat?</dc:description>
+            <dc:identifier>DDP_0043</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0044 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0044">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">liftObject</rdfs:label>
+            <dc:description xml:lang="en">24. Can your son lift a heavy object?</dc:description>
+            <dc:identifier>DDP_0044</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0045 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0045">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">carryHeavyObject</rdfs:label>
+            <dc:description xml:lang="en">25. Can your son carry and put down a heavy object?</dc:description>
+            <dc:identifier>DDP_0045</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0046 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0046">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">moveTable</rdfs:label>
+            <dc:description xml:lang="en">26. Can your son move a table with his hands?</dc:description>
+            <dc:identifier>DDP_0046</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0047 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0047">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">moveChair</rdfs:label>
+            <dc:description xml:lang="en">27. Can your son move a chair with his hands?</dc:description>
+            <dc:identifier>DDP_0047</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0048 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0048">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">catchObject</rdfs:label>
+            <dc:description xml:lang="en">28. Can your son catch an object (e.g. a ball)?</dc:description>
+            <dc:identifier>DDP_0048</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0049 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0049">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">throwObject</rdfs:label>
+            <dc:description xml:lang="en">29. Can your son throw an object (e.g., a ball)?</dc:description>
+            <dc:identifier>DDP_0049</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0050 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0050">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">kickBall</rdfs:label>
+            <dc:description xml:lang="en">30. Can your son kick away a ball?</dc:description>
+            <dc:identifier>DDP_0050</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0051 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0051">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">pickUp</rdfs:label>
+            <dc:description xml:lang="en">31. Can your son pick up a small object (for example, a coin)?</dc:description>
+            <dc:identifier>DDP_0051</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0052 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0052">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">openCloseDoor</rdfs:label>
+            <dc:description xml:lang="en">32. Can your son open and close a door? (A remote control may not be used)</dc:description>
+            <dc:identifier>DDP_0052</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0053 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0053">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">closeLock</rdfs:label>
+            <dc:description xml:lang="en">33. Can your son close a lock?</dc:description>
+            <dc:identifier>DDP_0053</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0054 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0054">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">openDoorKey</rdfs:label>
+            <dc:description xml:lang="en">34. Can your son open a door with a key?</dc:description>
+            <dc:identifier>DDP_0054</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0055 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0055">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">pressPedal</rdfs:label>
+            <dc:description xml:lang="en">35. Can your son press a pedal with his foot?</dc:description>
+            <dc:identifier>DDP_0055</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0056 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0056">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canWashBody</rdfs:label>
+            <dc:description xml:lang="en">36. Can your son wash his body?</dc:description>
+            <dc:identifier>DDP_0056</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0057 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0057">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canWashFace</rdfs:label>
+            <dc:description xml:lang="en">37. Can your son wash his face?</dc:description>
+            <dc:identifier>DDP_0057</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0058 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0058">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canDryBody</rdfs:label>
+            <dc:description xml:lang="en">38. Can your son dry his body?</dc:description>
+            <dc:identifier>DDP_0058</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0059 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0059">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canBrushTeeth</rdfs:label>
+            <dc:description xml:lang="en">39. Can your son brush his teeth?</dc:description>
+            <dc:identifier>DDP_0059</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0060 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0060">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canToilet</rdfs:label>
+            <dc:description xml:lang="en">40. Can your son go to the toilet (by this we don't mean to pee in a bottle, but actually sit on the toilet)?</dc:description>
+            <dc:identifier>DDP_0060</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0061 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0061">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canComb</rdfs:label>
+            <dc:description xml:lang="en">41. Can your son comb his hair?</dc:description>
+            <dc:identifier>DDP_0061</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0062 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0062">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canPutTrousers</rdfs:label>
+            <dc:description xml:lang="en">42. Can your son put on his trousers?</dc:description>
+            <dc:identifier>DDP_0062</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0063 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0063">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canPutTsh</rdfs:label>
+            <dc:description xml:lang="en">43. Can your son put on his t-shirt?</dc:description>
+            <dc:identifier>DDP_0063</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0064 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0064">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">putShoes</rdfs:label>
+            <dc:description xml:lang="en">44. Can your son put his shoes on?</dc:description>
+            <dc:identifier>DDP_0064</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0065 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0065">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canEat</rdfs:label>
+            <dc:description xml:lang="en">45. Can your son eat well with a knife, fork and spoon?</dc:description>
+            <dc:identifier>DDP_0065</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0066 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0066">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canSandw</rdfs:label>
+            <dc:description xml:lang="en">46. Can your son prepare a sandwich?</dc:description>
+            <dc:identifier>DDP_0066</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0067 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0067">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canDrink</rdfs:label>
+            <dc:description xml:lang="en">47. Can your son drink on his own?</dc:description>
+            <dc:identifier>DDP_0067</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0068 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0068">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canAvoidRisk</rdfs:label>
+            <dc:description xml:lang="en">48. Can your son avoid risks that could lead to physical injury or damage (e.g. not just cross the road without looking or lighting a fire where it is not allowed)?</dc:description>
+            <dc:identifier>DDP_0068</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0069 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0069">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">understBL</rdfs:label>
+            <dc:description xml:lang="en">49. Can your son understand other people's body language? (e.g., understand that a person is angry when that person looks angry or his hands ball up into fists)</dc:description>
+            <dc:identifier>DDP_0069</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0070 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0070">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">otherFeel</rdfs:label>
+            <dc:description xml:lang="en">50. Can your son take other people's feelings into account?</dc:description>
+            <dc:identifier>DDP_0070</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0071 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0071">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">speakToStrangers</rdfs:label>
+            <dc:description xml:lang="en">51. Does your son dare to speak to strangers? (e.g. to ask for directions)</dc:description>
+            <dc:identifier>DDP_0071</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0072 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0072">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canCope</rdfs:label>
+            <dc:description xml:lang="en">52. Can your son cope well with most teachers and therapists?</dc:description>
+            <dc:identifier>DDP_0072</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0073 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0073">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">relationships</rdfs:label>
+            <dc:description xml:lang="en">53. Can your son establish and maintain relationships with friends?</dc:description>
+            <dc:identifier>DDP_0073</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0074 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0074">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">copeFamily</rdfs:label>
+            <dc:description xml:lang="en">54. Can your son cope well with his parents and, if there are any, siblings?</dc:description>
+            <dc:identifier>DDP_0074</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0075 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0075">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canWait</rdfs:label>
+            <dc:description xml:lang="en">55. Can your son well wait his turn?</dc:description>
+            <dc:identifier>DDP_0075</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0076 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0076">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canConcentrate</rdfs:label>
+            <dc:description xml:lang="en">56. Can your son concentrate well?</dc:description>
+            <dc:identifier>DDP_0076</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0077 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0077">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">goSchool</rdfs:label>
+            <dc:description xml:lang="en">57. Can your son go to school?</dc:description>
+            <dc:identifier>DDP_0077</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0078 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0078">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canPlay</rdfs:label>
+            <dc:description xml:lang="en">58. Can your son play games or work at the computer?</dc:description>
+            <dc:identifier>DDP_0078</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0079 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0079">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canEngage</rdfs:label>
+            <dc:description xml:lang="en">59. Can your son engage himself in a game or hobby?</dc:description>
+            <dc:identifier>DDP_0079</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0080 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0080">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">takeSports</rdfs:label>
+            <dc:description xml:lang="en">60. Can your son take part in a sports activity? This may also be an adapted sport</dc:description>
+            <dc:identifier>DDP_0080</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0081 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0081">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">sleepWell</rdfs:label>
+            <dc:description xml:lang="en">61. Does your son fall asleep easily (this is allowed with night respiration, if your son has one)?</dc:description>
+            <dc:identifier>DDP_0081</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0082 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0082">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canStand</rdfs:label>
+            <dc:description xml:lang="en">63. Can your son (possibly with difficulty) stand?</dc:description>
+            <dc:identifier>DDP_0082</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0083 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0083">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">standShortTime</rdfs:label>
+            <dc:description xml:lang="en">64. Can your son stand for a short time (max 15 min)?</dc:description>
+            <dc:identifier>DDP_0083</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0084 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0084">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">standLongTime</rdfs:label>
+            <dc:description xml:lang="en">65. Can your son stand for a long time (several hours)? </dc:description>
+            <dc:identifier>DDP_0084</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0085 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0085">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">standLeg</rdfs:label>
+            <dc:description xml:lang="en">66. Can your son stand on one leg for at least 5 seconds?</dc:description>
+            <dc:identifier>DDP_0085</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0086 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0086">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canCycle</rdfs:label>
+            <dc:description xml:lang="en">67. Can your son ride a bicycle?</dc:description>
+            <dc:identifier>DDP_0086</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0087 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0087">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canWalk</rdfs:label>
+            <dc:description xml:lang="en">68. Can your son (possibly with difficulty) walk?</dc:description>
+            <dc:identifier>DDP_0087</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0088 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0088">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">moveOnFoot</rdfs:label>
+            <dc:description xml:lang="en">69. Can your son move from one room to another on foot?</dc:description>
+            <dc:identifier>DDP_0088</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0089 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0089">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">climbLadder</rdfs:label>
+            <dc:description xml:lang="en">70. Can your son climb a ladder?</dc:description>
+            <dc:identifier>DDP_0089</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0090 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0090">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">walkOut</rdfs:label>
+            <dc:description xml:lang="en">71. Can your son walk outside: up to a maximum of 100 m?</dc:description>
+            <dc:identifier>DDP_0090</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0091 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0091">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">walkFlat</rdfs:label>
+            <dc:description xml:lang="en">72. Can your son walk on a level (flat) surface?</dc:description>
+            <dc:identifier>DDP_0091</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0092 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0092">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">walkUneven</rdfs:label>
+            <dc:description xml:lang="en">73. Can your son walk on uneven (rough/bumpy) ground? </dc:description>
+            <dc:identifier>DDP_0092</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0093 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0093">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">walkNoBump</rdfs:label>
+            <dc:description xml:lang="en">74. Can your son walk without bumping into anything (e.g. can walk at the market or in a shop, in traffic or other crowded places without bumping into anything)?</dc:description>
+            <dc:identifier>DDP_0093</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0094 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0094">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canRun</rdfs:label>
+            <dc:description xml:lang="en">75. Can your son run?</dc:description>
+            <dc:identifier>DDP_0094</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_0095 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_0095">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">canJump</rdfs:label>
+            <dc:description xml:lang="en">76. Can your son jump?</dc:description>
+            <dc:identifier>DDP_0095</dc:identifier>
+        </owl:Class>
+        
+        
+
+    
+    
+    
+    
+    
 </rdf:RDF>
 
 
