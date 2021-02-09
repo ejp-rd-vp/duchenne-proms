@@ -1,0 +1,67 @@
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00001 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00001">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Fracture</rdfs:label>
+            <dc:description xml:lang="en">Fracture</dc:description>
+            <dc:identifier>DDP_00001</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00002 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00002">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Other</rdfs:label>
+            <dc:description xml:lang="en">Other</dc:description>
+            <dc:identifier>DDP_00002</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00003 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00003">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Splint type</rdfs:label>
+            <dc:description xml:lang="en">Splint type</dc:description>
+            <dc:identifier>DDP_00003</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#bone_health_section">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
+                <owl:someValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00001"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00002"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00003"/>
+
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
+                <owl:allValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00001"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00002"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00003"/>
+
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:allValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000171"/>
+    </owl:Class>

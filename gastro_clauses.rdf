@@ -1,0 +1,119 @@
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00047 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00047">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Bloated feeling</rdfs:label>
+            <dc:description xml:lang="en">Bloated feeling</dc:description>
+            <dc:identifier>DDP_00047</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00048 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00048">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Constipation</rdfs:label>
+            <dc:description xml:lang="en">Constipation</dc:description>
+            <dc:identifier>DDP_00048</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00049 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00049">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Diarrhea</rdfs:label>
+            <dc:description xml:lang="en">Diarrhea</dc:description>
+            <dc:identifier>DDP_00049</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00050 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00050">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">None</rdfs:label>
+            <dc:description xml:lang="en">None</dc:description>
+            <dc:identifier>DDP_00050</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00051 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00051">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Not clean for stool</rdfs:label>
+            <dc:description xml:lang="en">Not clean for stool</dc:description>
+            <dc:identifier>DDP_00051</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00052 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00052">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">PEG or tube feeding</rdfs:label>
+            <dc:description xml:lang="en">PEG or tube feeding</dc:description>
+            <dc:identifier>DDP_00052</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00053 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00053">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Reflux (heartburn)</rdfs:label>
+            <dc:description xml:lang="en">Reflux (heartburn)</dc:description>
+            <dc:identifier>DDP_00053</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#gastrointestinal_section">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
+                <owl:someValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00047"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00048"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00049"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00050"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00051"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00052"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00053"/>
+
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
+                <owl:allValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00047"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00048"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00049"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00050"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00051"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00052"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00053"/>
+
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:allValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000171"/>
+    </owl:Class>

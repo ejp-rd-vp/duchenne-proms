@@ -1,0 +1,119 @@
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00097 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00097">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Hours</rdfs:label>
+            <dc:description xml:lang="en">Hours</dc:description>
+            <dc:identifier>DDP_00097</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00098 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00098">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Night ventilation (Bipap)</rdfs:label>
+            <dc:description xml:lang="en">Night ventilation (Bipap)</dc:description>
+            <dc:identifier>DDP_00098</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00099 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00099">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Options Ventilation needed during most of the day</rdfs:label>
+            <dc:description xml:lang="en">Options</dc:description>
+            <dc:identifier>DDP_00099</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00100 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00100">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Pregunta</rdfs:label>
+            <dc:description xml:lang="en">Do you have information about your respiratory condition?</dc:description>
+            <dc:identifier>DDP_00100</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00101 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00101">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Since cpap</rdfs:label>
+            <dc:description xml:lang="en">Since</dc:description>
+            <dc:identifier>DDP_00101</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00102 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00102">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Use a Cpap ventilator</rdfs:label>
+            <dc:description xml:lang="en">Use a Cpap ventilator for snoring or sleep apneu</dc:description>
+            <dc:identifier>DDP_00102</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00103 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00103">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Ventilation needed during most of the day</rdfs:label>
+            <dc:description xml:lang="en">Ventilation needed during most of the day</dc:description>
+            <dc:identifier>DDP_00103</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#respiratory_section">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
+                <owl:someValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00097"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00098"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00099"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00100"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00101"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00102"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00103"/>
+
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
+                <owl:allValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00097"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00098"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00099"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00100"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00101"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00102"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00103"/>
+
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:allValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000171"/>
+    </owl:Class>

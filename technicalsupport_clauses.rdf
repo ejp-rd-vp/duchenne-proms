@@ -1,0 +1,210 @@
+
+    <!-- https://w3id.org/duchenne-proms#DDP_                                           1 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_                                           1">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Arm support</rdfs:label>
+            <dc:description xml:lang="en">Arm support</dc:description>
+            <dc:identifier>DDP_                                           1</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_                                           2 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_                                           2">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Brand</rdfs:label>
+            <dc:description xml:lang="en">Brand</dc:description>
+            <dc:identifier>DDP_                                           2</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_                                           3 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_                                           3">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Custom controller (gaming)</rdfs:label>
+            <dc:description xml:lang="en">Custom controller (gaming)</dc:description>
+            <dc:identifier>DDP_                                           3</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_                                           4 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_                                           4">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Custom mouse</rdfs:label>
+            <dc:description xml:lang="en">Custom mouse</dc:description>
+            <dc:identifier>DDP_                                           4</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_                                           5 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_                                           5">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Eye tracking</rdfs:label>
+            <dc:description xml:lang="en">Eye tracking</dc:description>
+            <dc:identifier>DDP_                                           5</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_                                           6 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_                                           6">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Home automation (environmental control)</rdfs:label>
+            <dc:description xml:lang="en">Home automation (environmental control)</dc:description>
+            <dc:identifier>DDP_                                           6</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_                                           7 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_                                           7">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">How often do you use your arm support?</rdfs:label>
+            <dc:description xml:lang="en">How often do you use your arm support?</dc:description>
+            <dc:identifier>DDP_                                           7</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_                                           8 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_                                           8">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Other text</rdfs:label>
+            <dc:description xml:lang="en">Say other</dc:description>
+            <dc:identifier>DDP_                                           8</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_                                           9 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_                                           9">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Other </rdfs:label>
+            <dc:description xml:lang="en">Other </dc:description>
+            <dc:identifier>DDP_                                           9</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_                                          10 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_                                          10">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Others</rdfs:label>
+            <dc:description xml:lang="en">Others</dc:description>
+            <dc:identifier>DDP_                                          10</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_                                          11 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_                                          11">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Pregunta</rdfs:label>
+            <dc:description xml:lang="en">Are you using any technical support?</dc:description>
+            <dc:identifier>DDP_                                          11</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_                                          12 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_                                          12">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Speech</rdfs:label>
+            <dc:description xml:lang="en">Speech</dc:description>
+            <dc:identifier>DDP_                                          12</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_                                          13 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_                                          13">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Support</rdfs:label>
+            <dc:description xml:lang="en">Support</dc:description>
+            <dc:identifier>DDP_                                          13</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_                                          14 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_                                          14">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Type of arm support</rdfs:label>
+            <dc:description xml:lang="en">Type of arm support</dc:description>
+            <dc:identifier>DDP_                                          14</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#technical_support_section">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
+                <owl:someValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                           1"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                           2"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                           3"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                           4"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                           5"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                           6"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                           7"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                           8"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                           9"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                          10"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                          11"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                          12"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                          13"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                          14"/>
+
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
+                <owl:allValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                           1"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                           2"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                           3"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                           4"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                           5"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                           6"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                           7"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                           8"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                           9"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                          10"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                          11"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                          12"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                          13"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_                                          14"/>
+
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:allValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000171"/>
+    </owl:Class>

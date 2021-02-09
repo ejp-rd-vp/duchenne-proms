@@ -1,0 +1,106 @@
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00054 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00054">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">At age 1</rdfs:label>
+            <dc:description xml:lang="en">At age</dc:description>
+            <dc:identifier>DDP_00054</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00055 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00055">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">I don’t know</rdfs:label>
+            <dc:description xml:lang="en">I don’t know</dc:description>
+            <dc:identifier>DDP_00055</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00056 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00056">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Use of pacemaker / ICD</rdfs:label>
+            <dc:description xml:lang="en">Use of pacemaker / ICD</dc:description>
+            <dc:identifier>DDP_00056</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00057 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00057">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Yes, not further specified</rdfs:label>
+            <dc:description xml:lang="en">Yes, not further specified</dc:description>
+            <dc:identifier>DDP_00057</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00058 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00058">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Yes, with arrhythmia or conduction block</rdfs:label>
+            <dc:description xml:lang="en">Yes, with arrhythmia or conduction block</dc:description>
+            <dc:identifier>DDP_00058</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00059 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00059">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Yes, with cardiomyopathy</rdfs:label>
+            <dc:description xml:lang="en">Yes, with cardiomyopathy</dc:description>
+            <dc:identifier>DDP_00059</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#heart_condition_section">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
+                <owl:someValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00054"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00055"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00056"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00057"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00058"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00059"/>
+
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
+                <owl:allValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00054"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00055"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00056"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00057"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00058"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00059"/>
+
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:allValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000171"/>
+    </owl:Class>

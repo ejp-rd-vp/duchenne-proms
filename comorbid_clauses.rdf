@@ -1,0 +1,158 @@
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00004 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00004">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">(Pre) diabetes</rdfs:label>
+            <dc:description xml:lang="en">(Pre) diabetes</dc:description>
+            <dc:identifier>DDP_00004</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00005 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00005">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Allergy</rdfs:label>
+            <dc:description xml:lang="en">Allergy</dc:description>
+            <dc:identifier>DDP_00005</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00006 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00006">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Difficulties falling asleep</rdfs:label>
+            <dc:description xml:lang="en">Difficulties falling asleep</dc:description>
+            <dc:identifier>DDP_00006</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00007 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00007">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Frequently waking up at night</rdfs:label>
+            <dc:description xml:lang="en">Frequently waking up at night</dc:description>
+            <dc:identifier>DDP_00007</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00008 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00008">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Neuropsychological issues</rdfs:label>
+            <dc:description xml:lang="en">Neuropsychological issues</dc:description>
+            <dc:identifier>DDP_00008</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00009 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00009">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Other diseases</rdfs:label>
+            <dc:description xml:lang="en">Other diseases</dc:description>
+            <dc:identifier>DDP_00009</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00010 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00010">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Pregunta</rdfs:label>
+            <dc:description xml:lang="en">Do you have neuropsychological, psychiatric, sleeping problems, or others?</dc:description>
+            <dc:identifier>DDP_00010</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00011 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00011">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Psychiatric problems</rdfs:label>
+            <dc:description xml:lang="en">Psychiatric problems</dc:description>
+            <dc:identifier>DDP_00011</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00012 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00012">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Skin condition (incl. Nails)</rdfs:label>
+            <dc:description xml:lang="en">Skin condition (incl. Nails)</dc:description>
+            <dc:identifier>DDP_00012</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00013 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00013">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Snoring</rdfs:label>
+            <dc:description xml:lang="en">Snoring</dc:description>
+            <dc:identifier>DDP_00013</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#problems_and_comorbidity_section">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
+                <owl:someValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00004"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00005"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00006"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00007"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00008"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00009"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00010"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00011"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00012"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00013"/>
+
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
+                <owl:allValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00004"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00005"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00006"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00007"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00008"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00009"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00010"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00011"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00012"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00013"/>
+
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:allValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000171"/>
+    </owl:Class>

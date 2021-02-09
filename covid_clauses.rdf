@@ -1,0 +1,262 @@
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00014 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00014">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Date</rdfs:label>
+            <dc:description xml:lang="en">Date</dc:description>
+            <dc:identifier>DDP_00014</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00015 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00015">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Did anything change on your heart medication?</rdfs:label>
+            <dc:description xml:lang="en">Did anything change on your heart medication?</dc:description>
+            <dc:identifier>DDP_00015</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00016 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00016">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Did you get a CT scan?</rdfs:label>
+            <dc:description xml:lang="en">Did you get a CT scan?</dc:description>
+            <dc:identifier>DDP_00016</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00017 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00017">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Did you have COVID-19 infection?</rdfs:label>
+            <dc:description xml:lang="en">Did you have COVID-19 infection?</dc:description>
+            <dc:identifier>DDP_00017</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00018 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00018">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Did you have a stress dose (extra corticosteroids because of infection)?</rdfs:label>
+            <dc:description xml:lang="en">Did you have a stress dose (extra corticosteroids because of infection)?</dc:description>
+            <dc:identifier>DDP_00018</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00019 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00019">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Did you keep taking your corticosteroids?</rdfs:label>
+            <dc:description xml:lang="en">Did you keep taking your corticosteroids?</dc:description>
+            <dc:identifier>DDP_00019</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00020 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00020">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Did you require oxygen?</rdfs:label>
+            <dc:description xml:lang="en">Did you require oxygen?</dc:description>
+            <dc:identifier>DDP_00020</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00021 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00021">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Have you been on antibiotics?</rdfs:label>
+            <dc:description xml:lang="en">Have you been on antibiotics?</dc:description>
+            <dc:identifier>DDP_00021</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00022 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00022">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Have you been tested for COVID-19?</rdfs:label>
+            <dc:description xml:lang="en">Have you been tested for COVID-19?</dc:description>
+            <dc:identifier>DDP_00022</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00023 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00023">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">How many days did your symptoms last?</rdfs:label>
+            <dc:description xml:lang="en">How many days did your symptoms last?</dc:description>
+            <dc:identifier>DDP_00023</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00024 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00024">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">How many days were you treated for?</rdfs:label>
+            <dc:description xml:lang="en">How many days were you treated for?</dc:description>
+            <dc:identifier>DDP_00024</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00025 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00025">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">I don’t know</rdfs:label>
+            <dc:description xml:lang="en">I don’t know</dc:description>
+            <dc:identifier>DDP_00025</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00026 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00026">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Were you intubated?</rdfs:label>
+            <dc:description xml:lang="en">Were you intubated?</dc:description>
+            <dc:identifier>DDP_00026</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00027 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00027">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">What other aspects would you like to report?</rdfs:label>
+            <dc:description xml:lang="en">What other aspects would you like to report?</dc:description>
+            <dc:identifier>DDP_00027</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00028 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00028">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">What symptoms have you had that are not listed above?</rdfs:label>
+            <dc:description xml:lang="en">What symptoms have you had that are not listed in the previous question?</dc:description>
+            <dc:identifier>DDP_00028</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00029 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00029">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">What treatments have you had that are not listed above?</rdfs:label>
+            <dc:description xml:lang="en">What treatments have you had that are not listed above?</dc:description>
+            <dc:identifier>DDP_00029</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00030 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00030">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">What were your symptoms?</rdfs:label>
+            <dc:description xml:lang="en">What were your symptoms?</dc:description>
+            <dc:identifier>DDP_00030</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00031 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00031">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Where were you treated?</rdfs:label>
+            <dc:description xml:lang="en">Where were you treated?</dc:description>
+            <dc:identifier>DDP_00031</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#covid_19_section">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
+                <owl:someValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00014"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00015"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00016"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00017"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00018"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00019"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00020"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00021"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00022"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00023"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00024"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00025"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00026"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00027"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00028"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00029"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00030"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00031"/>
+
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
+                <owl:allValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00014"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00015"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00016"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00017"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00018"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00019"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00020"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00021"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00022"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00023"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00024"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00025"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00026"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00027"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00028"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00029"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00030"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00031"/>
+
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:allValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000171"/>
+    </owl:Class>

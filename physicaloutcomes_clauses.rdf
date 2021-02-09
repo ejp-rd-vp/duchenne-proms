@@ -1,0 +1,340 @@
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00073 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00073">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">4 step climb</rdfs:label>
+            <dc:description xml:lang="en">4 step climb</dc:description>
+            <dc:identifier>DDP_00073</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00074 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00074">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">6 minutes walk test</rdfs:label>
+            <dc:description xml:lang="en">6 minutes walk test</dc:description>
+            <dc:identifier>DDP_00074</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00075 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00075">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Come up from supine to standing</rdfs:label>
+            <dc:description xml:lang="en">Come up from supine to standing in (secs)</dc:description>
+            <dc:identifier>DDP_00075</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00076 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00076">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Currently able to sit without support</rdfs:label>
+            <dc:description xml:lang="en">Currently able to sit without support</dc:description>
+            <dc:identifier>DDP_00076</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00077 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00077">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Currently able to walk more than 5 meters (without any help/support)</rdfs:label>
+            <dc:description xml:lang="en">Currently able to walk more than 5 meters (without any help/support)</dc:description>
+            <dc:identifier>DDP_00077</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00078 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00078">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Elbow</rdfs:label>
+            <dc:description xml:lang="en">Elbow</dc:description>
+            <dc:identifier>DDP_00078</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00079 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00079">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Foot</rdfs:label>
+            <dc:description xml:lang="en">Foot</dc:description>
+            <dc:identifier>DDP_00079</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00080 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00080">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Fulltime wheelchair</rdfs:label>
+            <dc:description xml:lang="en">Fulltime wheelchair</dc:description>
+            <dc:identifier>DDP_00080</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00081 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00081">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Hands / Fingers</rdfs:label>
+            <dc:description xml:lang="en">Hands / Fingers</dc:description>
+            <dc:identifier>DDP_00081</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00082 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00082">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Heel</rdfs:label>
+            <dc:description xml:lang="en">Heel</dc:description>
+            <dc:identifier>DDP_00082</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00083 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00083">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">In meters</rdfs:label>
+            <dc:description xml:lang="en">In meters</dc:description>
+            <dc:identifier>DDP_00083</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00084 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00084">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">In points</rdfs:label>
+            <dc:description xml:lang="en">In points</dc:description>
+            <dc:identifier>DDP_00084</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00085 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00085">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">In seconds</rdfs:label>
+            <dc:description xml:lang="en">In seconds</dc:description>
+            <dc:identifier>DDP_00085</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00086 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00086">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Jaw (limited mouthopening)</rdfs:label>
+            <dc:description xml:lang="en">Jaw (limited mouthopening)</dc:description>
+            <dc:identifier>DDP_00086</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00087 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00087">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Knee</rdfs:label>
+            <dc:description xml:lang="en">Knee</dc:description>
+            <dc:identifier>DDP_00087</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00088 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00088">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Loss of ambulation</rdfs:label>
+            <dc:description xml:lang="en">Loss of ambulation</dc:description>
+            <dc:identifier>DDP_00088</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00089 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00089">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Mobility</rdfs:label>
+            <dc:description xml:lang="en">Mobility</dc:description>
+            <dc:identifier>DDP_00089</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00090 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00090">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Neck</rdfs:label>
+            <dc:description xml:lang="en">Neck</dc:description>
+            <dc:identifier>DDP_00090</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00091 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00091">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">North Star Assesment</rdfs:label>
+            <dc:description xml:lang="en">North Star Assesment</dc:description>
+            <dc:identifier>DDP_00091</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00092 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00092">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Others</rdfs:label>
+            <dc:description xml:lang="en">Others</dc:description>
+            <dc:identifier>DDP_00092</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00093 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00093">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Schouder</rdfs:label>
+            <dc:description xml:lang="en">Schouder</dc:description>
+            <dc:identifier>DDP_00093</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00094 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00094">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Scoliosis</rdfs:label>
+            <dc:description xml:lang="en">Scoliosis</dc:description>
+            <dc:identifier>DDP_00094</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00095 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00095">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Wheelchair outdoors</rdfs:label>
+            <dc:description xml:lang="en">Wheelchair outdoors</dc:description>
+            <dc:identifier>DDP_00095</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <!-- https://w3id.org/duchenne-proms#DDP_00096 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00096">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">measuring equipment</rdfs:label>
+            <dc:description xml:lang="en">(Electronic) measuring equipment that is worn on your body, such as:</dc:description>
+            <dc:identifier>DDP_00096</dc:identifier>
+        </owl:Class>
+        
+        
+
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#physical_outcomes_section">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
+                <owl:someValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00073"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00074"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00075"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00076"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00077"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00078"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00079"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00080"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00081"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00082"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00083"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00084"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00085"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00086"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00087"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00088"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00089"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00090"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00091"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00092"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00093"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00094"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00095"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00096"/>
+
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
+                <owl:allValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00073"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00074"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00075"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00076"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00077"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00078"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00079"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00080"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00081"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00082"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00083"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00084"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00085"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00086"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00087"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00088"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00089"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00090"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00091"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00092"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00093"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00094"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00095"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00096"/>
+
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:allValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000171"/>
+    </owl:Class>
