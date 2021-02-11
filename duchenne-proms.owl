@@ -2585,6 +2585,7 @@
             </owl:Restriction>
         </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000111"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bone Heath Section</rdfs:label>
     </owl:Class>
     
 

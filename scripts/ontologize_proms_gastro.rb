@@ -12,7 +12,7 @@ promlist.sort.each do |prom|
   data = $1
 
   split = data.split('||')
-  next unless split[0] == "Heart condition"
+  next unless split[0] == "Gastrointestinal"
   ordered[split[2]]=split[1]
   
   
@@ -41,7 +41,7 @@ ordered.each do |question|
 end
 
 puts %{
-    <owl:Class rdf:about="https://w3id.org/duchenne-proms#heart_condition_section">
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#gastrointestinal_section">
         <owl:equivalentClass>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
@@ -67,6 +67,8 @@ puts %{
             </owl:Restriction>
         </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000171"/>
+               <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gastrointestinal Section</rdfs:label>
+
     </owl:Class>
 }
 

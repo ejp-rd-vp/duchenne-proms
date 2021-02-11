@@ -12,17 +12,14 @@ promlist.sort.each do |prom|
   data = $1
 
   split = data.split('||')
-  next unless split[0] == "Questionnaire Activities"
-  next unless split[2] =~ /^\d/
+  next unless split[0] == "Respiratory condition"
   ordered[split[2]]=split[1]
   
   
 end
 
-ordered = ordered.sort_by { |s,v| s.scan(/\d+/).first.to_i }
-
 ordered.each do |question|
-  number = sprintf("%05d", count)
+  number = sprintf("%05d", count) # UPDATE THIS LINE
   label = question[1]
   question = question[0]
   clause = %{
@@ -44,7 +41,7 @@ ordered.each do |question|
 end
 
 puts %{
-    <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section">
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#respiratory_section">
         <owl:equivalentClass>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
@@ -70,6 +67,8 @@ puts %{
             </owl:Restriction>
         </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000171"/>
+               <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Respiratory Section</rdfs:label>
+
     </owl:Class>
 }
 

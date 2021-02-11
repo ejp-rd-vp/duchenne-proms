@@ -12,7 +12,7 @@ promlist.sort.each do |prom|
   data = $1
 
   split = data.split('||')
-  next unless split[0] == "Urinary tract"
+  next unless split[0] == "Bone health and orthopedics"
   ordered[split[2]]=split[1]
   
   
@@ -41,7 +41,7 @@ ordered.each do |question|
 end
 
 puts %{
-    <owl:Class rdf:about="https://w3id.org/duchenne-proms#urinary_tract_section">
+    <owl:Class rdf:about="https://w3id.org/duchenne-proms#bone_health_section">
         <owl:equivalentClass>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
@@ -67,10 +67,9 @@ puts %{
             </owl:Restriction>
         </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000171"/>
+               <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bone Heath Section</rdfs:label>
     </owl:Class>
 }
-
-
 
 File.open("currentcount.txt", "w") do |f|
   f.write count
