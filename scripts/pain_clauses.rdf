@@ -1,26 +1,24 @@
 
-    <!-- https://w3id.org/duchenne-proms#DDP_00071 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00074 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00071">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00074">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Pain block</rdfs:label>
             <dc:description xml:lang="en">Pain block</dc:description>
-            <dc:identifier>DDP_00071</dc:identifier>
+            <dc:identifier>DDP_00074</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00072 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00075 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00072">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00075">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Pregunta</rdfs:label>
             <dc:description xml:lang="en">Are you experiencing some kind of pain?</dc:description>
-            <dc:identifier>DDP_00072</dc:identifier>
+            <dc:identifier>DDP_00075</dc:identifier>
         </owl:Class>
         
         
-
     <owl:Class rdf:about="https://w3id.org/duchenne-proms#pain_section">
         <owl:equivalentClass>
             <owl:Restriction>
@@ -28,8 +26,8 @@
                 <owl:someValuesFrom>
                     <owl:Class>
                         <owl:unionOf rdf:parseType="Collection">
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00071"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00072"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00074"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00075"/>
 
                         </owl:unionOf>
                     </owl:Class>
@@ -42,8 +40,8 @@
                 <owl:allValuesFrom>
                     <owl:Class>
                         <owl:unionOf rdf:parseType="Collection">
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00071"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00072"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00074"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00075"/>
 
                         </owl:unionOf>
                     </owl:Class>
@@ -51,4 +49,6 @@
             </owl:Restriction>
         </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000171"/>
+               <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pain Section</rdfs:label>
+
     </owl:Class>

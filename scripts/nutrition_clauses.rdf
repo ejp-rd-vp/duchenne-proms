@@ -1,92 +1,84 @@
 
-    <!-- https://w3id.org/duchenne-proms#DDP_00063 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00063">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">Anders</rdfs:label>
-            <dc:description xml:lang="en">Anders</dc:description>
-            <dc:identifier>DDP_00063</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00064 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00064">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">Chewing</rdfs:label>
-            <dc:description xml:lang="en">Chewing</dc:description>
-            <dc:identifier>DDP_00064</dc:identifier>
-        </owl:Class>
-        
-        
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00065 -->
-    
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00065">
-            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">Date</rdfs:label>
-            <dc:description xml:lang="en">Date</dc:description>
-            <dc:identifier>DDP_00065</dc:identifier>
-        </owl:Class>
-        
-        
-
     <!-- https://w3id.org/duchenne-proms#DDP_00066 -->
     
         <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00066">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">Diet / outcome body mass test</rdfs:label>
-            <dc:description xml:lang="en">Diet / outcome body mass test</dc:description>
+            <rdfs:label xml:lang="en">Anders</rdfs:label>
+            <dc:description xml:lang="en">Anders</dc:description>
             <dc:identifier>DDP_00066</dc:identifier>
         </owl:Class>
         
         
-
     <!-- https://w3id.org/duchenne-proms#DDP_00067 -->
     
         <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00067">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">Other diet</rdfs:label>
-            <dc:description xml:lang="en">Other diet</dc:description>
+            <rdfs:label xml:lang="en">Chewing</rdfs:label>
+            <dc:description xml:lang="en">Chewing</dc:description>
             <dc:identifier>DDP_00067</dc:identifier>
         </owl:Class>
         
         
-
     <!-- https://w3id.org/duchenne-proms#DDP_00068 -->
     
         <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00068">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">Swalloging problems</rdfs:label>
-            <dc:description xml:lang="en">Swalloging problems</dc:description>
+            <rdfs:label xml:lang="en">Date</rdfs:label>
+            <dc:description xml:lang="en">Date</dc:description>
             <dc:identifier>DDP_00068</dc:identifier>
         </owl:Class>
         
         
-
     <!-- https://w3id.org/duchenne-proms#DDP_00069 -->
     
         <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00069">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">Type of diet</rdfs:label>
-            <dc:description xml:lang="en">Type of diet</dc:description>
+            <rdfs:label xml:lang="en">Diet / outcome body mass test</rdfs:label>
+            <dc:description xml:lang="en">Diet / outcome body mass test</dc:description>
             <dc:identifier>DDP_00069</dc:identifier>
         </owl:Class>
         
         
-
     <!-- https://w3id.org/duchenne-proms#DDP_00070 -->
     
         <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00070">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-            <rdfs:label xml:lang="en">What are the difficulties</rdfs:label>
-            <dc:description xml:lang="en">What are the difficulties</dc:description>
+            <rdfs:label xml:lang="en">Other diet</rdfs:label>
+            <dc:description xml:lang="en">Other diet</dc:description>
             <dc:identifier>DDP_00070</dc:identifier>
         </owl:Class>
         
         
-
+    <!-- https://w3id.org/duchenne-proms#DDP_00071 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00071">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Swalloging problems</rdfs:label>
+            <dc:description xml:lang="en">Swalloging problems</dc:description>
+            <dc:identifier>DDP_00071</dc:identifier>
+        </owl:Class>
+        
+        
+    <!-- https://w3id.org/duchenne-proms#DDP_00072 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00072">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">Type of diet</rdfs:label>
+            <dc:description xml:lang="en">Type of diet</dc:description>
+            <dc:identifier>DDP_00072</dc:identifier>
+        </owl:Class>
+        
+        
+    <!-- https://w3id.org/duchenne-proms#DDP_00073 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00073">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">What are the difficulties</rdfs:label>
+            <dc:description xml:lang="en">What are the difficulties</dc:description>
+            <dc:identifier>DDP_00073</dc:identifier>
+        </owl:Class>
+        
+        
     <owl:Class rdf:about="https://w3id.org/duchenne-proms#nutrition_section">
         <owl:equivalentClass>
             <owl:Restriction>
@@ -94,14 +86,14 @@
                 <owl:someValuesFrom>
                     <owl:Class>
                         <owl:unionOf rdf:parseType="Collection">
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00063"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00064"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00065"/>
 <rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00066"/>
 <rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00067"/>
 <rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00068"/>
 <rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00069"/>
 <rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00070"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00071"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00072"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00073"/>
 
                         </owl:unionOf>
                     </owl:Class>
@@ -114,14 +106,14 @@
                 <owl:allValuesFrom>
                     <owl:Class>
                         <owl:unionOf rdf:parseType="Collection">
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00063"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00064"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00065"/>
 <rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00066"/>
 <rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00067"/>
 <rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00068"/>
 <rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00069"/>
 <rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00070"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00071"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00072"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00073"/>
 
                         </owl:unionOf>
                     </owl:Class>
@@ -129,4 +121,6 @@
             </owl:Restriction>
         </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000171"/>
+               <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nutrition Section</rdfs:label>
+
     </owl:Class>

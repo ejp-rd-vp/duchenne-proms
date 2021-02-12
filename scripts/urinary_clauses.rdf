@@ -1,191 +1,174 @@
 
-    <!-- https://w3id.org/duchenne-proms#DDP_00118 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00216 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00118">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00216">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Bedwetting</rdfs:label>
             <dc:description xml:lang="en">Bedwetting</dc:description>
-            <dc:identifier>DDP_00118</dc:identifier>
+            <dc:identifier>DDP_00216</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00119 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00217 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00119">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00217">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Bladder catheter (tube) needed to empty bladder</rdfs:label>
             <dc:description xml:lang="en">Bladder catheter (tube) needed to empty bladder</dc:description>
-            <dc:identifier>DDP_00119</dc:identifier>
+            <dc:identifier>DDP_00217</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00120 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00218 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00120">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00218">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Dribble</rdfs:label>
             <dc:description xml:lang="en">Dribble</dc:description>
-            <dc:identifier>DDP_00120</dc:identifier>
+            <dc:identifier>DDP_00218</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00121 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00219 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00121">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00219">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Feeling that bladder is not completely empty (urinary retention)</rdfs:label>
             <dc:description xml:lang="en">Feeling that bladder is not completely empty (urinary retention)</dc:description>
-            <dc:identifier>DDP_00121</dc:identifier>
+            <dc:identifier>DDP_00219</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00122 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00220 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00122">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00220">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Frequent urination</rdfs:label>
             <dc:description xml:lang="en">Frequent urination</dc:description>
-            <dc:identifier>DDP_00122</dc:identifier>
+            <dc:identifier>DDP_00220</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00123 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00221 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00123">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00221">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Hesitation (have to wait before pee gets out)</rdfs:label>
             <dc:description xml:lang="en">Hesitation (have to wait before pee gets out)</dc:description>
-            <dc:identifier>DDP_00123</dc:identifier>
+            <dc:identifier>DDP_00221</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00124 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00222 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00124">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00222">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Incontinence</rdfs:label>
             <dc:description xml:lang="en">Incontinence</dc:description>
-            <dc:identifier>DDP_00124</dc:identifier>
+            <dc:identifier>DDP_00222</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00125 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00223 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00125">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00223">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Interrupted puddle</rdfs:label>
             <dc:description xml:lang="en">Interrupted puddle</dc:description>
-            <dc:identifier>DDP_00125</dc:identifier>
+            <dc:identifier>DDP_00223</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00126 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00224 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00126">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00224">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Intervention needed?</rdfs:label>
             <dc:description xml:lang="en">Intervention needed?</dc:description>
-            <dc:identifier>DDP_00126</dc:identifier>
+            <dc:identifier>DDP_00224</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00127 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00225 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00127">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00225">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Kidney stones</rdfs:label>
             <dc:description xml:lang="en">Kidney stones</dc:description>
-            <dc:identifier>DDP_00127</dc:identifier>
+            <dc:identifier>DDP_00225</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00128 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00226 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00128">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00226">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Pain in the bladder</rdfs:label>
             <dc:description xml:lang="en">Pain in the bladder</dc:description>
-            <dc:identifier>DDP_00128</dc:identifier>
+            <dc:identifier>DDP_00226</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00129 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00227 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00129">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00227">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Pain in the urethra (e.g., burning sensation)</rdfs:label>
             <dc:description xml:lang="en">Pain in the urethra (e.g., burning sensation)</dc:description>
-            <dc:identifier>DDP_00129</dc:identifier>
+            <dc:identifier>DDP_00227</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00130 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00228 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00130">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00228">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Peeing at night</rdfs:label>
             <dc:description xml:lang="en">Peeing at night</dc:description>
-            <dc:identifier>DDP_00130</dc:identifier>
+            <dc:identifier>DDP_00228</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00131 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00229 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00131">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00229">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Reduced bladder feeling</rdfs:label>
             <dc:description xml:lang="en">Reduced bladder feeling</dc:description>
-            <dc:identifier>DDP_00131</dc:identifier>
+            <dc:identifier>DDP_00229</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00132 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00230 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00132">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00230">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Slack puddle</rdfs:label>
             <dc:description xml:lang="en">Slack puddle</dc:description>
-            <dc:identifier>DDP_00132</dc:identifier>
+            <dc:identifier>DDP_00230</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00133 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00231 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00133">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00231">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Suddenly and urgently urinate</rdfs:label>
             <dc:description xml:lang="en">Suddenly and urgently urinate</dc:description>
-            <dc:identifier>DDP_00133</dc:identifier>
+            <dc:identifier>DDP_00231</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00134 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00232 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00134">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00232">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Tension or compression pressures necessary to initiate urination</rdfs:label>
             <dc:description xml:lang="en">Tension or compression pressures necessary to initiate urination</dc:description>
-            <dc:identifier>DDP_00134</dc:identifier>
+            <dc:identifier>DDP_00232</dc:identifier>
         </owl:Class>
         
         
-
     <owl:Class rdf:about="https://w3id.org/duchenne-proms#urinary_tract_section">
         <owl:equivalentClass>
             <owl:Restriction>
@@ -193,23 +176,23 @@
                 <owl:someValuesFrom>
                     <owl:Class>
                         <owl:unionOf rdf:parseType="Collection">
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00118"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00119"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00120"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00121"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00122"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00123"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00124"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00125"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00126"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00127"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00128"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00129"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00130"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00131"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00132"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00133"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00134"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00216"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00217"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00218"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00219"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00220"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00221"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00222"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00223"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00224"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00225"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00226"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00227"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00228"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00229"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00230"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00231"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00232"/>
 
                         </owl:unionOf>
                     </owl:Class>
@@ -222,23 +205,23 @@
                 <owl:allValuesFrom>
                     <owl:Class>
                         <owl:unionOf rdf:parseType="Collection">
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00118"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00119"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00120"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00121"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00122"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00123"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00124"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00125"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00126"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00127"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00128"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00129"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00130"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00131"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00132"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00133"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00134"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00216"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00217"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00218"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00219"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00220"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00221"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00222"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00223"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00224"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00225"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00226"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00227"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00228"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00229"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00230"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00231"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00232"/>
 
                         </owl:unionOf>
                     </owl:Class>
@@ -246,4 +229,6 @@
             </owl:Restriction>
         </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000171"/>
+         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Urinary Tract Section</rdfs:label>
+
     </owl:Class>

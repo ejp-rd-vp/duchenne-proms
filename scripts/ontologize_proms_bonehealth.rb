@@ -1,9 +1,10 @@
+require './write.rb'
 count = File.read("./currentcount.txt").to_i
 
 promlist = File.read('./proms_count.txt')
 promlist = promlist.split("\n")
-#puts promlist.class
-#puts promlist.first
+#puts "bonehealth_clauses.rdf", promlist.class
+#puts "bonehealth_clauses.rdf", promlist.first
 
 ordered = Hash.new
 questions = ""
@@ -34,13 +35,13 @@ ordered.each do |question|
         
         }
               
-    puts clause
+    puts "bonehealth_clauses.rdf", clause
     questions = questions + %{<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_#{number}"/>\n}
     count +=1
       
 end
 
-puts %{
+puts "bonehealth_clauses.rdf", %{
     <owl:Class rdf:about="https://w3id.org/duchenne-proms#bone_health_section">
         <owl:equivalentClass>
             <owl:Restriction>

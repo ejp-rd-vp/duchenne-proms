@@ -1,37 +1,34 @@
 
-    <!-- https://w3id.org/duchenne-proms#DDP_00060 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00063 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00060">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00063">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Developmental delay </rdfs:label>
             <dc:description xml:lang="en">Developmental delay </dc:description>
-            <dc:identifier>DDP_00060</dc:identifier>
+            <dc:identifier>DDP_00063</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00061 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00064 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00061">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00064">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">IQ score scale</rdfs:label>
             <dc:description xml:lang="en">Scale</dc:description>
-            <dc:identifier>DDP_00061</dc:identifier>
+            <dc:identifier>DDP_00064</dc:identifier>
         </owl:Class>
         
         
-
-    <!-- https://w3id.org/duchenne-proms#DDP_00062 -->
+    <!-- https://w3id.org/duchenne-proms#DDP_00065 -->
     
-        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00062">
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00065">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
             <rdfs:label xml:lang="en">Speech delay</rdfs:label>
             <dc:description xml:lang="en">Speech delay</dc:description>
-            <dc:identifier>DDP_00062</dc:identifier>
+            <dc:identifier>DDP_00065</dc:identifier>
         </owl:Class>
         
         
-
     <owl:Class rdf:about="https://w3id.org/duchenne-proms#learning_and_behavior_outcomes_section">
         <owl:equivalentClass>
             <owl:Restriction>
@@ -39,9 +36,9 @@
                 <owl:someValuesFrom>
                     <owl:Class>
                         <owl:unionOf rdf:parseType="Collection">
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00060"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00061"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00062"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00063"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00064"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00065"/>
 
                         </owl:unionOf>
                     </owl:Class>
@@ -54,9 +51,9 @@
                 <owl:allValuesFrom>
                     <owl:Class>
                         <owl:unionOf rdf:parseType="Collection">
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00060"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00061"/>
-<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00062"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00063"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00064"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00065"/>
 
                         </owl:unionOf>
                     </owl:Class>
@@ -64,4 +61,6 @@
             </owl:Restriction>
         </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000171"/>
+               <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Learning and Behavior Section</rdfs:label>
+
     </owl:Class>
