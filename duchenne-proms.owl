@@ -2653,6 +2653,8 @@
 <rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00192"/>
 <rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00193"/>
 <rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00194"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00195"/>
+
 
                         </owl:unionOf>
                     </owl:Class>
