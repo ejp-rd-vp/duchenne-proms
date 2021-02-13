@@ -2295,8 +2295,7 @@
             <dc:identifier>DDP_00180</dc:identifier>
         </owl:Class>
         
-        
-    <!-- https://w3id.org/duchenne-proms#DDP_00181 -->
+        <!-- https://w3id.org/duchenne-proms#DDP_00181 -->
     
         <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00181">
             <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
@@ -2435,6 +2434,14 @@
             <dc:identifier>DDP_00194</dc:identifier>
         </owl:Class>
         
+    <!-- https://w3id.org/duchenne-proms#DDP_00195 -->
+    
+        <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00180">
+            <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+            <rdfs:label xml:lang="en">sleepNight</rdfs:label>
+            <dc:description xml:lang="en">62. Does your son sleep through the night (this is allowed with night respiration if your son has this)?</dc:description>
+            <dc:identifier>DDP_00195</dc:identifier>
+        </owl:Class>
         
     <owl:Class rdf:about="https://w3id.org/duchenne-proms#dpp_prom_questionnaire_section">
         <owl:equivalentClass>
@@ -2538,6 +2545,7 @@
 <rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00192"/>
 <rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00193"/>
 <rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00194"/>
+<rdf:Description rdf:about="https://w3id.org/duchenne-proms#DDP_00195"/>
 
                         </owl:unionOf>
                     </owl:Class>
