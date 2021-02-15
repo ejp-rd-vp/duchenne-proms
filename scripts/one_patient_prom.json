@@ -1,0 +1,5139 @@
+[{
+	"section": {
+		"_id": "5c701e8e6df9261214ddd347",
+		"createdBy": "5c6d943c87c3d04724700dae",
+		"description": "",
+		"name": "Diagnosis",
+		"__v": 0,
+		"order": 1,
+		"enabled": true
+	},
+	"promsStructure": [{
+		"structure": {
+			"_id": "5c701fbe6df9261214ddd353",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": null,
+			"width": "12",
+			"periodicity": 1,
+			"order": 2,
+			"section": "5c701e8e6df9261214ddd347",
+			"question": "Options",
+			"responseType": "RadioButtons",
+			"name": "Options",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Duchenne Muscular Dystrophy",
+				"hpo": ""
+			}, {
+				"value": "Intermediate",
+				"hpo": ""
+			}, {
+				"value": "Becker Muscular Dystrophy",
+				"hpo": ""
+			}, {
+				"value": "Carrier: Carriers are the females who have one affected X-chromosome but not the disease or a mild form",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "Duchenne Muscular Dystrophy"
+	}, {
+		"structure": {
+			"_id": "5c701fd86df9261214ddd354",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": null,
+			"width": "12",
+			"periodicity": 1,
+			"order": 2,
+			"section": "5c701e8e6df9261214ddd347",
+			"question": "Date of diagnosis",
+			"responseType": "Date",
+			"name": "Date of diagnosis",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "2002-01-27T23:00:00Z"
+	}, {
+		"structure": {
+			"_id": "5c70202f6df9261214ddd355",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": null,
+			"width": "12",
+			"periodicity": 1,
+			"order": 3,
+			"section": "5c701e8e6df9261214ddd347",
+			"question": "Diagnosis Delay: How long did it take from first concerns to the definitive diagnosis",
+			"responseType": "Title",
+			"name": "Diagnosis Delay title",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7024949d309719c05e2656",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": null,
+			"width": "6",
+			"periodicity": 1,
+			"order": 4,
+			"section": "5c701e8e6df9261214ddd347",
+			"question": "Number of months/years",
+			"responseType": "Number",
+			"name": "Diagnosis Delay",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": 6
+	}, {
+		"structure": {
+			"_id": "5c7024b49d309719c05e2657",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7024949d309719c05e2656",
+			"width": "6",
+			"periodicity": 1,
+			"order": 5,
+			"section": "5c701e8e6df9261214ddd347",
+			"question": "Select months or years",
+			"responseType": "Choise",
+			"name": "Diagnosis Delay 2",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Months",
+				"hpo": ""
+			}, {
+				"value": "Years",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "Months"
+	}, {
+		"structure": {
+			"_id": "5e5e4d22856f5021b8b6ebfd",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "12",
+			"periodicity": 1,
+			"order": 6,
+			"section": "5c701e8e6df9261214ddd347",
+			"question": "First signs",
+			"responseType": "Title",
+			"name": "First signs",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5e5e4d5f856f5021b8b6ebfe",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "6",
+			"periodicity": 1,
+			"order": 7,
+			"section": "5c701e8e6df9261214ddd347",
+			"question": "Delayed speech development",
+			"responseType": "Toogle",
+			"name": "Delayed speech development",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e4d78856f5021b8b6ebff",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "6",
+			"periodicity": 1,
+			"order": 8,
+			"section": "5c701e8e6df9261214ddd347",
+			"question": "Delayed motor development",
+			"responseType": "Toogle",
+			"name": "Delayed motor development",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e4d93856f5021b8b6ec00",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "6",
+			"periodicity": 1,
+			"order": 9,
+			"section": "5c701e8e6df9261214ddd347",
+			"question": "Developmental backlog",
+			"responseType": "Toogle",
+			"name": "Developmental backlog",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e4da8856f5021b8b6ec01",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "6",
+			"periodicity": 1,
+			"order": 10,
+			"section": "5c701e8e6df9261214ddd347",
+			"question": "Less endurance",
+			"responseType": "Toogle",
+			"name": "Less endurance",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e4dbc856f5021b8b6ec02",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "6",
+			"periodicity": 1,
+			"order": 11,
+			"section": "5c701e8e6df9261214ddd347",
+			"question": "Behavioral problems",
+			"responseType": "Toogle",
+			"name": "Behavioral problems",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e4dd0856f5021b8b6ec03",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "6",
+			"periodicity": 1,
+			"order": 12,
+			"section": "5c701e8e6df9261214ddd347",
+			"question": "Delay in walking",
+			"responseType": "Toogle",
+			"name": "Delay in walking",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e4de4856f5021b8b6ec04",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "6",
+			"periodicity": 1,
+			"order": 13,
+			"section": "5c701e8e6df9261214ddd347",
+			"question": "Fall more frequently",
+			"responseType": "Toogle",
+			"name": "Fall more frequently",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e4dfc856f5021b8b6ec05",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "6",
+			"periodicity": 1,
+			"order": 14,
+			"section": "5c701e8e6df9261214ddd347",
+			"question": "Thick calves",
+			"responseType": "Toogle",
+			"name": "Thick calves",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e4e11856f5021b8b6ec06",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "6",
+			"periodicity": 1,
+			"order": 15,
+			"section": "5c701e8e6df9261214ddd347",
+			"question": "Wobbly way of walking",
+			"responseType": "Toogle",
+			"name": "Wobbly way of walking",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e4e20856f5021b8b6ec07",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "6",
+			"periodicity": 1,
+			"order": 16,
+			"section": "5c701e8e6df9261214ddd347",
+			"question": "Difficulty to get up from the ground",
+			"responseType": "Toogle",
+			"name": "Difficulty to get up from the ground",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e4e6f856f5021b8b6ec08",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "12",
+			"periodicity": 1,
+			"order": 18,
+			"section": "5c701e8e6df9261214ddd347",
+			"question": "POSITIVE FAMILY HISTORY",
+			"responseType": "ChoiseSet",
+			"name": "POSITIVE FAMILY HISTORY",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "No relatives affected",
+				"hpo": ""
+			}, {
+				"value": "Brother - affected",
+				"hpo": ""
+			}, {
+				"value": "Uncle - affected",
+				"hpo": ""
+			}, {
+				"value": "Cousin - affected",
+				"hpo": ""
+			}, {
+				"value": "Sister - carrier",
+				"hpo": ""
+			}, {
+				"value": "Mother - carrier",
+				"hpo": ""
+			}, {
+				"value": "Aunt - carrier",
+				"hpo": ""
+			}, {
+				"value": "Grand mother - carrier",
+				"hpo": ""
+			}, {
+				"value": "Other relative",
+				"hpo": ""
+			}, {
+				"value": "Don't know",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}]
+}, {
+	"section": {
+		"_id": "5c7021909d309719c05e264b",
+		"createdBy": "5c6d943c87c3d04724700dae",
+		"description": "",
+		"name": "Physical outcomes",
+		"__v": 0,
+		"order": 2,
+		"enabled": true
+	},
+	"promsStructure": [{
+		"structure": {
+			"_id": "5c70266c9d309719c05e265a",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "12",
+			"periodicity": 1,
+			"order": 2,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Mobility",
+			"responseType": "Title",
+			"name": "Mobility title",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7026889d309719c05e265b",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "12",
+			"periodicity": 1,
+			"order": 3,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Please select one option that best describes your physical ability today. Everyone is unique, and you may not match the descriptions perfeclty. Please select the answer that is the best fit. I usually:",
+			"responseType": "Label",
+			"name": "Mobility description",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7026da9d309719c05e265c",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 4,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Mobility",
+			"responseType": "Choise",
+			"name": "Mobility",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Walk independently for long distances outdoors (more than 1 km/0.6 miles)",
+				"hpo": ""
+			}, {
+				"value": "Walk less than 1 km/0.6 miles outdoors, but more than short distances",
+				"hpo": ""
+			}, {
+				"value": "Walk independently outdoors for short distances (such as to the car)",
+				"hpo": ""
+			}, {
+				"value": "Walk outdoors with help from a person",
+				"hpo": ""
+			}, {
+				"value": "Walk independently indoors but need a wheelchair for outdoors",
+				"hpo": ""
+			}, {
+				"value": "Walk indoors with help from a person and require a wheelchair outdoors",
+				"hpo": ""
+			}, {
+				"value": "Use a wheelchair and can go indoors and outdoors",
+				"hpo": ""
+			}, {
+				"value": "Use a wheelchair but am unable to go outdoors in some situations (such as cold weather)",
+				"hpo": ""
+			}, {
+				"value": "Unable to control a wheelchair without help",
+				"hpo": ""
+			}, {
+				"value": "Do not use a wheelchair, remain in bed",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "Use a wheelchair and can go indoors and outdoors"
+	}, {
+		"structure": {
+			"_id": "5c7027039d309719c05e265d",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 5,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Others",
+			"responseType": "Text",
+			"name": "Others",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ""
+	}, {
+		"structure": {
+			"_id": "5c70271b9d309719c05e265e",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 6,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Currently able to sit without support",
+			"responseType": "Toogle",
+			"name": "Currently able to sit without support",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": true
+	}, {
+		"structure": {
+			"_id": "5c77e8ecf2fc051ee8f366c0",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 7,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Currently able to walk more than 5 meters (without any help/support)",
+			"responseType": "Toogle",
+			"name": "Currently able to walk more than 5 meters (without any help/support)",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c77e903f2fc051ee8f366c1",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "12",
+			"periodicity": 1,
+			"order": 8,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Outcome functional tests",
+			"responseType": "Title",
+			"name": "Outcome functional tests",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c77e937f2fc051ee8f366c2",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 9,
+			"section": "5c7021909d309719c05e264b",
+			"question": "6 minutes walk test",
+			"responseType": "Toogle",
+			"name": "6 minutes walk test",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c77e95df2fc051ee8f366c3",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c77e937f2fc051ee8f366c2",
+			"width": "6",
+			"periodicity": 1,
+			"order": 10,
+			"section": "5c7021909d309719c05e264b",
+			"question": "In meters",
+			"responseType": "Number",
+			"name": "In meters",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": null
+	}, {
+		"structure": {
+			"_id": "5c77e974f2fc051ee8f366c4",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 11,
+			"section": "5c7021909d309719c05e264b",
+			"question": "4 step climb",
+			"responseType": "Toogle",
+			"name": "4 step climb",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c77e995f2fc051ee8f366c5",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c77e974f2fc051ee8f366c4",
+			"width": "6",
+			"periodicity": 1,
+			"order": 12,
+			"section": "5c7021909d309719c05e264b",
+			"question": "In seconds",
+			"responseType": "Number",
+			"name": "In seconds",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": null
+	}, {
+		"structure": {
+			"_id": "5c77e9a8f2fc051ee8f366c6",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 13,
+			"section": "5c7021909d309719c05e264b",
+			"question": "North Star Assesment",
+			"responseType": "Toogle",
+			"name": "North Star Assesment",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c77e9c3f2fc051ee8f366c7",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c77e9a8f2fc051ee8f366c6",
+			"width": "6",
+			"periodicity": 1,
+			"order": 14,
+			"section": "5c7021909d309719c05e264b",
+			"question": "In points",
+			"responseType": "Number",
+			"name": "In points",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": null
+	}, {
+		"structure": {
+			"_id": "5c77e9ddf2fc051ee8f366c8",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 15,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Come up from supine to standing in (secs)",
+			"responseType": "Toogle",
+			"name": "Come up from supine to standing",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c77ea2df2fc051ee8f366c9",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c77e9ddf2fc051ee8f366c8",
+			"width": "6",
+			"periodicity": 1,
+			"order": 16,
+			"section": "5c7021909d309719c05e264b",
+			"question": "In seconds",
+			"responseType": "Number",
+			"name": "In seconds",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": null
+	}, {
+		"structure": {
+			"_id": "5c77eb59f2fc051ee8f366ca",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 17,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Wheelchair outdoors",
+			"responseType": "Date",
+			"name": "Wheelchair outdoors",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c77ebb4f2fc051ee8f366cb",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 18,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Fulltime wheelchair",
+			"responseType": "Date",
+			"name": "Fulltime wheelchair",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c77ebcff2fc051ee8f366cc",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 19,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Loss of ambulation",
+			"responseType": "Date",
+			"name": "Loss of ambulation",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c77ed20f2fc051ee8f366cd",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "12",
+			"periodicity": 1,
+			"order": 20,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Contractures",
+			"responseType": "Title",
+			"name": "Contractures",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c77ed5bf2fc051ee8f366ce",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 21,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Heel",
+			"responseType": "Choise",
+			"name": "Heel",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "No",
+				"hpo": ""
+			}, {
+				"value": "Mild links",
+				"hpo": ""
+			}, {
+				"value": "Mild right",
+				"hpo": ""
+			}, {
+				"value": "Mild both (both)",
+				"hpo": ""
+			}, {
+				"value": "Serious links",
+				"hpo": ""
+			}, {
+				"value": "Serious right",
+				"hpo": ""
+			}, {
+				"value": "Serious both",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c77eda6f2fc051ee8f366cf",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 22,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Hands / Fingers",
+			"responseType": "Choise",
+			"name": "Hands / Fingers",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "No",
+				"hpo": ""
+			}, {
+				"value": "Mild links",
+				"hpo": ""
+			}, {
+				"value": "Mild right",
+				"hpo": ""
+			}, {
+				"value": "Mild both (both)",
+				"hpo": ""
+			}, {
+				"value": "Serious links",
+				"hpo": ""
+			}, {
+				"value": "Serious right",
+				"hpo": ""
+			}, {
+				"value": "Serious both",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c77edd8f2fc051ee8f366d0",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 23,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Foot",
+			"responseType": "Choise",
+			"name": "Foot",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "No",
+				"hpo": ""
+			}, {
+				"value": "Mild links",
+				"hpo": ""
+			}, {
+				"value": "Mild right",
+				"hpo": ""
+			}, {
+				"value": "Mild both (both)",
+				"hpo": ""
+			}, {
+				"value": "Serious links",
+				"hpo": ""
+			}, {
+				"value": "Serious right",
+				"hpo": ""
+			}, {
+				"value": "Serious both",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c77edf9f2fc051ee8f366d1",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 24,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Jaw (limited mouthopening)",
+			"responseType": "Choise",
+			"name": "Jaw (limited mouthopening)",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "No",
+				"hpo": ""
+			}, {
+				"value": "Mild",
+				"hpo": ""
+			}, {
+				"value": "Severe",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c77ee5df2fc051ee8f366d2",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 25,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Knee",
+			"responseType": "Choise",
+			"name": "Knee",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "No",
+				"hpo": ""
+			}, {
+				"value": "Mild links",
+				"hpo": ""
+			}, {
+				"value": "Mild right",
+				"hpo": ""
+			}, {
+				"value": "Mild both (both)",
+				"hpo": ""
+			}, {
+				"value": "Serious links",
+				"hpo": ""
+			}, {
+				"value": "Serious right",
+				"hpo": ""
+			}, {
+				"value": "Serious both",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c77ee83f2fc051ee8f366d3",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 26,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Scoliosis",
+			"responseType": "Choise",
+			"name": "Scoliosis",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "No",
+				"hpo": ""
+			}, {
+				"value": "Mild",
+				"hpo": ""
+			}, {
+				"value": "Severe",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c77ef9ff2fc051ee8f366d5",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 27,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Schouder",
+			"responseType": "Choise",
+			"name": "Schouder",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "No",
+				"hpo": ""
+			}, {
+				"value": "Mild links",
+				"hpo": ""
+			}, {
+				"value": "Mild right",
+				"hpo": ""
+			}, {
+				"value": "Mild both (both)",
+				"hpo": ""
+			}, {
+				"value": "Serious links",
+				"hpo": ""
+			}, {
+				"value": "Serious right",
+				"hpo": ""
+			}, {
+				"value": "Serious both",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c77efdbf2fc051ee8f366d6",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 28,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Neck",
+			"responseType": "Choise",
+			"name": "Neck",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "No",
+				"hpo": ""
+			}, {
+				"value": "Mild",
+				"hpo": ""
+			}, {
+				"value": "Severe",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c77f01cf2fc051ee8f366d7",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 29,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Elbow",
+			"responseType": "Choise",
+			"name": "Elbow",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "No",
+				"hpo": ""
+			}, {
+				"value": "Mild links",
+				"hpo": ""
+			}, {
+				"value": "Mild right",
+				"hpo": ""
+			}, {
+				"value": "Mild both (both)",
+				"hpo": ""
+			}, {
+				"value": "Serious links",
+				"hpo": ""
+			}, {
+				"value": "Serious right",
+				"hpo": ""
+			}, {
+				"value": "Serious both",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c77f045f2fc051ee8f366d8",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "12",
+			"periodicity": 1,
+			"order": 30,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Activities",
+			"responseType": "Title",
+			"name": "Activities",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c77f0b5f2fc051ee8f366d9",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "12",
+			"periodicity": 1,
+			"order": 31,
+			"section": "5c7021909d309719c05e264b",
+			"question": "(Electronic) measuring equipment that is worn on your body, such as:",
+			"responseType": "CheckboxList",
+			"name": "measuring equipment",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Bracelet",
+				"hpo": ""
+			}, {
+				"value": "Fitbit",
+				"hpo": ""
+			}, {
+				"value": "Pedometer",
+				"hpo": ""
+			}, {
+				"value": "Smartwatch",
+				"hpo": ""
+			}, {
+				"value": "None",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c77f0d7f2fc051ee8f366da",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e511f856f5021b8b6ec0a",
+			"width": "12",
+			"periodicity": 1,
+			"order": 32,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Others",
+			"responseType": "Text",
+			"name": "Others",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ""
+	}, {
+		"structure": {
+			"_id": "5e5e511f856f5021b8b6ec0a",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "12",
+			"periodicity": 1,
+			"order": 1,
+			"section": "5c7021909d309719c05e264b",
+			"question": "Do you have information to fill about your physical outcomes? (mobility, functional tests results, contractures…)",
+			"responseType": "RadioButtons",
+			"name": "Pregunta",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Yes",
+				"hpo": ""
+			}, {
+				"value": "No",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "Yes"
+	}]
+}, {
+	"section": {
+		"_id": "5c70219f9d309719c05e264c",
+		"createdBy": "5c6d943c87c3d04724700dae",
+		"description": "Cardiac outcomes",
+		"name": "Heart condition",
+		"__v": 0,
+		"order": 3,
+		"enabled": true
+	},
+	"promsStructure": [{
+		"structure": {
+			"_id": "5c702b539d309719c05e2675",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": null,
+			"width": "12",
+			"periodicity": 1,
+			"order": 2,
+			"section": "5c70219f9d309719c05e264c",
+			"question": "The latest information entered by the patient is displayed here",
+			"responseType": "Label",
+			"name": "description",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c702b649d309719c05e2676",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e56a6856f5021b8b6ec0b",
+			"width": "4",
+			"periodicity": 1,
+			"order": 11,
+			"section": "5c70219f9d309719c05e264c",
+			"question": "Use of pacemaker / ICD",
+			"responseType": "Toogle",
+			"name": "Use of pacemaker / ICD",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c702b769d309719c05e2677",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e56a6856f5021b8b6ec0b",
+			"width": "12",
+			"periodicity": 1,
+			"order": 3,
+			"section": "5c70219f9d309719c05e264c",
+			"question": "Heart Condition Diagnosed",
+			"responseType": "Title",
+			"name": "Heart Condition Diagnosed",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c702b879d309719c05e2678",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e56a6856f5021b8b6ec0b",
+			"width": "6",
+			"periodicity": 1,
+			"order": 4,
+			"section": "5c70219f9d309719c05e264c",
+			"question": "Yes, not further specified",
+			"responseType": "Toogle",
+			"name": "Yes, not further specified",
+			"__v": 0,
+			"disableDataPoints": "5c702c2a9d309719c05e267f",
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c702b9d9d309719c05e2679",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c702b879d309719c05e2678",
+			"width": "6",
+			"periodicity": 1,
+			"order": 5,
+			"section": "5c70219f9d309719c05e264c",
+			"question": "At age",
+			"responseType": "Text",
+			"name": "At age 1",
+			"__v": 0,
+			"disableDataPoints": null,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ""
+	}, {
+		"structure": {
+			"_id": "5c702bb29d309719c05e267a",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e56a6856f5021b8b6ec0b",
+			"width": "6",
+			"periodicity": 1,
+			"order": 6,
+			"section": "5c70219f9d309719c05e264c",
+			"question": "Yes, with arrhythmia or conduction block",
+			"responseType": "Toogle",
+			"name": "Yes, with arrhythmia or conduction block",
+			"__v": 0,
+			"disableDataPoints": "5c702c2a9d309719c05e267f",
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c702bc89d309719c05e267b",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c702bb29d309719c05e267a",
+			"width": "6",
+			"periodicity": 1,
+			"order": 7,
+			"section": "5c70219f9d309719c05e264c",
+			"question": "At age",
+			"responseType": "Text",
+			"name": "At age 2",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ""
+	}, {
+		"structure": {
+			"_id": "5c702be09d309719c05e267c",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e56a6856f5021b8b6ec0b",
+			"width": "6",
+			"periodicity": 1,
+			"order": 8,
+			"section": "5c70219f9d309719c05e264c",
+			"question": "Yes, with cardiomyopathy",
+			"responseType": "Toogle",
+			"name": "Yes, with cardiomyopathy",
+			"__v": 0,
+			"disableDataPoints": "5c702c2a9d309719c05e267f",
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c702bf79d309719c05e267d",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c702be09d309719c05e267c",
+			"width": "6",
+			"periodicity": 1,
+			"order": 9,
+			"section": "5c70219f9d309719c05e264c",
+			"question": "At age",
+			"responseType": "Text",
+			"name": "At age 3",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ""
+	}, {
+		"structure": {
+			"_id": "5c702c2a9d309719c05e267f",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e56a6856f5021b8b6ec0b",
+			"width": "12",
+			"periodicity": 1,
+			"order": 10,
+			"section": "5c70219f9d309719c05e264c",
+			"question": "I don’t know",
+			"responseType": "Toogle",
+			"name": "I don’t know",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e56a6856f5021b8b6ec0b",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "12",
+			"periodicity": 1,
+			"order": 1,
+			"section": "5c70219f9d309719c05e264c",
+			"question": "Do you have information about your heart condition?",
+			"responseType": "RadioButtons",
+			"name": "Pregunta",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Yes",
+				"hpo": ""
+			}, {
+				"value": "No",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}]
+}, {
+	"section": {
+		"_id": "5c7021a99d309719c05e264d",
+		"createdBy": "5c6d943c87c3d04724700dae",
+		"description": "Respiratory outcomes",
+		"name": "Respiratory condition",
+		"__v": 0,
+		"order": 4,
+		"enabled": true
+	},
+	"promsStructure": [{
+		"structure": {
+			"_id": "5c702ccc9d309719c05e2680",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e62fc856f5021b8b6ec0c",
+			"width": "12",
+			"periodicity": 1,
+			"order": 2,
+			"section": "5c7021a99d309719c05e264d",
+			"question": "What is your current situation?",
+			"responseType": "Title",
+			"name": "What is your current situation?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c702ce59d309719c05e2681",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e62fc856f5021b8b6ec0c",
+			"width": "6",
+			"periodicity": 1,
+			"order": 3,
+			"section": "5c7021a99d309719c05e264d",
+			"question": "Use a Cpap ventilator for snoring or sleep apneu",
+			"responseType": "Toogle",
+			"name": "Use a Cpap ventilator",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c702cfe9d309719c05e2682",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c702ce59d309719c05e2681",
+			"width": "6",
+			"periodicity": 1,
+			"order": 4,
+			"section": "5c7021a99d309719c05e264d",
+			"question": "Since",
+			"responseType": "Date",
+			"name": "Since cpap",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c702d179d309719c05e2683",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e62fc856f5021b8b6ec0c",
+			"width": "6",
+			"periodicity": 1,
+			"order": 5,
+			"section": "5c7021a99d309719c05e264d",
+			"question": "Night ventilation (Bipap)",
+			"responseType": "Toogle",
+			"name": "Night ventilation (Bipap)",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": true
+	}, {
+		"structure": {
+			"_id": "5c702d2e9d309719c05e2684",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c702d179d309719c05e2683",
+			"width": "6",
+			"periodicity": 1,
+			"order": 6,
+			"section": "5c7021a99d309719c05e264d",
+			"question": "Since",
+			"responseType": "Date",
+			"name": "Since Night ventilation (Bipap)",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "2018-04-03T22:00:00Z"
+	}, {
+		"structure": {
+			"_id": "5c702d449d309719c05e2685",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e62fc856f5021b8b6ec0c",
+			"width": "4",
+			"periodicity": 1,
+			"order": 7,
+			"section": "5c7021a99d309719c05e264d",
+			"question": "Ventilation needed during most of the day",
+			"responseType": "Toogle",
+			"name": "Ventilation needed during most of the day",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c702d7c9d309719c05e2686",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c702d449d309719c05e2685",
+			"width": "4",
+			"periodicity": 1,
+			"order": 8,
+			"section": "5c7021a99d309719c05e264d",
+			"question": "Since",
+			"responseType": "Date",
+			"name": "Since Ventilation needed during most of the day",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c702f329d309719c05e2687",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c702d449d309719c05e2685",
+			"width": "4",
+			"periodicity": 1,
+			"order": 9,
+			"section": "5c7021a99d309719c05e264d",
+			"question": "Options",
+			"responseType": "Choise",
+			"name": "Options Ventilation needed during most of the day",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Invasive",
+				"hpo": ""
+			}, {
+				"value": "Non invasive",
+				"hpo": ""
+			}, {
+				"value": "Mask Zip and puf",
+				"hpo": ""
+			}, {
+				"value": "Non invasive during the day and invasive during the night",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5e5e62fc856f5021b8b6ec0c",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "12",
+			"periodicity": 1,
+			"order": 1,
+			"section": "5c7021a99d309719c05e264d",
+			"question": "Do you have information about your respiratory condition?",
+			"responseType": "RadioButtons",
+			"name": "Pregunta",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Yes",
+				"hpo": ""
+			}, {
+				"value": "No",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "No"
+	}, {
+		"structure": {
+			"_id": "5e5e8816856f5021b8b6ec2a",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5c702d449d309719c05e2685",
+			"width": "4",
+			"periodicity": 1,
+			"order": 10,
+			"section": "5c7021a99d309719c05e264d",
+			"question": "Hours",
+			"responseType": "Choise",
+			"name": "Hours",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "1",
+				"hpo": ""
+			}, {
+				"value": "2",
+				"hpo": ""
+			}, {
+				"value": "3",
+				"hpo": ""
+			}, {
+				"value": "4",
+				"hpo": ""
+			}, {
+				"value": "5",
+				"hpo": ""
+			}, {
+				"value": "6",
+				"hpo": ""
+			}, {
+				"value": "7",
+				"hpo": ""
+			}, {
+				"value": "8",
+				"hpo": ""
+			}, {
+				"value": "9",
+				"hpo": ""
+			}, {
+				"value": "10",
+				"hpo": ""
+			}, {
+				"value": "11",
+				"hpo": ""
+			}, {
+				"value": "12",
+				"hpo": ""
+			}, {
+				"value": "13",
+				"hpo": ""
+			}, {
+				"value": "14",
+				"hpo": ""
+			}, {
+				"value": "15",
+				"hpo": ""
+			}, {
+				"value": "16",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}]
+}, {
+	"section": {
+		"_id": "5c7021b39d309719c05e264e",
+		"createdBy": "5c6d943c87c3d04724700dae",
+		"description": "",
+		"name": "Nutrition",
+		"__v": 0,
+		"order": 5,
+		"enabled": true
+	},
+	"promsStructure": [{
+		"structure": {
+			"_id": "5c70305b9d309719c05e2688",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e64b5856f5021b8b6ec0d",
+			"width": "12",
+			"periodicity": 1,
+			"order": 2,
+			"section": "5c7021b39d309719c05e264e",
+			"question": "The latest information entered by the patient is displayed here.\nType of diet list is NOT a reccomendation",
+			"responseType": "Label",
+			"name": "description",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7030759d309719c05e2689",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e64b5856f5021b8b6ec0d",
+			"width": "12",
+			"periodicity": 1,
+			"order": 3,
+			"section": "5c7021b39d309719c05e264e",
+			"question": "Diet",
+			"responseType": "Title",
+			"name": "Diet",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7030a49d309719c05e268a",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e64b5856f5021b8b6ec0d",
+			"width": "4",
+			"periodicity": 1,
+			"order": 4,
+			"section": "5c7021b39d309719c05e264e",
+			"question": "Type of diet",
+			"responseType": "Choise",
+			"name": "Type of diet",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Vegetarian",
+				"hpo": ""
+			}, {
+				"value": "High protein",
+				"hpo": ""
+			}, {
+				"value": "Little calories (energy restricted diet)",
+				"hpo": ""
+			}, {
+				"value": "Gluten free",
+				"hpo": ""
+			}, {
+				"value": "Lactose free",
+				"hpo": ""
+			}, {
+				"value": "Little salt (sodium-restricted)",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "High protein"
+	}, {
+		"structure": {
+			"_id": "5c7030b59d309719c05e268b",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e64b5856f5021b8b6ec0d",
+			"width": "4",
+			"periodicity": 1,
+			"order": 5,
+			"section": "5c7021b39d309719c05e264e",
+			"question": "Other diet",
+			"responseType": "Text",
+			"name": "Other diet",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ""
+	}, {
+		"structure": {
+			"_id": "5c7030c69d309719c05e268c",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e64b5856f5021b8b6ec0d",
+			"width": "4",
+			"periodicity": 1,
+			"order": 6,
+			"section": "5c7021b39d309719c05e264e",
+			"question": "Date",
+			"responseType": "Date",
+			"name": "Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7030f19d309719c05e268d",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e64b5856f5021b8b6ec0d",
+			"width": "6",
+			"periodicity": 1,
+			"order": 7,
+			"section": "5c7021b39d309719c05e264e",
+			"question": "Diet / outcome body mass test",
+			"responseType": "Choise",
+			"name": "Diet / outcome body mass test",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "underweight",
+				"hpo": ""
+			}, {
+				"value": "good weight",
+				"hpo": ""
+			}, {
+				"value": "overweight",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7031119d309719c05e268e",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e64b5856f5021b8b6ec0d",
+			"width": "6",
+			"periodicity": 1,
+			"order": 8,
+			"section": "5c7021b39d309719c05e264e",
+			"question": "Chewing",
+			"responseType": "Choise",
+			"name": "Chewing",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Normal",
+				"hpo": ""
+			}, {
+				"value": "Bit difficult",
+				"hpo": ""
+			}, {
+				"value": "Very difficult",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "Bit difficult"
+	}, {
+		"structure": {
+			"_id": "5c70313a9d309719c05e268f",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7031119d309719c05e268e",
+			"width": "12",
+			"periodicity": 1,
+			"order": 9,
+			"section": "5c7021b39d309719c05e264e",
+			"question": "What are the difficulties",
+			"responseType": "ChoiseSet",
+			"name": "What are the difficulties",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "To cut food in pieces",
+				"hpo": ""
+			}, {
+				"value": "Takes too long",
+				"hpo": ""
+			}, {
+				"value": "Fatiggue (unable to finish)",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ["To cut food in pieces"]
+	}, {
+		"structure": {
+			"_id": "5c70315d9d309719c05e2690",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e64b5856f5021b8b6ec0d",
+			"width": "12",
+			"periodicity": 1,
+			"order": 10,
+			"section": "5c7021b39d309719c05e264e",
+			"question": "Swalloging problems",
+			"responseType": "ChoiseSet",
+			"name": "Swalloging problems",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Difficulties to swallow",
+				"hpo": ""
+			}, {
+				"value": "Needs adapted food consistency",
+				"hpo": ""
+			}, {
+				"value": "Choking",
+				"hpo": ""
+			}, {
+				"value": "None",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ["Difficulties to swallow"]
+	}, {
+		"structure": {
+			"_id": "5c70316f9d309719c05e2691",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e64b5856f5021b8b6ec0d",
+			"width": "12",
+			"periodicity": 1,
+			"order": 11,
+			"section": "5c7021b39d309719c05e264e",
+			"question": "Anders",
+			"responseType": "Text",
+			"name": "Anders",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ""
+	}, {
+		"structure": {
+			"_id": "5e5e64b5856f5021b8b6ec0d",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "12",
+			"periodicity": 1,
+			"order": 1,
+			"section": "5c7021b39d309719c05e264e",
+			"question": "Do you have information about your nutrition?",
+			"responseType": "RadioButtons",
+			"name": "Pregunta",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Yes",
+				"hpo": ""
+			}, {
+				"value": "No",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "Yes"
+	}]
+}, {
+	"section": {
+		"_id": "5c7021bb9d309719c05e264f",
+		"createdBy": "5c6d943c87c3d04724700dae",
+		"description": "",
+		"name": "Gastrointestinal",
+		"__v": 0,
+		"order": 6,
+		"enabled": true
+	},
+	"promsStructure": [{
+		"structure": {
+			"_id": "5e5e6636856f5021b8b6ec0e",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "12",
+			"periodicity": 1,
+			"order": 1,
+			"section": "5c7021bb9d309719c05e264f",
+			"question": "Do you have information about your gastrointestinal condition?",
+			"responseType": "RadioButtons",
+			"name": "Pregunta",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Yes",
+				"hpo": ""
+			}, {
+				"value": "No",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "Yes"
+	}, {
+		"structure": {
+			"_id": "5e5e66cf856f5021b8b6ec0f",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e5e6636856f5021b8b6ec0e",
+			"width": "12",
+			"periodicity": 1,
+			"order": 2,
+			"section": "5c7021bb9d309719c05e264f",
+			"question": "Please, choose which options are applicable to you, if any",
+			"responseType": "Title",
+			"name": "Please, choose which options are applicable to you, if any",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5e5e66e5856f5021b8b6ec10",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e5e6636856f5021b8b6ec0e",
+			"width": "6",
+			"periodicity": 1,
+			"order": 3,
+			"section": "5c7021bb9d309719c05e264f",
+			"question": "Diarrhea",
+			"responseType": "Toogle",
+			"name": "Diarrhea",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e66f6856f5021b8b6ec11",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e5e6636856f5021b8b6ec0e",
+			"width": "6",
+			"periodicity": 1,
+			"order": 4,
+			"section": "5c7021bb9d309719c05e264f",
+			"question": "Reflux (heartburn)",
+			"responseType": "Toogle",
+			"name": "Reflux (heartburn)",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e670b856f5021b8b6ec12",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e5e6636856f5021b8b6ec0e",
+			"width": "6",
+			"periodicity": 1,
+			"order": 5,
+			"section": "5c7021bb9d309719c05e264f",
+			"question": "Not clean for stool",
+			"responseType": "Toogle",
+			"name": "Not clean for stool",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e6723856f5021b8b6ec13",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e5e6636856f5021b8b6ec0e",
+			"width": "6",
+			"periodicity": 1,
+			"order": 6,
+			"section": "5c7021bb9d309719c05e264f",
+			"question": "PEG or tube feeding",
+			"responseType": "Toogle",
+			"name": "PEG or tube feeding",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e6737856f5021b8b6ec14",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e5e6636856f5021b8b6ec0e",
+			"width": "6",
+			"periodicity": 1,
+			"order": 7,
+			"section": "5c7021bb9d309719c05e264f",
+			"question": "Bloated feeling",
+			"responseType": "Toogle",
+			"name": "Bloated feeling",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e674a856f5021b8b6ec15",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e5e6636856f5021b8b6ec0e",
+			"width": "6",
+			"periodicity": 1,
+			"order": 8,
+			"section": "5c7021bb9d309719c05e264f",
+			"question": "None",
+			"responseType": "Toogle",
+			"name": "None",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": true
+	}, {
+		"structure": {
+			"_id": "5e5e675b856f5021b8b6ec16",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e5e6636856f5021b8b6ec0e",
+			"width": "6",
+			"periodicity": 1,
+			"order": 9,
+			"section": "5c7021bb9d309719c05e264f",
+			"question": "Constipation",
+			"responseType": "Toogle",
+			"name": "Constipation",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e6795856f5021b8b6ec17",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e5e675b856f5021b8b6ec16",
+			"width": "6",
+			"periodicity": 1,
+			"order": 10,
+			"section": "5c7021bb9d309719c05e264f",
+			"question": "How often do you have feces per week?",
+			"responseType": "Choise",
+			"name": "How often do you have feces per week?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "1",
+				"hpo": ""
+			}, {
+				"value": "2",
+				"hpo": ""
+			}, {
+				"value": "3",
+				"hpo": ""
+			}, {
+				"value": "4",
+				"hpo": ""
+			}, {
+				"value": "5",
+				"hpo": ""
+			}, {
+				"value": "6",
+				"hpo": ""
+			}, {
+				"value": "7",
+				"hpo": ""
+			}, {
+				"value": "8",
+				"hpo": ""
+			}, {
+				"value": "9",
+				"hpo": ""
+			}, {
+				"value": "10",
+				"hpo": ""
+			}, {
+				"value": "11",
+				"hpo": ""
+			}, {
+				"value": "12",
+				"hpo": ""
+			}, {
+				"value": "13",
+				"hpo": ""
+			}, {
+				"value": "14",
+				"hpo": ""
+			}, {
+				"value": "More",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}]
+}, {
+	"section": {
+		"_id": "5c7021c39d309719c05e2650",
+		"createdBy": "5c6d943c87c3d04724700dae",
+		"description": "",
+		"name": "Urinary tract",
+		"__v": 0,
+		"order": 7,
+		"enabled": true
+	},
+	"promsStructure": [{
+		"structure": {
+			"_id": "5c7032289d309719c05e2695",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "12",
+			"periodicity": 1,
+			"order": 2,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Please, choose which options are applicable to you, if any",
+			"responseType": "Label",
+			"name": "Please, choose which options are applicable to you, if any",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7032539d309719c05e2697",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "4",
+			"periodicity": 1,
+			"order": 3,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Dribble",
+			"responseType": "Toogle",
+			"name": "Dribble",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c70326a9d309719c05e2698",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7032539d309719c05e2697",
+			"width": "4",
+			"periodicity": 1,
+			"order": 4,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Start Date",
+			"responseType": "Date",
+			"name": "Start Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c70327f9d309719c05e2699",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7032539d309719c05e2697",
+			"width": "4",
+			"periodicity": 1,
+			"order": 5,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "End Date",
+			"responseType": "Date",
+			"name": "End Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c70329e9d309719c05e269a",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "4",
+			"periodicity": 1,
+			"order": 6,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Feeling that bladder is not completely empty (urinary retention)",
+			"responseType": "Toogle",
+			"name": "Feeling that bladder is not completely empty (urinary retention)",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c7032b49d309719c05e269b",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c70329e9d309719c05e269a",
+			"width": "4",
+			"periodicity": 1,
+			"order": 7,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Start Date",
+			"responseType": "Date",
+			"name": "Start Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7032cb9d309719c05e269c",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c70329e9d309719c05e269a",
+			"width": "4",
+			"periodicity": 1,
+			"order": 8,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "End Date",
+			"responseType": "Date",
+			"name": "End Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7032e89d309719c05e269d",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "4",
+			"periodicity": 1,
+			"order": 9,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Incontinence",
+			"responseType": "Toogle",
+			"name": "Incontinence",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c7032fe9d309719c05e269e",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7032e89d309719c05e269d",
+			"width": "4",
+			"periodicity": 1,
+			"order": 10,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Start Date",
+			"responseType": "Date",
+			"name": "Start Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7033119d309719c05e269f",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7032e89d309719c05e269d",
+			"width": "4",
+			"periodicity": 1,
+			"order": 11,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "End Date",
+			"responseType": "Date",
+			"name": "End Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7033259d309719c05e26a0",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "4",
+			"periodicity": 1,
+			"order": 12,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Hesitation (have to wait before pee gets out)",
+			"responseType": "Toogle",
+			"name": "Hesitation (have to wait before pee gets out)",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c7033379d309719c05e26a1",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7033259d309719c05e26a0",
+			"width": "4",
+			"periodicity": 1,
+			"order": 13,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Start Date",
+			"responseType": "Date",
+			"name": "Start Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c70335a9d309719c05e26a2",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7033259d309719c05e26a0",
+			"width": "4",
+			"periodicity": 1,
+			"order": 14,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "End Date",
+			"responseType": "Date",
+			"name": "End Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c70336c9d309719c05e26a3",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "4",
+			"periodicity": 1,
+			"order": 15,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Bedwetting",
+			"responseType": "Toogle",
+			"name": "Bedwetting",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c7033839d309719c05e26a4",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c70336c9d309719c05e26a3",
+			"width": "4",
+			"periodicity": 1,
+			"order": 16,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Start Date",
+			"responseType": "Date",
+			"name": "Start Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7033999d309719c05e26a5",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c70336c9d309719c05e26a3",
+			"width": "4",
+			"periodicity": 1,
+			"order": 17,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "End Date",
+			"responseType": "Date",
+			"name": "End Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7033ab9d309719c05e26a6",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "4",
+			"periodicity": 1,
+			"order": 18,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Interrupted puddle",
+			"responseType": "Toogle",
+			"name": "Interrupted puddle",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c7033bc9d309719c05e26a7",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7033ab9d309719c05e26a6",
+			"width": "4",
+			"periodicity": 1,
+			"order": 19,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Start Date",
+			"responseType": "Date",
+			"name": "Start Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7033d09d309719c05e26a8",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7033ab9d309719c05e26a6",
+			"width": "4",
+			"periodicity": 1,
+			"order": 20,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "End Date",
+			"responseType": "Date",
+			"name": "End Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7033e29d309719c05e26a9",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "4",
+			"periodicity": 1,
+			"order": 21,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Frequent urination",
+			"responseType": "Toogle",
+			"name": "Frequent urination",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c7033f69d309719c05e26aa",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7033e29d309719c05e26a9",
+			"width": "4",
+			"periodicity": 1,
+			"order": 22,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Start Date",
+			"responseType": "Date",
+			"name": "Start Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7034099d309719c05e26ab",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7033e29d309719c05e26a9",
+			"width": "4",
+			"periodicity": 1,
+			"order": 23,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "End Date",
+			"responseType": "Date",
+			"name": "End Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7034219d309719c05e26ac",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "4",
+			"periodicity": 1,
+			"order": 24,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Tension or compression pressures necessary to initiate urination",
+			"responseType": "Toogle",
+			"name": "Tension or compression pressures necessary to initiate urination",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c7034349d309719c05e26ad",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7034219d309719c05e26ac",
+			"width": "4",
+			"periodicity": 1,
+			"order": 25,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Start Date",
+			"responseType": "Date",
+			"name": "Start Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c70344b9d309719c05e26ae",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7034219d309719c05e26ac",
+			"width": "4",
+			"periodicity": 1,
+			"order": 26,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "End Date",
+			"responseType": "Date",
+			"name": "End Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7034609d309719c05e26af",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "4",
+			"periodicity": 1,
+			"order": 27,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Slack puddle",
+			"responseType": "Toogle",
+			"name": "Slack puddle",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c7034719d309719c05e26b0",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7034609d309719c05e26af",
+			"width": "4",
+			"periodicity": 1,
+			"order": 28,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Start Date",
+			"responseType": "Date",
+			"name": "Start Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7034829d309719c05e26b1",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7034609d309719c05e26af",
+			"width": "4",
+			"periodicity": 1,
+			"order": 29,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "End Date",
+			"responseType": "Date",
+			"name": "End Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c70349a9d309719c05e26b2",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "4",
+			"periodicity": 1,
+			"order": 30,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Pain in the bladder",
+			"responseType": "Toogle",
+			"name": "Pain in the bladder",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c7034af9d309719c05e26b3",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c70349a9d309719c05e26b2",
+			"width": "4",
+			"periodicity": 1,
+			"order": 31,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Start Date",
+			"responseType": "Date",
+			"name": "Start Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7034c39d309719c05e26b4",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c70349a9d309719c05e26b2",
+			"width": "4",
+			"periodicity": 1,
+			"order": 32,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "End Date",
+			"responseType": "Date",
+			"name": "End Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7034d39d309719c05e26b5",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "4",
+			"periodicity": 1,
+			"order": 33,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Pain in the urethra (e.g., burning sensation)",
+			"responseType": "Toogle",
+			"name": "Pain in the urethra (e.g., burning sensation)",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c7034e89d309719c05e26b6",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7034d39d309719c05e26b5",
+			"width": "4",
+			"periodicity": 1,
+			"order": 34,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Start Date",
+			"responseType": "Date",
+			"name": "Start Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7034ff9d309719c05e26b7",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7034d39d309719c05e26b5",
+			"width": "4",
+			"periodicity": 1,
+			"order": 35,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "End Date",
+			"responseType": "Date",
+			"name": "End Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7035199d309719c05e26b8",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "4",
+			"periodicity": 1,
+			"order": 36,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Reduced bladder feeling",
+			"responseType": "Toogle",
+			"name": "Reduced bladder feeling",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c70352e9d309719c05e26b9",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7035199d309719c05e26b8",
+			"width": "4",
+			"periodicity": 1,
+			"order": 37,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Start Date",
+			"responseType": "Date",
+			"name": "Start Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7035409d309719c05e26ba",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7035199d309719c05e26b8",
+			"width": "4",
+			"periodicity": 1,
+			"order": 38,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "End Date",
+			"responseType": "Date",
+			"name": "End Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7035529d309719c05e26bb",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "4",
+			"periodicity": 1,
+			"order": 39,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Suddenly and urgently urinate",
+			"responseType": "Toogle",
+			"name": "Suddenly and urgently urinate",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c7035659d309719c05e26bc",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7035529d309719c05e26bb",
+			"width": "4",
+			"periodicity": 1,
+			"order": 40,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Start Date",
+			"responseType": "Date",
+			"name": "Start Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7035789d309719c05e26bd",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7035529d309719c05e26bb",
+			"width": "4",
+			"periodicity": 1,
+			"order": 41,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "End Date",
+			"responseType": "Date",
+			"name": "End Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c70359b9d309719c05e26be",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "4",
+			"periodicity": 1,
+			"order": 42,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Peeing at night",
+			"responseType": "Toogle",
+			"name": "Peeing at night",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c7035ad9d309719c05e26bf",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c70359b9d309719c05e26be",
+			"width": "4",
+			"periodicity": 1,
+			"order": 43,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Start Date",
+			"responseType": "Date",
+			"name": "Start Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7035be9d309719c05e26c0",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c70359b9d309719c05e26be",
+			"width": "4",
+			"periodicity": 1,
+			"order": 44,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "End Date",
+			"responseType": "Date",
+			"name": "End Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7035d69d309719c05e26c1",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "4",
+			"periodicity": 1,
+			"order": 45,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Bladder catheter (tube) needed to empty bladder",
+			"responseType": "Toogle",
+			"name": "Bladder catheter (tube) needed to empty bladder",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c7035ec9d309719c05e26c2",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7035d69d309719c05e26c1",
+			"width": "4",
+			"periodicity": 1,
+			"order": 46,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Start Date",
+			"responseType": "Date",
+			"name": "Start Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7035ff9d309719c05e26c3",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c7035d69d309719c05e26c1",
+			"width": "4",
+			"periodicity": 1,
+			"order": 47,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "End Date",
+			"responseType": "Date",
+			"name": "End Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7036259d309719c05e26c4",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "6",
+			"periodicity": 1,
+			"order": 48,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Kidney stones",
+			"responseType": "Toogle",
+			"name": "Kidney stones",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c70363e9d309719c05e26c5",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "6",
+			"periodicity": 1,
+			"order": 49,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Intervention needed?",
+			"responseType": "Toogle",
+			"name": "Intervention needed?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c7036519d309719c05e26c6",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e77ac856f5021b8b6ec18",
+			"width": "12",
+			"periodicity": 1,
+			"order": 50,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Other renal problems",
+			"responseType": "Text",
+			"name": "Other renal problems",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ""
+	}, {
+		"structure": {
+			"_id": "5e5e77ac856f5021b8b6ec18",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "12",
+			"periodicity": 1,
+			"order": 1,
+			"section": "5c7021c39d309719c05e2650",
+			"question": "Do you have information about your urinary tract condition?",
+			"responseType": "RadioButtons",
+			"name": "Pregunta",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Yes",
+				"hpo": ""
+			}, {
+				"value": "No",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "Yes"
+	}]
+}, {
+	"section": {
+		"_id": "5c7021cb9d309719c05e2651",
+		"createdBy": "5c6d943c87c3d04724700dae",
+		"description": "",
+		"name": "Bone health and orthopedics",
+		"__v": 0,
+		"order": 8,
+		"enabled": true
+	},
+	"promsStructure": [{
+		"structure": {
+			"_id": "5c70366c9d309719c05e26c7",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e78ac856f5021b8b6ec1a",
+			"width": "12",
+			"periodicity": 1,
+			"order": 2,
+			"section": "5c7021cb9d309719c05e2651",
+			"question": "Fractures",
+			"responseType": "Title",
+			"name": "Fractures",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c70367c9d309719c05e26c8",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e78ac856f5021b8b6ec1a",
+			"width": "12",
+			"periodicity": 1,
+			"order": 3,
+			"section": "5c7021cb9d309719c05e2651",
+			"question": "Please, choose which options are applicable to you, if any",
+			"responseType": "Label",
+			"name": "Please, choose which options are applicable to you, if any",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c70369a9d309719c05e26c9",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e78ac856f5021b8b6ec1a",
+			"width": "12",
+			"periodicity": 1,
+			"order": 4,
+			"section": "5c7021cb9d309719c05e2651",
+			"question": "Fracture",
+			"responseType": "ChoiseAndRangeDate",
+			"name": "Fracture",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Vertebrate",
+				"hpo": ""
+			}, {
+				"value": "Legs",
+				"hpo": ""
+			}, {
+				"value": "Arms",
+				"hpo": ""
+			}, {
+				"value": "Other",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": [{
+			"other": "",
+			"endDate": null,
+			"startDate": null,
+			"choise": "Vertebrate"
+		}, {
+			"other": "Heup",
+			"endDate": "2019-10-21T22:00:00Z",
+			"startDate": "2019-10-17T22:00:00Z",
+			"choise": "Other"
+		}]
+	}, {
+		"structure": {
+			"_id": "5c7036c29d309719c05e26cb",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e78ac856f5021b8b6ec1a",
+			"width": "12",
+			"periodicity": 1,
+			"order": 6,
+			"section": "5c7021cb9d309719c05e2651",
+			"question": "Splints",
+			"responseType": "Title",
+			"name": "Splints",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7036d19d309719c05e26cc",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e78ac856f5021b8b6ec1a",
+			"width": "12",
+			"periodicity": 1,
+			"order": 7,
+			"section": "5c7021cb9d309719c05e2651",
+			"question": "Please, choose which options are applicable to you, if any",
+			"responseType": "Label",
+			"name": "Please, choose which options are applicable to you, if any",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7036ec9d309719c05e26cd",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e78ac856f5021b8b6ec1a",
+			"width": "12",
+			"periodicity": 1,
+			"order": 8,
+			"section": "5c7021cb9d309719c05e2651",
+			"question": "Splint type",
+			"responseType": "ChoiseAndDate",
+			"name": "Splint type",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Night splints",
+				"hpo": ""
+			}, {
+				"value": "KAFO’s",
+				"hpo": ""
+			}, {
+				"value": "Hand splints",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": [{
+			"date": "2012-11-07T23:00:00Z",
+			"choise": "KAFO’s"
+		}]
+	}, {
+		"structure": {
+			"_id": "5c7037039d309719c05e26ce",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e78ac856f5021b8b6ec1a",
+			"width": "12",
+			"periodicity": 1,
+			"order": 9,
+			"section": "5c7021cb9d309719c05e2651",
+			"question": "Other",
+			"responseType": "Text",
+			"name": "Other",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ""
+	}, {
+		"structure": {
+			"_id": "5e5e78ac856f5021b8b6ec1a",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "12",
+			"periodicity": 1,
+			"order": 1,
+			"section": "5c7021cb9d309719c05e2651",
+			"question": "Do you have information about your bone health?",
+			"responseType": "RadioButtons",
+			"name": "Pregunta",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Yes",
+				"hpo": ""
+			}, {
+				"value": "No",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "Yes"
+	}]
+}, {
+	"section": {
+		"_id": "5c7021d49d309719c05e2652",
+		"createdBy": "5c6d943c87c3d04724700dae",
+		"description": "",
+		"name": "(Technical) support",
+		"__v": 0,
+		"order": 9,
+		"enabled": true
+	},
+	"promsStructure": [{
+		"structure": {
+			"_id": "5c7037269d309719c05e26cf",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e7ad5856f5021b8b6ec1b",
+			"width": "12",
+			"periodicity": 1,
+			"order": 2,
+			"section": "5c7021d49d309719c05e2652",
+			"question": "Please, choose which options are applicable to you, if any",
+			"responseType": "Label",
+			"name": "Please, choose which options are applicable to you, if any",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7037619d309719c05e26d0",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e7ad5856f5021b8b6ec1b",
+			"width": "12",
+			"periodicity": 1,
+			"order": 3,
+			"section": "5c7021d49d309719c05e2652",
+			"question": "Support",
+			"responseType": "ChoiseAndRangeDate",
+			"name": "Support",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Buggy",
+				"hpo": ""
+			}, {
+				"value": "Balance bike",
+				"hpo": ""
+			}, {
+				"value": "Hand-operated wheelchair",
+				"hpo": ""
+			}, {
+				"value": "Hand-operated wheelchair with e-motion wheels",
+				"hpo": ""
+			}, {
+				"value": "Scooter",
+				"hpo": ""
+			}, {
+				"value": "Electric wheelchair",
+				"hpo": ""
+			}, {
+				"value": "Auxiliary dog (not technical)",
+				"hpo": ""
+			}, {
+				"value": "Custom car",
+				"hpo": ""
+			}, {
+				"value": "Electric bike",
+				"hpo": ""
+			}, {
+				"value": "Custom seat",
+				"hpo": ""
+			}, {
+				"value": "Other",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": [{
+			"startDate": "2011-06-30T22:00:00Z",
+			"choise": "Hand-operated wheelchair with e-motion wheels",
+			"date": "2011-06-30T22:00:00Z"
+		}, {
+			"other": "",
+			"endDate": null,
+			"startDate": null,
+			"choise": ""
+		}]
+	}, {
+		"structure": {
+			"_id": "5c7037779d309719c05e26d1",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e7ad5856f5021b8b6ec1b",
+			"width": "12",
+			"periodicity": 1,
+			"order": 4,
+			"section": "5c7021d49d309719c05e2652",
+			"question": "Others",
+			"responseType": "Text",
+			"name": "Others",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "Rolstoelscooter"
+	}, {
+		"structure": {
+			"_id": "5c70378e9d309719c05e26d2",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e7ad5856f5021b8b6ec1b",
+			"width": "4",
+			"periodicity": 1,
+			"order": 5,
+			"section": "5c7021d49d309719c05e2652",
+			"question": "Arm support",
+			"responseType": "Toogle",
+			"name": "Arm support",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": true
+	}, {
+		"structure": {
+			"_id": "5c7037a29d309719c05e26d3",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5c70378e9d309719c05e26d2",
+			"width": "4",
+			"periodicity": 1,
+			"order": 6,
+			"section": "5c7021d49d309719c05e2652",
+			"question": "Type of arm support",
+			"responseType": "Choise",
+			"name": "Type of arm support",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Mechanical",
+				"hpo": ""
+			}, {
+				"value": "Electrical",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "Electrical"
+	}, {
+		"structure": {
+			"_id": "5e5e7ad5856f5021b8b6ec1b",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "12",
+			"periodicity": 1,
+			"order": 1,
+			"section": "5c7021d49d309719c05e2652",
+			"question": "Are you using any technical support?",
+			"responseType": "RadioButtons",
+			"name": "Pregunta",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Yes",
+				"hpo": ""
+			}, {
+				"value": "No",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "Yes"
+	}, {
+		"structure": {
+			"_id": "5e5e7c64856f5021b8b6ec1c",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5c70378e9d309719c05e26d2",
+			"width": "4",
+			"periodicity": 1,
+			"order": 7,
+			"section": "5c7021d49d309719c05e2652",
+			"question": "Brand",
+			"responseType": "Text",
+			"name": "Brand",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "Armon"
+	}, {
+		"structure": {
+			"_id": "5e5e7c7e856f5021b8b6ec1d",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e5e7ad5856f5021b8b6ec1b",
+			"width": "12",
+			"periodicity": 1,
+			"order": 9,
+			"section": "5c7021d49d309719c05e2652",
+			"question": "Computer adaptations",
+			"responseType": "Title",
+			"name": "Computer adaptations",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5e5e7cb0856f5021b8b6ec1e",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5c70378e9d309719c05e26d2",
+			"width": "12",
+			"periodicity": 1,
+			"order": 8,
+			"section": "5c7021d49d309719c05e2652",
+			"question": "How often do you use your arm support?",
+			"responseType": "Choise",
+			"name": "How often do you use your arm support?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "All day",
+				"hpo": ""
+			}, {
+				"value": "Only for meals",
+				"hpo": ""
+			}, {
+				"value": "A few times a week",
+				"hpo": ""
+			}, {
+				"value": "(Almost) never",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "Only for meals"
+	}, {
+		"structure": {
+			"_id": "5e5e7ccc856f5021b8b6ec1f",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e5e7ad5856f5021b8b6ec1b",
+			"width": "6",
+			"periodicity": 1,
+			"order": 10,
+			"section": "5c7021d49d309719c05e2652",
+			"question": "Eye tracking",
+			"responseType": "Toogle",
+			"name": "Eye tracking",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e7ce2856f5021b8b6ec20",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e5e7ad5856f5021b8b6ec1b",
+			"width": "6",
+			"periodicity": 1,
+			"order": 11,
+			"section": "5c7021d49d309719c05e2652",
+			"question": "Speech",
+			"responseType": "Toogle",
+			"name": "Speech",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e7cf5856f5021b8b6ec21",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e5e7ad5856f5021b8b6ec1b",
+			"width": "6",
+			"periodicity": 1,
+			"order": 12,
+			"section": "5c7021d49d309719c05e2652",
+			"question": "Custom mouse",
+			"responseType": "Toogle",
+			"name": "Custom mouse",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e7d06856f5021b8b6ec22",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e5e7ad5856f5021b8b6ec1b",
+			"width": "6",
+			"periodicity": 1,
+			"order": 13,
+			"section": "5c7021d49d309719c05e2652",
+			"question": "Custom controller (gaming)",
+			"responseType": "Toogle",
+			"name": "Custom controller (gaming)",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e7d17856f5021b8b6ec23",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e5e7ad5856f5021b8b6ec1b",
+			"width": "6",
+			"periodicity": 1,
+			"order": 14,
+			"section": "5c7021d49d309719c05e2652",
+			"question": "Home automation (environmental control)",
+			"responseType": "Toogle",
+			"name": "Home automation (environmental control)",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e7d28856f5021b8b6ec24",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e5e7ad5856f5021b8b6ec1b",
+			"width": "3",
+			"periodicity": 1,
+			"order": 15,
+			"section": "5c7021d49d309719c05e2652",
+			"question": "Other ",
+			"responseType": "Toogle",
+			"name": "Other ",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e7d41856f5021b8b6ec25",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e5e7d28856f5021b8b6ec24",
+			"width": "4",
+			"periodicity": 1,
+			"order": 16,
+			"section": "5c7021d49d309719c05e2652",
+			"question": "Say other",
+			"responseType": "Text",
+			"name": "Other text",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ""
+	}]
+}, {
+	"section": {
+		"_id": "5c7021de9d309719c05e2653",
+		"createdBy": "5c6d943c87c3d04724700dae",
+		"description": "",
+		"name": "Learning and behaviour outcomes",
+		"__v": 0,
+		"order": 10,
+		"enabled": true
+	},
+	"promsStructure": [{
+		"structure": {
+			"_id": "5c7038909d309719c05e26d8",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e7efd856f5021b8b6ec26",
+			"width": "12",
+			"periodicity": 1,
+			"order": 2,
+			"section": "5c7021de9d309719c05e2653",
+			"question": "Scale",
+			"responseType": "NumberChoiseAndDate",
+			"name": "IQ score scale",
+			"__v": 0,
+			"disableDataPoints": null,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Don’t know",
+				"hpo": ""
+			}, {
+				"value": "Stanford-Binet Intelligence Scales",
+				"hpo": ""
+			}, {
+				"value": "Wechsler Intelligence Scales",
+				"hpo": ""
+			}, {
+				"value": "Other",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7038ba9d309719c05e26da",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e7efd856f5021b8b6ec26",
+			"width": "6",
+			"periodicity": 1,
+			"order": 3,
+			"section": "5c7021de9d309719c05e2653",
+			"question": "Developmental delay ",
+			"responseType": "Toogle",
+			"name": "Developmental delay ",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c7038ce9d309719c05e26db",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e7efd856f5021b8b6ec26",
+			"width": "6",
+			"periodicity": 1,
+			"order": 4,
+			"section": "5c7021de9d309719c05e2653",
+			"question": "Speech delay",
+			"responseType": "Toogle",
+			"name": "Speech delay",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e5e7efd856f5021b8b6ec26",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "12",
+			"periodicity": 1,
+			"order": 1,
+			"section": "5c7021de9d309719c05e2653",
+			"question": "Do you have information about your learning and behaviour outcomes?",
+			"responseType": "RadioButtons",
+			"name": "Pregunta",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Yes",
+				"hpo": ""
+			}, {
+				"value": "No",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "Yes"
+	}]
+}, {
+	"section": {
+		"_id": "5c7021e69d309719c05e2654",
+		"createdBy": "5c6d943c87c3d04724700dae",
+		"description": "",
+		"name": "Problems and comorbidity",
+		"__v": 0,
+		"order": 11,
+		"enabled": true
+	},
+	"promsStructure": [{
+		"structure": {
+			"_id": "5c7039519d309719c05e26dd",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e80bb856f5021b8b6ec27",
+			"width": "6",
+			"periodicity": 1,
+			"order": 2,
+			"section": "5c7021e69d309719c05e2654",
+			"question": "Neuropsychological issues",
+			"responseType": "ChoiseSet",
+			"name": "Neuropsychological issues",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Reading problems",
+				"hpo": ""
+			}, {
+				"value": "Problems with arithmetic",
+				"hpo": ""
+			}, {
+				"value": "Problems with working memory",
+				"hpo": ""
+			}, {
+				"value": "Autism",
+				"hpo": ""
+			}, {
+				"value": "Obsessive Compulsive Disorder (OCD): compulsive thoughts (obsessions) / compulsions",
+				"hpo": ""
+			}, {
+				"value": "ADHD",
+				"hpo": ""
+			}, {
+				"value": "Epilepsy",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ["Obsessive Compulsive Disorder (OCD): compulsive thoughts (obsessions) / compulsions"]
+	}, {
+		"structure": {
+			"_id": "5c7039679d309719c05e26de",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e80bb856f5021b8b6ec27",
+			"width": "6",
+			"periodicity": 1,
+			"order": 3,
+			"section": "5c7021e69d309719c05e2654",
+			"question": "Other",
+			"responseType": "Text",
+			"name": "Other",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ""
+	}, {
+		"structure": {
+			"_id": "5c70399c9d309719c05e26e0",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e80bb856f5021b8b6ec27",
+			"width": "6",
+			"periodicity": 1,
+			"order": 5,
+			"section": "5c7021e69d309719c05e2654",
+			"question": "Psychiatric problems",
+			"responseType": "ChoiseSet",
+			"name": "Psychiatric problems",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Anxiety",
+				"hpo": ""
+			}, {
+				"value": "Depression",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ["Anxiety"]
+	}, {
+		"structure": {
+			"_id": "5c7039b29d309719c05e26e1",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e80bb856f5021b8b6ec27",
+			"width": "6",
+			"periodicity": 1,
+			"order": 6,
+			"section": "5c7021e69d309719c05e2654",
+			"question": "Other",
+			"responseType": "Text",
+			"name": "Other",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ""
+	}, {
+		"structure": {
+			"_id": "5c7039c59d309719c05e26e2",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e80bb856f5021b8b6ec27",
+			"width": "12",
+			"periodicity": 1,
+			"order": 7,
+			"section": "5c7021e69d309719c05e2654",
+			"question": "Sleeping problems",
+			"responseType": "Title",
+			"name": "Sleeping problems",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c7039da9d309719c05e26e3",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e80bb856f5021b8b6ec27",
+			"width": "4",
+			"periodicity": 1,
+			"order": 8,
+			"section": "5c7021e69d309719c05e2654",
+			"question": "Snoring",
+			"responseType": "Toogle",
+			"name": "Snoring",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c7039f19d309719c05e26e4",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e80bb856f5021b8b6ec27",
+			"width": "4",
+			"periodicity": 1,
+			"order": 9,
+			"section": "5c7021e69d309719c05e2654",
+			"question": "Difficulties falling asleep",
+			"responseType": "Toogle",
+			"name": "Difficulties falling asleep",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c703a059d309719c05e26e5",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e80bb856f5021b8b6ec27",
+			"width": "4",
+			"periodicity": 1,
+			"order": 10,
+			"section": "5c7021e69d309719c05e2654",
+			"question": "Frequently waking up at night",
+			"responseType": "Number",
+			"name": "Frequently waking up at night",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": 0
+	}, {
+		"structure": {
+			"_id": "5c703a169d309719c05e26e6",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e80bb856f5021b8b6ec27",
+			"width": "12",
+			"periodicity": 1,
+			"order": 11,
+			"section": "5c7021e69d309719c05e2654",
+			"question": "Others",
+			"responseType": "Title",
+			"name": "Others",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5c703a269d309719c05e26e7",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e80bb856f5021b8b6ec27",
+			"width": "4",
+			"periodicity": 1,
+			"order": 12,
+			"section": "5c7021e69d309719c05e2654",
+			"question": "(Pre) diabetes",
+			"responseType": "Toogle",
+			"name": "(Pre) diabetes",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c703a359d309719c05e26e8",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e80bb856f5021b8b6ec27",
+			"width": "4",
+			"periodicity": 1,
+			"order": 13,
+			"section": "5c7021e69d309719c05e2654",
+			"question": "Allergy",
+			"responseType": "Toogle",
+			"name": "Allergy",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5c703a569d309719c05e26e9",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e80bb856f5021b8b6ec27",
+			"width": "4",
+			"periodicity": 1,
+			"order": 14,
+			"section": "5c7021e69d309719c05e2654",
+			"question": "Skin condition (incl. Nails)",
+			"responseType": "Toogle",
+			"name": "Skin condition (incl. Nails)",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": true
+	}, {
+		"structure": {
+			"_id": "5c703a6e9d309719c05e26ea",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"relatedTo": "5e5e80bb856f5021b8b6ec27",
+			"width": "12",
+			"periodicity": 1,
+			"order": 15,
+			"section": "5c7021e69d309719c05e2654",
+			"question": "Other diseases",
+			"responseType": "Text",
+			"name": "Other diseases",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "Staar"
+	}, {
+		"structure": {
+			"_id": "5e5e80bb856f5021b8b6ec27",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "12",
+			"periodicity": 1,
+			"order": 1,
+			"section": "5c7021e69d309719c05e2654",
+			"question": "Do you have neuropsychological, psychiatric, sleeping problems, or others?",
+			"responseType": "RadioButtons",
+			"name": "Pregunta",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Yes",
+				"hpo": ""
+			}, {
+				"value": "No",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "Yes"
+	}]
+}, {
+	"section": {
+		"_id": "5c7021f19d309719c05e2655",
+		"createdBy": "5c6d943c87c3d04724700dae",
+		"description": "",
+		"name": "Pain",
+		"__v": 0,
+		"order": 12,
+		"enabled": true
+	},
+	"promsStructure": [{
+		"structure": {
+			"_id": "5e5e8192856f5021b8b6ec28",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "12",
+			"periodicity": 1,
+			"order": 1,
+			"section": "5c7021f19d309719c05e2655",
+			"question": "Are you experiencing some kind of pain?",
+			"responseType": "RadioButtons",
+			"name": "Pregunta",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Yes",
+				"hpo": ""
+			}, {
+				"value": "No",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "Yes"
+	}, {
+		"structure": {
+			"_id": "5e5e81f6856f5021b8b6ec29",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e5e8192856f5021b8b6ec28",
+			"width": "12",
+			"periodicity": 1,
+			"order": 2,
+			"section": "5c7021f19d309719c05e2655",
+			"question": "Pain block",
+			"responseType": "TextAndDoubleChoiseAndRangeDate",
+			"name": "Pain block",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Hands / Fingers",
+				"hpo": ""
+			}, {
+				"value": "Foot",
+				"hpo": ""
+			}, {
+				"value": "Knee",
+				"hpo": ""
+			}, {
+				"value": "Schouder",
+				"hpo": ""
+			}, {
+				"value": "Neck ",
+				"hpo": ""
+			}, {
+				"value": "Elbow",
+				"hpo": ""
+			}, {
+				"value": "Head",
+				"hpo": ""
+			}, {
+				"value": "Back",
+				"hpo": ""
+			}, {
+				"value": "Chest",
+				"hpo": ""
+			}, {
+				"value": "Hip",
+				"hpo": ""
+			}, {
+				"value": "Belly",
+				"hpo": ""
+			}, {
+				"value": "Ankle",
+				"hpo": ""
+			}, {
+				"value": "Wrist",
+				"hpo": ""
+			}, {
+				"value": "thighs",
+				"hpo": ""
+			}, {
+				"value": "lower legs",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": [{
+			"endDate": "2019-10-23T22:00:00Z",
+			"startDate": "2019-10-17T22:00:00Z",
+			"area": "Hip",
+			"grade": "9",
+			"CauseOfPain": "gebroken heup"
+		}, {
+			"endDate": null,
+			"startDate": null,
+			"area": "",
+			"grade": "",
+			"CauseOfPain": ""
+		}]
+	}]
+}, {
+	"section": {
+		"_id": "5e873796c7175607386603ea",
+		"createdBy": "5c6d943c87c3d04724700dae",
+		"description": "",
+		"name": "COVID-19",
+		"__v": 0,
+		"order": 13,
+		"enabled": true
+	},
+	"promsStructure": [{
+		"structure": {
+			"_id": "5e8737ddc7175607386603eb",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": null,
+			"width": "12",
+			"periodicity": 1,
+			"order": 1,
+			"section": "5e873796c7175607386603ea",
+			"question": "Do you have information to fill about COVID-19?",
+			"responseType": "RadioButtons",
+			"name": "Pregunta",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Yes",
+				"hpo": ""
+			}, {
+				"value": "No",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": "No"
+	}, {
+		"structure": {
+			"_id": "5e873806c7175607386603ec",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8737ddc7175607386603eb",
+			"width": "6",
+			"periodicity": 1,
+			"order": 2,
+			"section": "5e873796c7175607386603ea",
+			"question": "Have you been tested for COVID-19?",
+			"responseType": "Toogle",
+			"name": "Have you been tested for COVID-19?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e87381fc7175607386603ed",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e873806c7175607386603ec",
+			"width": "6",
+			"periodicity": 1,
+			"order": 3,
+			"section": "5e873796c7175607386603ea",
+			"question": "Date",
+			"responseType": "Date",
+			"name": "Date",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5e873837c7175607386603ee",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8737ddc7175607386603eb",
+			"width": "12",
+			"periodicity": 1,
+			"order": 4,
+			"section": "5e873796c7175607386603ea",
+			"question": "Did you have COVID-19 infection?",
+			"responseType": "Toogle",
+			"name": "Did you have COVID-19 infection?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e87387dc7175607386603ef",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8737ddc7175607386603eb",
+			"width": "6",
+			"periodicity": 1,
+			"order": 5,
+			"section": "5e873796c7175607386603ea",
+			"question": "What were your symptoms?",
+			"responseType": "ChoiseSet",
+			"name": "What were your symptoms?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Fever (38 degrees or higher)",
+				"hpo": ""
+			}, {
+				"value": "Coughing",
+				"hpo": ""
+			}, {
+				"value": "Muggy",
+				"hpo": ""
+			}, {
+				"value": "Loss of smell (anosmia)",
+				"hpo": ""
+			}, {
+				"value": "Loss of taste (ageusia)",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5e8738b2c7175607386603f0",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8737ddc7175607386603eb",
+			"width": "6",
+			"periodicity": 1,
+			"order": 6,
+			"section": "5e873796c7175607386603ea",
+			"question": "What symptoms have you had that are not listed in the previous question?",
+			"responseType": "Text",
+			"name": "What symptoms have you had that are not listed above?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ""
+	}, {
+		"structure": {
+			"_id": "5e8738d1c7175607386603f1",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8737ddc7175607386603eb",
+			"width": "6",
+			"periodicity": 1,
+			"order": 7,
+			"section": "5e873796c7175607386603ea",
+			"question": "How many days did your symptoms last?",
+			"responseType": "Number",
+			"name": "How many days did your symptoms last?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": null
+	}, {
+		"structure": {
+			"_id": "5e8738e9c7175607386603f2",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8737ddc7175607386603eb",
+			"width": "6",
+			"periodicity": 1,
+			"order": 8,
+			"section": "5e873796c7175607386603ea",
+			"question": "   ",
+			"responseType": "",
+			"name": "White space",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5e87391cc7175607386603f3",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8737ddc7175607386603eb",
+			"width": "6",
+			"periodicity": 1,
+			"order": 9,
+			"section": "5e873796c7175607386603ea",
+			"question": "Where were you treated?",
+			"responseType": "ChoiseSet",
+			"name": "Where were you treated?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "At home",
+				"hpo": ""
+			}, {
+				"value": "Hospital (not intensive care)",
+				"hpo": ""
+			}, {
+				"value": "Hospital (intensive care)",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5e87393ec7175607386603f4",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8737ddc7175607386603eb",
+			"width": "6",
+			"periodicity": 1,
+			"order": 10,
+			"section": "5e873796c7175607386603ea",
+			"question": "How many days were you treated for?",
+			"responseType": "Number",
+			"name": "How many days were you treated for?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": null
+	}, {
+		"structure": {
+			"_id": "5e87395fc7175607386603f5",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8737ddc7175607386603eb",
+			"width": "12",
+			"periodicity": 1,
+			"order": 11,
+			"section": "5e873796c7175607386603ea",
+			"question": "Did you get a CT scan?",
+			"responseType": "Toogle",
+			"name": "Did you get a CT scan?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e87397bc7175607386603f6",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8737ddc7175607386603eb",
+			"width": "6",
+			"periodicity": 1,
+			"order": 12,
+			"section": "5e873796c7175607386603ea",
+			"question": "What was your lowest measured (oxygen) saturation? (in %)",
+			"responseType": "Number",
+			"name": "What was your lowest measured (oxygen) saturation? (in %)",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": null
+	}, {
+		"structure": {
+			"_id": "5e87399cc7175607386603f7",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8737ddc7175607386603eb",
+			"width": "6",
+			"periodicity": 1,
+			"order": 13,
+			"section": "5e873796c7175607386603ea",
+			"question": "I don’t know",
+			"responseType": "Toogle",
+			"name": "I don’t know",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e8739b5c7175607386603f8",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8737ddc7175607386603eb",
+			"width": "12",
+			"periodicity": 1,
+			"order": 14,
+			"section": "5e873796c7175607386603ea",
+			"question": "Did you require oxygen?",
+			"responseType": "Toogle",
+			"name": "Did you require oxygen?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e8739d9c7175607386603f9",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8737ddc7175607386603eb",
+			"width": "6",
+			"periodicity": 1,
+			"order": 15,
+			"section": "5e873796c7175607386603ea",
+			"question": "Were you intubated?",
+			"responseType": "Toogle",
+			"name": "Were you intubated?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e8739f5c7175607386603fa",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8739d9c7175607386603f9",
+			"width": "6",
+			"periodicity": 1,
+			"order": 16,
+			"section": "5e873796c7175607386603ea",
+			"question": " How many days?",
+			"responseType": "Number",
+			"name": " How many days?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": null
+	}, {
+		"structure": {
+			"_id": "5e873a10c7175607386603fb",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8737ddc7175607386603eb",
+			"width": "6",
+			"periodicity": 1,
+			"order": 17,
+			"section": "5e873796c7175607386603ea",
+			"question": "Did you keep taking your corticosteroids?",
+			"responseType": "Toogle",
+			"name": "Did you keep taking your corticosteroids?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e873a2ec7175607386603fc",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e873a10c7175607386603fb",
+			"width": "6",
+			"periodicity": 1,
+			"order": 18,
+			"section": "5e873796c7175607386603ea",
+			"question": "Did you have a stress dose (extra corticosteroids because of infection)?",
+			"responseType": "Toogle",
+			"name": "Did you have a stress dose (extra corticosteroids because of infection)?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e873a57c7175607386603fd",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8737ddc7175607386603eb",
+			"width": "3",
+			"periodicity": 1,
+			"order": 19,
+			"section": "5e873796c7175607386603ea",
+			"question": "Have you been on antibiotics?",
+			"responseType": "Toogle",
+			"name": "Have you been on antibiotics?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e873a6fc7175607386603fe",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e873a57c7175607386603fd",
+			"width": "3",
+			"periodicity": 1,
+			"order": 20,
+			"section": "5e873796c7175607386603ea",
+			"question": "How many days?",
+			"responseType": "Number",
+			"name": "How many days?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": null
+	}, {
+		"structure": {
+			"_id": "5e873a9cc7175607386603ff",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e873a57c7175607386603fd",
+			"width": "3",
+			"periodicity": 1,
+			"order": 21,
+			"section": "5e873796c7175607386603ea",
+			"question": "By infusion or pills?",
+			"responseType": "Choise",
+			"name": "By infusion or pills?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [{
+				"value": "Infusion",
+				"hpo": ""
+			}, {
+				"value": "Pills",
+				"hpo": ""
+			}],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": []
+	}, {
+		"structure": {
+			"_id": "5e873ab9c717560738660400",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e873a57c7175607386603fd",
+			"width": "3",
+			"periodicity": 1,
+			"order": 22,
+			"section": "5e873796c7175607386603ea",
+			"question": "What antibiotics?",
+			"responseType": "Text",
+			"name": "What antibiotics?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ""
+	}, {
+		"structure": {
+			"_id": "5e873ad7c717560738660401",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8737ddc7175607386603eb",
+			"width": "6",
+			"periodicity": 1,
+			"order": 23,
+			"section": "5e873796c7175607386603ea",
+			"question": "Did anything change on your heart medication?",
+			"responseType": "Toogle",
+			"name": "Did anything change on your heart medication?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": false
+	}, {
+		"structure": {
+			"_id": "5e873af4c717560738660402",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e873ad7c717560738660401",
+			"width": "6",
+			"periodicity": 1,
+			"order": 24,
+			"section": "5e873796c7175607386603ea",
+			"question": "what has changed?",
+			"responseType": "Text",
+			"name": "Heart medication field",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ""
+	}, {
+		"structure": {
+			"_id": "5e873b0ac717560738660403",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8737ddc7175607386603eb",
+			"width": "12",
+			"periodicity": 1,
+			"order": 25,
+			"section": "5e873796c7175607386603ea",
+			"question": "What treatments have you had that are not listed above?",
+			"responseType": "Text",
+			"name": "What treatments have you had that are not listed above?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ""
+	}, {
+		"structure": {
+			"_id": "5e873b20c717560738660404",
+			"createdBy": "5c6d943c87c3d04724700dae",
+			"disableDataPoints": null,
+			"relatedTo": "5e8737ddc7175607386603eb",
+			"width": "12",
+			"periodicity": 1,
+			"order": 26,
+			"section": "5e873796c7175607386603ea",
+			"question": "What other aspects would you like to report?",
+			"responseType": "Text",
+			"name": "What other aspects would you like to report?",
+			"__v": 0,
+			"enabled": true,
+			"isRequired": false,
+			"values": [],
+			"marginTop": false,
+			"hideQuestion": false
+		},
+		"data": ""
+	}]
+}]

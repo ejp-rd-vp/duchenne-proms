@@ -3,6 +3,6 @@
     <uri id="Imports Wizard Entry" name="http://semanticscience.org/ontology/sio/v1.48/sio-release.owl" uri="http://semanticscience.org/ontology/sio.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ro/releases/2020-12-18/ro.owl" uri="http://purl.obolibrary.org/obo/ro.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1613140452431" name="https://w3id.org/duchenne-proms" uri="duchenne-proms.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1613393567578" name="https://w3id.org/duchenne-proms" uri="duchenne-proms.owl"/>
     </group>
 </catalog>
