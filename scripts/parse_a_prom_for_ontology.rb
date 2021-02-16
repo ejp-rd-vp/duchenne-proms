@@ -1,13 +1,26 @@
 require 'json'
 
-count = 1
+count = 189
 
-json = File.read("one_patient_prom.json")
+    #<!-- https://w3id.org/duchenne-proms#DDP_00188 -->
+    #
+    #<owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00188">
+    #    <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
+    #    <dc:description xml:lang="en">What other aspects would you like to report?</dc:description>
+    #    <dc:identifier>DDP_00188</dc:identifier>
+    #    <resource:SIO_000628>f29:5e873b20c717560738660404</resource:SIO_000628>
+    #    <rdfs:label xml:lang="en">COVID-19: What other aspects would you like to report?</rdfs:label>
+    #</owl:Class>
+    
+
+json = File.read("one_PROM_Feb2021.json")
 json = JSON.parse(json)
 
 clauses = []
 json.each do |sec|
   section = sec["section"]["name"]
+  # COMMENT THE NEXT LINE TO REGEN ONTOLOGY FROM_SCRATCH
+  next unless section == "Questionnaire Activities"  # to add teh questionnaire stuff to the ontology
   sectiontitle =  section.downcase + "_section"
   questions = ""
   
