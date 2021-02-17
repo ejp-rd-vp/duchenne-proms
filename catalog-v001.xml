@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://www.w3.org/2004/02/skos/core" uri="http://www.w3.org/2004/02/skos/core#"/>
+    <uri id="Imports Wizard Entry" name="http://semanticscience.org/ontology/sio/v1.49/sio-release.owl" uri="http://semanticscience.org/ontology/sio.owl"/>
     <uri id="Imports Wizard Entry" name="http://semanticscience.org/ontology/sio/v1.48/sio-release.owl" uri="http://semanticscience.org/ontology/sio.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ro/releases/2020-12-18/ro.owl" uri="http://purl.obolibrary.org/obo/ro.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1613475125062" name="https://w3id.org/duchenne-proms" uri="duchenne-proms.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1613475125062" name="shadowed:https://w3id.org/duchenne-proms" uri="scripts/questionnaire_clauses.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1613565205958" name="https://w3id.org/duchenne-proms" uri="duchenne-proms.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1613565205958" name="shadowed:https://w3id.org/duchenne-proms" uri="scripts/questionnaire_clauses.rdf"/>
     </group>
 </catalog>
