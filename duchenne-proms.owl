@@ -18,7 +18,7 @@
      xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
      xmlns:resource="http://semanticscience.org/resource/">
     <owl:Ontology rdf:about="https://w3id.org/duchenne-proms">
-        <owl:imports rdf:resource="http://semanticscience.org/ontology/sio/v1.49/sio-release.owl"/>
+        <owl:imports rdf:resource="http://semanticscience.org/ontology/sio/v1.51/sio-release.owl"/>
         <owl:imports rdf:resource="http://www.w3.org/2004/02/skos/core"/>
         <rdfs:comment xml:lang="en">An ontology for the Duchenne Data Platform PROMs from Foundation29</rdfs:comment>
         <rdfs:label xml:lang="en">Foundation29 PROMs</rdfs:label>
@@ -1639,8 +1639,8 @@
         <dc:description xml:lang="en">Support</dc:description>
         <dc:identifier>ddp:DDP_00132</dc:identifier>
         <rdfs:label xml:lang="en">(Technical) support: Support</rdfs:label>
-        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
         <rdfs:seeAlso>f29:5c7037619d309719c05e26d0</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
     </owl:Class>
     
 
@@ -1652,8 +1652,8 @@
         <dc:description xml:lang="en">Others</dc:description>
         <dc:identifier>ddp:DDP_00133</dc:identifier>
         <rdfs:label xml:lang="en">(Technical) support: Other kinds of technical support not mentioned?</rdfs:label>
-        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
         <rdfs:seeAlso>f29:5c7037779d309719c05e26d1</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
     </owl:Class>
     
 
@@ -1665,8 +1665,8 @@
         <dc:description xml:lang="en">Arm support</dc:description>
         <dc:identifier>ddp:DDP_00134</dc:identifier>
         <rdfs:label xml:lang="en">(Technical) support: Arm support</rdfs:label>
-        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
         <rdfs:seeAlso>f29:5c70378e9d309719c05e26d2</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
     </owl:Class>
     
 
@@ -1678,8 +1678,8 @@
         <dc:description xml:lang="en">Type of arm support</dc:description>
         <dc:identifier>ddp:DDP_00135</dc:identifier>
         <rdfs:label xml:lang="en">(Technical) support: Type of arm support</rdfs:label>
-        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
         <rdfs:seeAlso>f29:5c7037a29d309719c05e26d3</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
     </owl:Class>
     
 
@@ -1691,8 +1691,8 @@
         <dc:description xml:lang="en">Are you using any technical support?</dc:description>
         <dc:identifier>ddp:DDP_00136</dc:identifier>
         <rdfs:label xml:lang="en">(Technical) support: Question - Are you using any technical support?</rdfs:label>
-        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
         <rdfs:seeAlso>f29:5e5e7ad5856f5021b8b6ec1b</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
     </owl:Class>
     
 
@@ -1717,8 +1717,8 @@
         <dc:description xml:lang="en">How often do you use your arm support?</dc:description>
         <dc:identifier>ddp:DDP_00138</dc:identifier>
         <rdfs:label xml:lang="en">(Technical) support: How often do you use your arm support?</rdfs:label>
-        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
         <rdfs:seeAlso>f29:5e5e7cb0856f5021b8b6ec1e</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
     </owl:Class>
     
 
@@ -1730,8 +1730,8 @@
         <dc:description xml:lang="en">Eye tracking</dc:description>
         <dc:identifier>ddp:DDP_00139</dc:identifier>
         <rdfs:label xml:lang="en">(Technical) support: Eye tracking</rdfs:label>
-        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
         <rdfs:seeAlso>f29:5e5e7ccc856f5021b8b6ec1f</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
     </owl:Class>
     
 
@@ -1756,8 +1756,8 @@
         <dc:description xml:lang="en">Custom mouse</dc:description>
         <dc:identifier>ddp:DDP_00141</dc:identifier>
         <rdfs:label xml:lang="en">(Technical) support: Custom mouse</rdfs:label>
-        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
         <rdfs:seeAlso>f29:5e5e7cf5856f5021b8b6ec21</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
     </owl:Class>
     
 
@@ -1769,8 +1769,8 @@
         <dc:description xml:lang="en">Custom controller (gaming)</dc:description>
         <dc:identifier>ddp:DDP_00142</dc:identifier>
         <rdfs:label xml:lang="en">(Technical) support: Custom controller (gaming)</rdfs:label>
-        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
         <rdfs:seeAlso>f29:5e5e7d06856f5021b8b6ec22</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
     </owl:Class>
     
 
@@ -1782,8 +1782,8 @@
         <dc:description xml:lang="en">Home automation (environmental control)</dc:description>
         <dc:identifier>ddp:DDP_00143</dc:identifier>
         <rdfs:label xml:lang="en">(Technical) support: Home automation (environmental control)</rdfs:label>
-        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
         <rdfs:seeAlso>f29:5e5e7d17856f5021b8b6ec23</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
     </owl:Class>
     
 
@@ -1795,8 +1795,8 @@
         <dc:description xml:lang="en">Other </dc:description>
         <dc:identifier>ddp:DDP_00144</dc:identifier>
         <rdfs:label xml:lang="en">(Technical) support: Do you hae anything else to say about technical support?</rdfs:label>
-        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
         <rdfs:seeAlso>f29:5e5e7d28856f5021b8b6ec24</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
     </owl:Class>
     
 
@@ -1808,8 +1808,8 @@
         <dc:description xml:lang="en">Say other</dc:description>
         <dc:identifier>ddp:DDP_00145</dc:identifier>
         <rdfs:label xml:lang="en">(Technical) support: What else do you want to say about technical support?</rdfs:label>
-        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
         <rdfs:seeAlso>f29:5e5e7d41856f5021b8b6ec25</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
     </owl:Class>
     
 
