@@ -68,6 +68,7 @@
         <dc:identifier>ddp:DDP_00001</dc:identifier>
         <rdfs:label xml:lang="en">Diagnosis: What was your diagnosis?</rdfs:label>
         <rdfs:seeAlso>f29:5c701fbe6df9261214ddd353</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15220"/>
     </owl:Class>
     
 
@@ -80,6 +81,7 @@
         <dc:identifier>ddp:DDP_00002</dc:identifier>
         <rdfs:label xml:lang="en">Diagnosis: Date of diagnosis</rdfs:label>
         <rdfs:seeAlso>f29:5c701fd86df9261214ddd354</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15220"/>
     </owl:Class>
     
 
@@ -92,6 +94,7 @@
         <dc:identifier>ddp:DDP_00003</dc:identifier>
         <rdfs:label xml:lang="en">Diagnosis: Diagnosis Delay - Number of months/years</rdfs:label>
         <rdfs:seeAlso>f29:5c7024949d309719c05e2656</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15220"/>
     </owl:Class>
     
 
@@ -104,6 +107,7 @@
         <dc:identifier>ddp:DDP_00004</dc:identifier>
         <rdfs:label xml:lang="en">Diagnosis: Diagnosis Delay 2 - Select months or years</rdfs:label>
         <rdfs:seeAlso>f29:5c7024b49d309719c05e2657</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15220"/>
     </owl:Class>
     
 
@@ -117,6 +121,7 @@
         <rdfs:label xml:lang="en">Diagnosis: Delayed speech development</rdfs:label>
         <rdfs:seeAlso>f29:5e5e4d5f856f5021b8b6ebfe</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0000750"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15220"/>
     </owl:Class>
     
 
@@ -130,6 +135,7 @@
         <rdfs:label xml:lang="en">Diagnosis: Delayed motor development</rdfs:label>
         <rdfs:seeAlso>f29:5e5e4d78856f5021b8b6ebff</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0001270"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15220"/>
     </owl:Class>
     
 
@@ -143,6 +149,7 @@
         <rdfs:label xml:lang="en">Diagnosis: Developmental backlog</rdfs:label>
         <rdfs:seeAlso>f29:5e5e4d93856f5021b8b6ec00</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0001263"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15220"/>
     </owl:Class>
     
 
@@ -156,6 +163,7 @@
         <rdfs:label xml:lang="en">Diagnosis: Less endurance</rdfs:label>
         <rdfs:seeAlso>f29:5e5e4da8856f5021b8b6ec01</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/MP_0012106"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15220"/>
     </owl:Class>
     
 
@@ -169,6 +177,7 @@
         <rdfs:label xml:lang="en">Diagnosis: Behavioral problems</rdfs:label>
         <rdfs:seeAlso>f29:5e5e4dbc856f5021b8b6ec02</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0000708"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15220"/>
     </owl:Class>
     
 
@@ -182,6 +191,7 @@
         <rdfs:label xml:lang="en">Diagnosis: Delay in walking</rdfs:label>
         <rdfs:seeAlso>f29:5e5e4dd0856f5021b8b6ec03</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0002194"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15220"/>
     </owl:Class>
     
 
@@ -194,6 +204,7 @@
         <dc:identifier>ddp:DDP_00011</dc:identifier>
         <rdfs:label xml:lang="en">Diagnosis: Fall more frequently</rdfs:label>
         <rdfs:seeAlso>f29:5e5e4de4856f5021b8b6ec04</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15220"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C172685"/>
     </owl:Class>
     
@@ -207,6 +218,7 @@
         <dc:identifier>ddp:DDP_00012</dc:identifier>
         <rdfs:label xml:lang="en">Diagnosis: Thick calves</rdfs:label>
         <rdfs:seeAlso>f29:5e5e4dfc856f5021b8b6ec05</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15220"/>
     </owl:Class>
     
 
@@ -219,6 +231,7 @@
         <dc:identifier>ddp:DDP_00013</dc:identifier>
         <rdfs:label xml:lang="en">Diagnosis: Wobbly way of walking</rdfs:label>
         <rdfs:seeAlso>f29:5e5e4e11856f5021b8b6ec06</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15220"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000401"/>
     </owl:Class>
     
@@ -233,6 +246,7 @@
         <rdfs:label xml:lang="en">Diagnosis: Difficulty to get up from the ground</rdfs:label>
         <rdfs:seeAlso>f29:5e5e4e20856f5021b8b6ec07</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C121238"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15220"/>
     </owl:Class>
     
 
@@ -245,6 +259,7 @@
         <dc:identifier>ddp:DDP_00015</dc:identifier>
         <rdfs:label xml:lang="en">Diagnosis: POSITIVE FAMILY HISTORY</rdfs:label>
         <rdfs:seeAlso>f29:5e5e4e6f856f5021b8b6ec08</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15220"/>
     </owl:Class>
     
 
@@ -257,6 +272,7 @@
         <dc:identifier>ddp:DDP_00016</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Mobility</rdfs:label>
         <rdfs:seeAlso>f29:5c7026da9d309719c05e265c</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -269,6 +285,7 @@
         <dc:identifier>ddp:DDP_00017</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Other comments about mobility</rdfs:label>
         <rdfs:seeAlso>f29:5c7027039d309719c05e265d</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -281,6 +298,7 @@
         <dc:identifier>ddp:DDP_00018</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Currently able to sit without support</rdfs:label>
         <rdfs:seeAlso>f29:5c70271b9d309719c05e265e</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -293,6 +311,7 @@
         <dc:identifier>ddp:DDP_00019</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Currently able to walk more than 5 meters (without any help/support)</rdfs:label>
         <rdfs:seeAlso>f29:5c77e8ecf2fc051ee8f366c0</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -305,6 +324,7 @@
         <dc:identifier>ddp:DDP_00020</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: 6 minutes walk test?</rdfs:label>
         <rdfs:seeAlso>f29:5c77e937f2fc051ee8f366c2</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -317,6 +337,7 @@
         <dc:identifier>ddp:DDP_00021</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: 6 minutes walk test distance in meters</rdfs:label>
         <rdfs:seeAlso>f29:5c77e95df2fc051ee8f366c3</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -329,6 +350,7 @@
         <dc:identifier>ddp:DDP_00022</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: 4 step climb test?</rdfs:label>
         <rdfs:seeAlso>f29:5c77e974f2fc051ee8f366c4</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -341,6 +363,7 @@
         <dc:identifier>ddp:DDP_00023</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: 4-step climb in seconds</rdfs:label>
         <rdfs:seeAlso>f29:5c77e995f2fc051ee8f366c5</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -353,6 +376,7 @@
         <dc:identifier>ddp:DDP_00024</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: North Star Assesment?</rdfs:label>
         <rdfs:seeAlso>f29:5c77e9a8f2fc051ee8f366c6</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -365,6 +389,7 @@
         <dc:identifier>ddp:DDP_00025</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: North Star Assessment score in points</rdfs:label>
         <rdfs:seeAlso>f29:5c77e9c3f2fc051ee8f366c7</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -377,6 +402,7 @@
         <dc:identifier>ddp:DDP_00026</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Come up from supine to standing - Come up from supine to standing test?</rdfs:label>
         <rdfs:seeAlso>f29:5c77e9ddf2fc051ee8f366c8</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -389,6 +415,7 @@
         <dc:identifier>ddp:DDP_00027</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Come up from supine to standing in seconds</rdfs:label>
         <rdfs:seeAlso>f29:5c77ea2df2fc051ee8f366c9</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -401,6 +428,7 @@
         <dc:identifier>ddp:DDP_00028</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Wheelchair outdoors</rdfs:label>
         <rdfs:seeAlso>f29:5c77eb59f2fc051ee8f366ca</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -413,6 +441,7 @@
         <dc:identifier>ddp:DDP_00029</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Fulltime wheelchair</rdfs:label>
         <rdfs:seeAlso>f29:5c77ebb4f2fc051ee8f366cb</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -425,6 +454,7 @@
         <dc:identifier>ddp:DDP_00030</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Loss of ambulation date</rdfs:label>
         <rdfs:seeAlso>f29:5c77ebcff2fc051ee8f366cc</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -437,6 +467,7 @@
         <dc:identifier>ddp:DDP_00031</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Heel contracture</rdfs:label>
         <rdfs:seeAlso>f29:5c77ed5bf2fc051ee8f366ce</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -449,6 +480,7 @@
         <dc:identifier>ddp:DDP_00032</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Hands / Fingers contracture</rdfs:label>
         <rdfs:seeAlso>f29:5c77eda6f2fc051ee8f366cf</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -461,6 +493,7 @@
         <dc:identifier>ddp:DDP_00033</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Foot contracture</rdfs:label>
         <rdfs:seeAlso>f29:5c77edd8f2fc051ee8f366d0</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -473,6 +506,7 @@
         <dc:identifier>ddp:DDP_00034</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Jaw contracture (limited mouthopening)</rdfs:label>
         <rdfs:seeAlso>f29:5c77edf9f2fc051ee8f366d1</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -485,6 +519,7 @@
         <dc:identifier>ddp:DDP_00035</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Knee contracture</rdfs:label>
         <rdfs:seeAlso>f29:5c77ee5df2fc051ee8f366d2</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -497,6 +532,7 @@
         <dc:identifier>ddp:DDP_00036</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Scoliosis  contracture</rdfs:label>
         <rdfs:seeAlso>f29:5c77ee83f2fc051ee8f366d3</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -509,6 +545,7 @@
         <dc:identifier>ddp:DDP_00037</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Schouder contracture</rdfs:label>
         <rdfs:seeAlso>f29:5c77ef9ff2fc051ee8f366d5</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -521,6 +558,7 @@
         <dc:identifier>ddp:DDP_00038</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Neck contracture</rdfs:label>
         <rdfs:seeAlso>f29:5c77efdbf2fc051ee8f366d6</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -533,6 +571,7 @@
         <dc:identifier>ddp:DDP_00039</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Elbow contracture</rdfs:label>
         <rdfs:seeAlso>f29:5c77f01cf2fc051ee8f366d7</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -545,6 +584,7 @@
         <dc:identifier>ddp:DDP_00040</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: measuring equipment - (Electronic) measuring equipment that is worn on your body, such as:</rdfs:label>
         <rdfs:seeAlso>f29:5c77f0b5f2fc051ee8f366d9</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -557,6 +597,7 @@
         <dc:identifier>ddp:DDP_00041</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Other measuring equipment that is worn on your body?</rdfs:label>
         <rdfs:seeAlso>f29:5c77f0d7f2fc051ee8f366da</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -569,6 +610,7 @@
         <dc:identifier>ddp:DDP_00042</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Question - Do you have information to fill about your physical outcomes? (mobility, functional tests results, contractures…)</rdfs:label>
         <rdfs:seeAlso>f29:5e5e511f856f5021b8b6ec0a</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
 
@@ -581,6 +623,7 @@
         <dc:identifier>ddp:DDP_00043</dc:identifier>
         <rdfs:label xml:lang="en">Heart condition: Use of pacemaker / ICD</rdfs:label>
         <rdfs:seeAlso>f29:5c702b649d309719c05e2676</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13306"/>
     </owl:Class>
     
 
@@ -593,6 +636,7 @@
         <dc:identifier>ddp:DDP_00044</dc:identifier>
         <rdfs:label xml:lang="en">Heart condition: heaert condition, not further specified</rdfs:label>
         <rdfs:seeAlso>f29:5c702b879d309719c05e2678</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13306"/>
     </owl:Class>
     
 
@@ -605,6 +649,7 @@
         <dc:identifier>ddp:DDP_00045</dc:identifier>
         <rdfs:label xml:lang="en">Heart condition: Unspecified heart condition began at age</rdfs:label>
         <rdfs:seeAlso>f29:5c702b9d9d309719c05e2679</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13306"/>
     </owl:Class>
     
 
@@ -617,6 +662,7 @@
         <dc:identifier>ddp:DDP_00046</dc:identifier>
         <rdfs:label xml:lang="en">Heart condition: heart condition, with arrhythmia or conduction block</rdfs:label>
         <rdfs:seeAlso>f29:5c702bb29d309719c05e267a</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13306"/>
     </owl:Class>
     
 
@@ -629,6 +675,7 @@
         <dc:identifier>ddp:DDP_00047</dc:identifier>
         <rdfs:label xml:lang="en">Heart condition: arrhythmia or conduction block at age</rdfs:label>
         <rdfs:seeAlso>f29:5c702bc89d309719c05e267b</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13306"/>
     </owl:Class>
     
 
@@ -641,6 +688,7 @@
         <dc:identifier>ddp:DDP_00048</dc:identifier>
         <rdfs:label xml:lang="en">Heart condition: heart condition, with cardiomyopathy</rdfs:label>
         <rdfs:seeAlso>f29:5c702be09d309719c05e267c</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13306"/>
     </owl:Class>
     
 
@@ -653,6 +701,7 @@
         <dc:identifier>ddp:DDP_00049</dc:identifier>
         <rdfs:label xml:lang="en">Heart condition: cardiomyopathy at age</rdfs:label>
         <rdfs:seeAlso>f29:5c702bf79d309719c05e267d</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13306"/>
     </owl:Class>
     
 
@@ -665,6 +714,7 @@
         <dc:identifier>ddp:DDP_00050</dc:identifier>
         <rdfs:label xml:lang="en">Heart condition: I don’t know about my heart condition</rdfs:label>
         <rdfs:seeAlso>f29:5c702c2a9d309719c05e267f</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13306"/>
     </owl:Class>
     
 
@@ -677,6 +727,7 @@
         <dc:identifier>ddp:DDP_00051</dc:identifier>
         <rdfs:label xml:lang="en">Heart condition: Question - Do you have information about your heart condition?</rdfs:label>
         <rdfs:seeAlso>f29:5e5e56a6856f5021b8b6ec0b</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13306"/>
     </owl:Class>
     
 
@@ -689,6 +740,7 @@
         <dc:identifier>ddp:DDP_00052</dc:identifier>
         <rdfs:label xml:lang="en">Respiratory condition: Use a Cpap ventilator - Use a Cpap ventilator for snoring or sleep apneu</rdfs:label>
         <rdfs:seeAlso>f29:5c702ce59d309719c05e2681</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25656"/>
     </owl:Class>
     
 
@@ -701,6 +753,7 @@
         <dc:identifier>ddp:DDP_00053</dc:identifier>
         <rdfs:label xml:lang="en">Respiratory condition: Cpap since</rdfs:label>
         <rdfs:seeAlso>f29:5c702cfe9d309719c05e2682</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25656"/>
     </owl:Class>
     
 
@@ -713,6 +766,7 @@
         <dc:identifier>ddp:DDP_00054</dc:identifier>
         <rdfs:label xml:lang="en">Respiratory condition: Night ventilation (Bipap)</rdfs:label>
         <rdfs:seeAlso>f29:5c702d179d309719c05e2683</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25656"/>
     </owl:Class>
     
 
@@ -725,6 +779,7 @@
         <dc:identifier>ddp:DDP_00055</dc:identifier>
         <rdfs:label xml:lang="en">Respiratory condition: Night ventilation (Bipap) since</rdfs:label>
         <rdfs:seeAlso>f29:5c702d2e9d309719c05e2684</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25656"/>
     </owl:Class>
     
 
@@ -737,6 +792,7 @@
         <dc:identifier>ddp:DDP_00056</dc:identifier>
         <rdfs:label xml:lang="en">Respiratory condition: Ventilation needed during most of the day</rdfs:label>
         <rdfs:seeAlso>f29:5c702d449d309719c05e2685</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25656"/>
     </owl:Class>
     
 
@@ -749,6 +805,7 @@
         <dc:identifier>ddp:DDP_00057</dc:identifier>
         <rdfs:label xml:lang="en">Respiratory condition: Ventilation needed during most of the day since</rdfs:label>
         <rdfs:seeAlso>f29:5c702d7c9d309719c05e2686</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25656"/>
     </owl:Class>
     
 
@@ -761,6 +818,7 @@
         <dc:identifier>ddp:DDP_00058</dc:identifier>
         <rdfs:label xml:lang="en">Respiratory condition: Ventilation needed during most of the day</rdfs:label>
         <rdfs:seeAlso>f29:5c702f329d309719c05e2687</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25656"/>
     </owl:Class>
     
 
@@ -773,6 +831,7 @@
         <dc:identifier>ddp:DDP_00059</dc:identifier>
         <rdfs:label xml:lang="en">Respiratory condition: Question - Do you have information about your respiratory condition?</rdfs:label>
         <rdfs:seeAlso>f29:5e5e62fc856f5021b8b6ec0c</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25656"/>
     </owl:Class>
     
 
@@ -785,6 +844,7 @@
         <dc:identifier>ddp:DDP_00060</dc:identifier>
         <rdfs:label xml:lang="en">Respiratory condition: Hours of ventiliation during the day</rdfs:label>
         <rdfs:seeAlso>f29:5e5e8816856f5021b8b6ec2a</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25656"/>
     </owl:Class>
     
 
@@ -797,6 +857,7 @@
         <dc:identifier>ddp:DDP_00061</dc:identifier>
         <rdfs:label xml:lang="en">Nutrition: Type of diet</rdfs:label>
         <rdfs:seeAlso>f29:5c7030a49d309719c05e268a</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25597"/>
     </owl:Class>
     
 
@@ -809,6 +870,7 @@
         <dc:identifier>ddp:DDP_00062</dc:identifier>
         <rdfs:label xml:lang="en">Nutrition: Other diet</rdfs:label>
         <rdfs:seeAlso>f29:5c7030b59d309719c05e268b</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25597"/>
     </owl:Class>
     
 
@@ -821,6 +883,7 @@
         <dc:identifier>ddp:DDP_00063</dc:identifier>
         <rdfs:label xml:lang="en">Nutrition: Date of information provided about nutrition</rdfs:label>
         <rdfs:seeAlso>f29:5c7030c69d309719c05e268c</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25597"/>
     </owl:Class>
     
 
@@ -833,6 +896,7 @@
         <dc:identifier>ddp:DDP_00064</dc:identifier>
         <rdfs:label xml:lang="en">Nutrition: Diet / outcome body mass test</rdfs:label>
         <rdfs:seeAlso>f29:5c7030f19d309719c05e268d</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25597"/>
     </owl:Class>
     
 
@@ -845,6 +909,7 @@
         <dc:identifier>ddp:DDP_00065</dc:identifier>
         <rdfs:label xml:lang="en">Nutrition: Chewing</rdfs:label>
         <rdfs:seeAlso>f29:5c7031119d309719c05e268e</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25597"/>
     </owl:Class>
     
 
@@ -857,6 +922,7 @@
         <dc:identifier>ddp:DDP_00066</dc:identifier>
         <rdfs:label xml:lang="en">Nutrition: What are the chewing difficulties</rdfs:label>
         <rdfs:seeAlso>f29:5c70313a9d309719c05e268f</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25597"/>
     </owl:Class>
     
 
@@ -869,6 +935,7 @@
         <dc:identifier>ddp:DDP_00067</dc:identifier>
         <rdfs:label xml:lang="en">Nutrition: Swallowing problems</rdfs:label>
         <rdfs:seeAlso>f29:5c70315d9d309719c05e2690</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25597"/>
     </owl:Class>
     
 
@@ -881,6 +948,7 @@
         <dc:identifier>ddp:DDP_00068</dc:identifier>
         <rdfs:label xml:lang="en">Nutrition: Anders</rdfs:label>
         <rdfs:seeAlso>f29:5c70316f9d309719c05e2691</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25597"/>
     </owl:Class>
     
 
@@ -893,6 +961,7 @@
         <dc:identifier>ddp:DDP_00069</dc:identifier>
         <rdfs:label xml:lang="en">Nutrition: Pregunta - Do you have information about your nutrition?</rdfs:label>
         <rdfs:seeAlso>f29:5e5e64b5856f5021b8b6ec0d</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25597"/>
     </owl:Class>
     
 
@@ -905,6 +974,7 @@
         <dc:identifier>ddp:DDP_00070</dc:identifier>
         <rdfs:label xml:lang="en">Gastrointestinal: Question - Do you have information about your gastrointestinal condition?</rdfs:label>
         <rdfs:seeAlso>f29:5e5e6636856f5021b8b6ec0e</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13359"/>
     </owl:Class>
     
 
@@ -917,6 +987,7 @@
         <dc:identifier>ddp:DDP_00071</dc:identifier>
         <rdfs:label xml:lang="en">Gastrointestinal: Diarrhea</rdfs:label>
         <rdfs:seeAlso>f29:5e5e66e5856f5021b8b6ec10</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13359"/>
     </owl:Class>
     
 
@@ -929,6 +1000,7 @@
         <dc:identifier>ddp:DDP_00072</dc:identifier>
         <rdfs:label xml:lang="en">Gastrointestinal: Reflux (heartburn)</rdfs:label>
         <rdfs:seeAlso>f29:5e5e66f6856f5021b8b6ec11</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13359"/>
     </owl:Class>
     
 
@@ -941,6 +1013,7 @@
         <dc:identifier>ddp:DDP_00073</dc:identifier>
         <rdfs:label xml:lang="en">Gastrointestinal: Not clean for stool</rdfs:label>
         <rdfs:seeAlso>f29:5e5e670b856f5021b8b6ec12</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13359"/>
     </owl:Class>
     
 
@@ -953,6 +1026,7 @@
         <dc:identifier>ddp:DDP_00074</dc:identifier>
         <rdfs:label xml:lang="en">Gastrointestinal: PEG or tube feeding</rdfs:label>
         <rdfs:seeAlso>f29:5e5e6723856f5021b8b6ec13</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13359"/>
     </owl:Class>
     
 
@@ -965,6 +1039,7 @@
         <dc:identifier>ddp:DDP_00075</dc:identifier>
         <rdfs:label xml:lang="en">Gastrointestinal: Bloated feeling</rdfs:label>
         <rdfs:seeAlso>f29:5e5e6737856f5021b8b6ec14</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13359"/>
     </owl:Class>
     
 
@@ -977,6 +1052,7 @@
         <dc:identifier>ddp:DDP_00076</dc:identifier>
         <rdfs:label xml:lang="en">Gastrointestinal: I have no information about my gastrointestinal condition</rdfs:label>
         <rdfs:seeAlso>f29:5e5e674a856f5021b8b6ec15</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13359"/>
     </owl:Class>
     
 
@@ -989,6 +1065,7 @@
         <dc:identifier>ddp:DDP_00077</dc:identifier>
         <rdfs:label xml:lang="en">Gastrointestinal: Constipation</rdfs:label>
         <rdfs:seeAlso>f29:5e5e675b856f5021b8b6ec16</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13359"/>
     </owl:Class>
     
 
@@ -1001,6 +1078,7 @@
         <dc:identifier>ddp:DDP_00078</dc:identifier>
         <rdfs:label xml:lang="en">Gastrointestinal: How often do you have feces per week?</rdfs:label>
         <rdfs:seeAlso>f29:5e5e6795856f5021b8b6ec17</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13359"/>
     </owl:Class>
     
 
@@ -1013,6 +1091,7 @@
         <dc:identifier>ddp:DDP_00079</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Dribble</rdfs:label>
         <rdfs:seeAlso>f29:5c7032539d309719c05e2697</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1025,6 +1104,7 @@
         <dc:identifier>ddp:DDP_00080</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Dribble Start Date</rdfs:label>
         <rdfs:seeAlso>f29:5c70326a9d309719c05e2698</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1037,6 +1117,7 @@
         <dc:identifier>ddp:DDP_00081</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Dribble End Date</rdfs:label>
         <rdfs:seeAlso>f29:5c70327f9d309719c05e2699</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1049,6 +1130,7 @@
         <dc:identifier>ddp:DDP_00082</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Feeling that bladder is not completely empty (urinary retention)</rdfs:label>
         <rdfs:seeAlso>f29:5c70329e9d309719c05e269a</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1061,6 +1143,7 @@
         <dc:identifier>ddp:DDP_00083</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: urinary retention Start Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7032b49d309719c05e269b</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1073,6 +1156,7 @@
         <dc:identifier>ddp:DDP_00084</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: urinary retention End Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7032cb9d309719c05e269c</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1085,6 +1169,7 @@
         <dc:identifier>ddp:DDP_00085</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Incontinence</rdfs:label>
         <rdfs:seeAlso>f29:5c7032e89d309719c05e269d</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1097,6 +1182,7 @@
         <dc:identifier>ddp:DDP_00086</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Incontinence Start Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7032fe9d309719c05e269e</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1109,6 +1195,7 @@
         <dc:identifier>ddp:DDP_00087</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Incontinence End Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7033119d309719c05e269f</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1121,6 +1208,7 @@
         <dc:identifier>ddp:DDP_00088</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Hesitation (have to wait before pee gets out)</rdfs:label>
         <rdfs:seeAlso>f29:5c7033259d309719c05e26a0</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1133,6 +1221,7 @@
         <dc:identifier>ddp:DDP_00089</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Hesitation Start Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7033379d309719c05e26a1</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1145,6 +1234,7 @@
         <dc:identifier>ddp:DDP_00090</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Hesitation End Date</rdfs:label>
         <rdfs:seeAlso>f29:5c70335a9d309719c05e26a2</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1157,6 +1247,7 @@
         <dc:identifier>ddp:DDP_00091</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Bedwetting</rdfs:label>
         <rdfs:seeAlso>f29:5c70336c9d309719c05e26a3</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1169,6 +1260,7 @@
         <dc:identifier>ddp:DDP_00092</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Bedwetting Start Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7033839d309719c05e26a4</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1181,6 +1273,7 @@
         <dc:identifier>ddp:DDP_00093</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Bedwetting End Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7033999d309719c05e26a5</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1193,6 +1286,7 @@
         <dc:identifier>ddp:DDP_00094</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Interrupted puddle</rdfs:label>
         <rdfs:seeAlso>f29:5c7033ab9d309719c05e26a6</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1205,6 +1299,7 @@
         <dc:identifier>ddp:DDP_00095</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Interrupted puddle Start Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7033bc9d309719c05e26a7</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1217,6 +1312,7 @@
         <dc:identifier>ddp:DDP_00096</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Interrupted puddle End Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7033d09d309719c05e26a8</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1229,6 +1325,7 @@
         <dc:identifier>ddp:DDP_00097</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Frequent urination</rdfs:label>
         <rdfs:seeAlso>f29:5c7033e29d309719c05e26a9</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1241,6 +1338,7 @@
         <dc:identifier>ddp:DDP_00098</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Frequent urination Start Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7033f69d309719c05e26aa</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1253,6 +1351,7 @@
         <dc:identifier>ddp:DDP_00099</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Frequent urination End Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7034099d309719c05e26ab</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1265,6 +1364,7 @@
         <dc:identifier>ddp:DDP_00100</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Tension or compression pressures necessary to initiate urination</rdfs:label>
         <rdfs:seeAlso>f29:5c7034219d309719c05e26ac</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1277,6 +1377,7 @@
         <dc:identifier>ddp:DDP_00101</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Tension or compression pressures necessary Start Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7034349d309719c05e26ad</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1289,6 +1390,7 @@
         <dc:identifier>ddp:DDP_00102</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Tension or compression pressures necessary End Date</rdfs:label>
         <rdfs:seeAlso>f29:5c70344b9d309719c05e26ae</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1301,6 +1403,7 @@
         <dc:identifier>ddp:DDP_00103</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Slack puddle</rdfs:label>
         <rdfs:seeAlso>f29:5c7034609d309719c05e26af</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1313,6 +1416,7 @@
         <dc:identifier>ddp:DDP_00104</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Slack puddle Start Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7034719d309719c05e26b0</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1325,6 +1429,7 @@
         <dc:identifier>ddp:DDP_00105</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Slack puddle End Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7034829d309719c05e26b1</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1337,6 +1442,7 @@
         <dc:identifier>ddp:DDP_00106</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Pain in the bladder</rdfs:label>
         <rdfs:seeAlso>f29:5c70349a9d309719c05e26b2</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1349,6 +1455,7 @@
         <dc:identifier>ddp:DDP_00107</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Pain in the bladder Start Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7034af9d309719c05e26b3</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1361,6 +1468,7 @@
         <dc:identifier>ddp:DDP_00108</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Pain in the bladder End Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7034c39d309719c05e26b4</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1373,6 +1481,7 @@
         <dc:identifier>ddp:DDP_00109</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Pain in the urethra (e.g., burning sensation)</rdfs:label>
         <rdfs:seeAlso>f29:5c7034d39d309719c05e26b5</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1385,6 +1494,7 @@
         <dc:identifier>ddp:DDP_00110</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Pain in the urethra Start Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7034e89d309719c05e26b6</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1397,6 +1507,7 @@
         <dc:identifier>ddp:DDP_00111</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Pain in the urethra End Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7034ff9d309719c05e26b7</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1409,6 +1520,7 @@
         <dc:identifier>ddp:DDP_00112</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Reduced bladder feeling</rdfs:label>
         <rdfs:seeAlso>f29:5c7035199d309719c05e26b8</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1421,6 +1533,7 @@
         <dc:identifier>ddp:DDP_00113</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Reduced bladder feeling Start Date</rdfs:label>
         <rdfs:seeAlso>f29:5c70352e9d309719c05e26b9</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1433,6 +1546,7 @@
         <dc:identifier>ddp:DDP_00114</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Reduced bladder feeling End Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7035409d309719c05e26ba</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1445,6 +1559,7 @@
         <dc:identifier>ddp:DDP_00115</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Suddenly and urgently urinate</rdfs:label>
         <rdfs:seeAlso>f29:5c7035529d309719c05e26bb</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1457,6 +1572,7 @@
         <dc:identifier>ddp:DDP_00116</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Suddenly and urgently urinate Start Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7035659d309719c05e26bc</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1469,6 +1585,7 @@
         <dc:identifier>ddp:DDP_00117</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Suddenly and urgently urinate End Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7035789d309719c05e26bd</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1481,6 +1598,7 @@
         <dc:identifier>ddp:DDP_00118</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Peeing at night</rdfs:label>
         <rdfs:seeAlso>f29:5c70359b9d309719c05e26be</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1493,6 +1611,7 @@
         <dc:identifier>ddp:DDP_00119</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Peeing at night Start Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7035ad9d309719c05e26bf</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1505,6 +1624,7 @@
         <dc:identifier>ddp:DDP_00120</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Peeing at night End Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7035be9d309719c05e26c0</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1517,6 +1637,7 @@
         <dc:identifier>ddp:DDP_00121</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Bladder catheter (tube) needed to empty bladder</rdfs:label>
         <rdfs:seeAlso>f29:5c7035d69d309719c05e26c1</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1529,6 +1650,7 @@
         <dc:identifier>ddp:DDP_00122</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Bladder catheter (tube) needed to empty bladder Start Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7035ec9d309719c05e26c2</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1541,6 +1663,7 @@
         <dc:identifier>ddp:DDP_00123</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Bladder catheter (tube) needed to empty bladder End Date</rdfs:label>
         <rdfs:seeAlso>f29:5c7035ff9d309719c05e26c3</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1553,6 +1676,7 @@
         <dc:identifier>ddp:DDP_00124</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Kidney stones</rdfs:label>
         <rdfs:seeAlso>f29:5c7036259d309719c05e26c4</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1565,6 +1689,7 @@
         <dc:identifier>ddp:DDP_00125</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Intervention needed?</rdfs:label>
         <rdfs:seeAlso>f29:5c70363e9d309719c05e26c5</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1577,6 +1702,7 @@
         <dc:identifier>ddp:DDP_00126</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Other renal problems</rdfs:label>
         <rdfs:seeAlso>f29:5c7036519d309719c05e26c6</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1589,6 +1715,7 @@
         <dc:identifier>ddp:DDP_00127</dc:identifier>
         <rdfs:label xml:lang="en">Urinary tract: Question - Do you have information about your urinary tract condition?</rdfs:label>
         <rdfs:seeAlso>f29:5e5e77ac856f5021b8b6ec18</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25711"/>
     </owl:Class>
     
 
@@ -1601,6 +1728,7 @@
         <dc:identifier>ddp:DDP_00128</dc:identifier>
         <rdfs:label xml:lang="en">Bone health and orthopedics: Fracture</rdfs:label>
         <rdfs:seeAlso>f29:5c70369a9d309719c05e26c9</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001434"/>
     </owl:Class>
     
 
@@ -1613,6 +1741,7 @@
         <dc:identifier>ddp:DDP_00129</dc:identifier>
         <rdfs:label xml:lang="en">Bone health and orthopedics: Splint type</rdfs:label>
         <rdfs:seeAlso>f29:5c7036ec9d309719c05e26cd</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001434"/>
     </owl:Class>
     
 
@@ -1625,6 +1754,7 @@
         <dc:identifier>ddp:DDP_00130</dc:identifier>
         <rdfs:label xml:lang="en">Bone health and orthopedics: Other bone heath observation?</rdfs:label>
         <rdfs:seeAlso>f29:5c7037039d309719c05e26ce</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001434"/>
     </owl:Class>
     
 
@@ -1637,6 +1767,7 @@
         <dc:identifier>ddp:DDP_00131</dc:identifier>
         <rdfs:label xml:lang="en">Bone health and orthopedics: Question - Do you have information about your bone health?</rdfs:label>
         <rdfs:seeAlso>f29:5e5e78ac856f5021b8b6ec1a</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001434"/>
     </owl:Class>
     
 
@@ -1831,6 +1962,7 @@
         <dc:identifier>ddp:DDP_00146</dc:identifier>
         <rdfs:label xml:lang="en">Learning and behaviour outcomes: IQ score scale - Scale</rdfs:label>
         <rdfs:seeAlso>f29:5c7038909d309719c05e26d8</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C94321"/>
     </owl:Class>
     
 
@@ -1843,6 +1975,7 @@
         <dc:identifier>ddp:DDP_00147</dc:identifier>
         <rdfs:label xml:lang="en">Learning and behaviour outcomes: Developmental delay </rdfs:label>
         <rdfs:seeAlso>f29:5c7038ba9d309719c05e26da</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C94321"/>
     </owl:Class>
     
 
@@ -1855,6 +1988,7 @@
         <dc:identifier>ddp:DDP_00148</dc:identifier>
         <rdfs:label xml:lang="en">Learning and behaviour outcomes: Speech delay</rdfs:label>
         <rdfs:seeAlso>f29:5c7038ce9d309719c05e26db</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C94321"/>
     </owl:Class>
     
 
@@ -1867,6 +2001,7 @@
         <dc:identifier>ddp:DDP_00149</dc:identifier>
         <rdfs:label xml:lang="en">Learning and behaviour outcomes: Question - Do you have information about your learning and behaviour outcomes?</rdfs:label>
         <rdfs:seeAlso>f29:5e5e7efd856f5021b8b6ec26</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C94321"/>
     </owl:Class>
     
 
@@ -1879,6 +2014,7 @@
         <dc:identifier>ddp:DDP_00150</dc:identifier>
         <rdfs:label xml:lang="en">Problems and comorbidity: Neuropsychological issues</rdfs:label>
         <rdfs:seeAlso>f29:5c7039519d309719c05e26dd</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16457"/>
     </owl:Class>
     
 
@@ -1891,6 +2027,7 @@
         <dc:identifier>ddp:DDP_00151</dc:identifier>
         <rdfs:label xml:lang="en">Problems and comorbidity: Comorbidity other than neuropsychological, psychiatric, or sleeping problems?</rdfs:label>
         <rdfs:seeAlso>f29:5c7039679d309719c05e26de</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16457"/>
     </owl:Class>
     
 
@@ -1903,6 +2040,7 @@
         <dc:identifier>ddp:DDP_00152</dc:identifier>
         <rdfs:label xml:lang="en">Problems and comorbidity: Psychiatric problems</rdfs:label>
         <rdfs:seeAlso>f29:5c70399c9d309719c05e26e0</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16457"/>
     </owl:Class>
     
 
@@ -1915,6 +2053,7 @@
         <dc:identifier>ddp:DDP_00153</dc:identifier>
         <rdfs:label xml:lang="en">Problems and comorbidity: other psyciatric problems</rdfs:label>
         <rdfs:seeAlso>f29:5c7039b29d309719c05e26e1</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16457"/>
     </owl:Class>
     
 
@@ -1927,6 +2066,7 @@
         <dc:identifier>ddp:DDP_00154</dc:identifier>
         <rdfs:label xml:lang="en">Problems and comorbidity: Snoring</rdfs:label>
         <rdfs:seeAlso>f29:5c7039da9d309719c05e26e3</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16457"/>
     </owl:Class>
     
 
@@ -1939,6 +2079,7 @@
         <dc:identifier>ddp:DDP_00155</dc:identifier>
         <rdfs:label xml:lang="en">Problems and comorbidity: Difficulties falling asleep</rdfs:label>
         <rdfs:seeAlso>f29:5c7039f19d309719c05e26e4</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16457"/>
     </owl:Class>
     
 
@@ -1951,6 +2092,7 @@
         <dc:identifier>ddp:DDP_00156</dc:identifier>
         <rdfs:label xml:lang="en">Problems and comorbidity: Frequently waking up at night</rdfs:label>
         <rdfs:seeAlso>f29:5c703a059d309719c05e26e5</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16457"/>
     </owl:Class>
     
 
@@ -1963,6 +2105,7 @@
         <dc:identifier>ddp:DDP_00157</dc:identifier>
         <rdfs:label xml:lang="en">Problems and comorbidity: (Pre) diabetes</rdfs:label>
         <rdfs:seeAlso>f29:5c703a269d309719c05e26e7</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16457"/>
     </owl:Class>
     
 
@@ -1975,6 +2118,7 @@
         <dc:identifier>ddp:DDP_00158</dc:identifier>
         <rdfs:label xml:lang="en">Problems and comorbidity: Allergy</rdfs:label>
         <rdfs:seeAlso>f29:5c703a359d309719c05e26e8</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16457"/>
     </owl:Class>
     
 
@@ -1987,6 +2131,7 @@
         <dc:identifier>ddp:DDP_00159</dc:identifier>
         <rdfs:label xml:lang="en">Problems and comorbidity: Skin condition (incl. Nails)</rdfs:label>
         <rdfs:seeAlso>f29:5c703a569d309719c05e26e9</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16457"/>
     </owl:Class>
     
 
@@ -1999,6 +2144,7 @@
         <dc:identifier>ddp:DDP_00160</dc:identifier>
         <rdfs:label xml:lang="en">Problems and comorbidity: Other diseases?</rdfs:label>
         <rdfs:seeAlso>f29:5c703a6e9d309719c05e26ea</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16457"/>
     </owl:Class>
     
 
@@ -2011,6 +2157,7 @@
         <dc:identifier>ddp:DDP_00161</dc:identifier>
         <rdfs:label xml:lang="en">Problems and comorbidity: Question - Do you have neuropsychological, psychiatric, sleeping problems, or others?</rdfs:label>
         <rdfs:seeAlso>f29:5e5e80bb856f5021b8b6ec27</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16457"/>
     </owl:Class>
     
 
@@ -2023,6 +2170,7 @@
         <dc:identifier>ddp:DDP_00162</dc:identifier>
         <rdfs:label xml:lang="en">Pain: Pregunta - Are you experiencing some kind of pain?</rdfs:label>
         <rdfs:seeAlso>f29:5e5e8192856f5021b8b6ec28</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25271"/>
     </owl:Class>
     
 
@@ -2035,6 +2183,7 @@
         <dc:identifier>ddp:DDP_00163</dc:identifier>
         <rdfs:label xml:lang="en">Pain: Pain block</rdfs:label>
         <rdfs:seeAlso>f29:5e5e81f6856f5021b8b6ec29</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25271"/>
     </owl:Class>
     
 
@@ -2047,6 +2196,7 @@
         <dc:identifier>ddp:DDP_00164</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: Question - Do you have information to fill about COVID-19?</rdfs:label>
         <rdfs:seeAlso>f29:5e8737ddc7175607386603eb</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2059,6 +2209,7 @@
         <dc:identifier>ddp:DDP_00165</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: Have you been tested for COVID-19?</rdfs:label>
         <rdfs:seeAlso>f29:5e873806c7175607386603ec</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2071,6 +2222,7 @@
         <dc:identifier>ddp:DDP_00166</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: On what date were you tested for COVID-19</rdfs:label>
         <rdfs:seeAlso>f29:5e87381fc7175607386603ed</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2083,6 +2235,7 @@
         <dc:identifier>ddp:DDP_00167</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: Did you have COVID-19 infection?</rdfs:label>
         <rdfs:seeAlso>f29:5e873837c7175607386603ee</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2095,6 +2248,7 @@
         <dc:identifier>ddp:DDP_00168</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: What were your symptoms?</rdfs:label>
         <rdfs:seeAlso>f29:5e87387dc7175607386603ef</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2107,6 +2261,7 @@
         <dc:identifier>ddp:DDP_00169</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: What symptoms have you had that are not listed above? - What symptoms have you had that are not listed in the previous question?</rdfs:label>
         <rdfs:seeAlso>f29:5e8738b2c7175607386603f0</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2119,6 +2274,7 @@
         <dc:identifier>ddp:DDP_00170</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: How many days did your symptoms last?</rdfs:label>
         <rdfs:seeAlso>f29:5e8738d1c7175607386603f1</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2131,6 +2287,7 @@
         <dc:identifier>ddp:DDP_00171</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: Where were you treated?</rdfs:label>
         <rdfs:seeAlso>f29:5e87391cc7175607386603f3</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2143,6 +2300,7 @@
         <dc:identifier>ddp:DDP_00172</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: How many days were you treated for?</rdfs:label>
         <rdfs:seeAlso>f29:5e87393ec7175607386603f4</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2155,6 +2313,7 @@
         <dc:identifier>ddp:DDP_00173</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: Did you get a CT scan?</rdfs:label>
         <rdfs:seeAlso>f29:5e87395fc7175607386603f5</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2167,6 +2326,7 @@
         <dc:identifier>ddp:DDP_00174</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: What was your lowest measured (oxygen) saturation? (in %)</rdfs:label>
         <rdfs:seeAlso>f29:5e87397bc7175607386603f6</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2179,6 +2339,7 @@
         <dc:identifier>ddp:DDP_00175</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: I don’t know my lowest oxygen saturation</rdfs:label>
         <rdfs:seeAlso>f29:5e87399cc7175607386603f7</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2191,6 +2352,7 @@
         <dc:identifier>ddp:DDP_00176</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: Did you require oxygen?</rdfs:label>
         <rdfs:seeAlso>f29:5e8739b5c7175607386603f8</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2203,6 +2365,7 @@
         <dc:identifier>ddp:DDP_00177</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: Were you intubated?</rdfs:label>
         <rdfs:seeAlso>f29:5e8739d9c7175607386603f9</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2215,6 +2378,7 @@
         <dc:identifier>ddp:DDP_00178</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: How many days were you intubated?</rdfs:label>
         <rdfs:seeAlso>f29:5e8739f5c7175607386603fa</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2227,6 +2391,7 @@
         <dc:identifier>ddp:DDP_00179</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: Did you keep taking your corticosteroids?</rdfs:label>
         <rdfs:seeAlso>f29:5e873a10c7175607386603fb</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2239,6 +2404,7 @@
         <dc:identifier>ddp:DDP_00180</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: Did you have a stress dose (extra corticosteroids because of infection)?</rdfs:label>
         <rdfs:seeAlso>f29:5e873a2ec7175607386603fc</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2251,6 +2417,7 @@
         <dc:identifier>ddp:DDP_00181</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: Have you been on antibiotics?</rdfs:label>
         <rdfs:seeAlso>f29:5e873a57c7175607386603fd</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2263,6 +2430,7 @@
         <dc:identifier>ddp:DDP_00182</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: How many days were you on antibiotics?</rdfs:label>
         <rdfs:seeAlso>f29:5e873a6fc7175607386603fe</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2275,6 +2443,7 @@
         <dc:identifier>ddp:DDP_00183</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: Antibiotic administration by infusion or pills?</rdfs:label>
         <rdfs:seeAlso>f29:5e873a9cc7175607386603ff</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2287,6 +2456,7 @@
         <dc:identifier>ddp:DDP_00184</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: What antibiotics?</rdfs:label>
         <rdfs:seeAlso>f29:5e873ab9c717560738660400</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2299,6 +2469,7 @@
         <dc:identifier>ddp:DDP_00185</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: Did anything change on your heart medication?</rdfs:label>
         <rdfs:seeAlso>f29:5e873ad7c717560738660401</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2311,6 +2482,7 @@
         <dc:identifier>ddp:DDP_00186</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: Heart medication field - what has changed?</rdfs:label>
         <rdfs:seeAlso>f29:5e873af4c717560738660402</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2323,6 +2495,7 @@
         <dc:identifier>ddp:DDP_00187</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: What treatments have you had that are not listed above?</rdfs:label>
         <rdfs:seeAlso>f29:5e873b0ac717560738660403</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2335,6 +2508,7 @@
         <dc:identifier>ddp:DDP_00188</dc:identifier>
         <rdfs:label xml:lang="en">COVID-19: What other aspects would you like to report?</rdfs:label>
         <rdfs:seeAlso>f29:5e873b20c717560738660404</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C171133"/>
     </owl:Class>
     
 
@@ -2347,6 +2521,7 @@
         <dc:identifier>ddp:DDP_00189</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: whoFills - Who is filling this questionnaire?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b01c34544c47dcb11a10</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2359,6 +2534,7 @@
         <dc:identifier>ddp:DDP_00190</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: dateFilling - Date of filling</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b08234544c47dcb11a11</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2371,6 +2547,7 @@
         <dc:identifier>ddp:DDP_00194</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: isOnCorts - Is your son on corticosteroids right now?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b26d34544c47dcb11a16</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2383,6 +2560,7 @@
         <dc:identifier>ddp:DDP_00195</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: startCorts -  If so, at what age did your son start taking them? (age in years)</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b2c534544c47dcb11a17</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2395,6 +2573,7 @@
         <dc:identifier>ddp:DDP_00196</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: studyTNO - DO YOU GIVE PERMISSION TO SHARE YOUR ANSWERS TO THE QUESTIONNAIRE ACTIVITIES (WITH THE EXCEPTION OF THE QUESTIONS ABOUT LEARNING) WITH TNO? TNO GUARANTEES THAT YOUR DATA WILL ONLY BE USED FOR RESEARCH PURPOSES. THIRD PARTIES DO NOT HAVE ACCESS TO THE DATA COLLECTED. IN PUBLICATIONS ABOUT THE RESEARCH, THE (ANSWERS OF) INDIVIDUAL PARTICIPANTS ARE IN NO WAY RECOGNIZABLE.</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b36434544c47dcb11a18</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2407,6 +2586,7 @@
         <dc:identifier>ddp:DDP_00197</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: simpleTask - 1. Can your son perform a simple task? (e.g. clean up something)</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b5c734544c47dcb11a1b</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2419,6 +2599,7 @@
         <dc:identifier>ddp:DDP_00198</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: complexTask - 2. Can your son perform a job consisting of several parts? (e.g. make a school assignment and get himself ready for school)</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b67434544c47dcb11a1c</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2431,6 +2612,7 @@
         <dc:identifier>ddp:DDP_00199</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: listenStory - 3. Can your son listen attentively to a story?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b6ad34544c47dcb11a1d</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2443,6 +2625,7 @@
         <dc:identifier>ddp:DDP_00200</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: tellStory - 4. Can your son tell a coherent story himself?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b73734544c47dcb11a1e</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2455,6 +2638,7 @@
         <dc:identifier>ddp:DDP_00201</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: makeClear - 5. Can your son&apos;s words make clear to others what he wants?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b78a34544c47dcb11a1f</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2467,6 +2651,7 @@
         <dc:identifier>ddp:DDP_00202</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canRead - 6. Can your son read and understand a piece of text?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b7cd34544c47dcb11a20</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2479,6 +2664,7 @@
         <dc:identifier>ddp:DDP_00203</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: writeSentence - 7. Can your son write a readable sentence of at least 5 words?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b80934544c47dcb11a21</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2491,6 +2677,7 @@
         <dc:identifier>ddp:DDP_00204</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: typeSentence - 8. Can your son type a readable sentence of at least 5 words?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b85134544c47dcb11a22</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2503,6 +2690,7 @@
         <dc:identifier>ddp:DDP_00205</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: drawCross - 9. Can your son draw a cross? (2 lines that clearly intersect)</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b88934544c47dcb11a23</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2515,6 +2703,7 @@
         <dc:identifier>ddp:DDP_00206</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: layToSit - 10. Can your son sit down from lying down?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b8ca34544c47dcb11a24</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2527,6 +2716,7 @@
         <dc:identifier>ddp:DDP_00207</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: seatToStand - 11. Can your son stand from a seated position?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b91a34544c47dcb11a25</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2539,6 +2729,7 @@
         <dc:identifier>ddp:DDP_00208</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: standToSit - 12. Can your son sit down from a standing position?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b94a34544c47dcb11a26</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2551,6 +2742,7 @@
         <dc:identifier>ddp:DDP_00209</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: outBed - 13. Can your son get out of bed?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b98434544c47dcb11a27</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2563,6 +2755,7 @@
         <dc:identifier>ddp:DDP_00210</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: pickUp - 14. Can your son bend down and pick something up?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b9c334544c47dcb11a28</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2575,6 +2768,7 @@
         <dc:identifier>ddp:DDP_00211</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: getUp - 15. Can your son get up from a crouching position?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3ba0034544c47dcb11a29</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2587,6 +2781,7 @@
         <dc:identifier>ddp:DDP_00212</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: bendKnee - 16. Can your son bend his knee?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3ba2c34544c47dcb11a2a</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2599,6 +2794,7 @@
         <dc:identifier>ddp:DDP_00213</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: changeSurface - 17. Can your son move from one surface to another while sitting?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3bb0134544c47dcb11a2b</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2611,6 +2807,7 @@
         <dc:identifier>ddp:DDP_00214</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: sitChair - 18. Can your son sit on a chair?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3bb3b34544c47dcb11a2c</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2623,6 +2820,7 @@
         <dc:identifier>ddp:DDP_00215</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: getOnCar - 19. Can your son get in and out of a car?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3bb7134544c47dcb11a2d</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2635,6 +2833,7 @@
         <dc:identifier>ddp:DDP_00216</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: liftCup - 20. Can your son lift a cup/glass from a table?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3bbbc34544c47dcb11a2e</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2647,6 +2846,7 @@
         <dc:identifier>ddp:DDP_00217</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: placeCup - 21. Can your son place a cup/glass on a table?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3bbf034544c47dcb11a2f</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2659,6 +2859,7 @@
         <dc:identifier>ddp:DDP_00218</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: putBackpack - 22. Can your son put on a backpack?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3bc2034544c47dcb11a30</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2671,6 +2872,7 @@
         <dc:identifier>ddp:DDP_00219</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: hangCoat - 23. Can your son hang up a coat?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3bc5a34544c47dcb11a31</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2683,6 +2885,7 @@
         <dc:identifier>ddp:DDP_00220</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: liftObject - 24. Can your son lift a heavy object?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3bc9934544c47dcb11a32</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2695,6 +2898,7 @@
         <dc:identifier>ddp:DDP_00221</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: carryHeavyObject - 25. Can your son carry and put down a heavy object?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3bcdb34544c47dcb11a33</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2707,6 +2911,7 @@
         <dc:identifier>ddp:DDP_00222</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: moveTable - 26. Can your son move a table with his hands?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3bd0e34544c47dcb11a34</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2719,6 +2924,7 @@
         <dc:identifier>ddp:DDP_00223</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: moveChair - 27. Can your son move a chair with his hands?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3bd3c34544c47dcb11a35</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2731,6 +2937,7 @@
         <dc:identifier>ddp:DDP_00224</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: catchObject - 28. Can your son catch an object (e.g. a ball)?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3bd7d34544c47dcb11a36</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2743,6 +2950,7 @@
         <dc:identifier>ddp:DDP_00225</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: throwObject - 29. Can your son throw an object (e.g., a ball)?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3bdb634544c47dcb11a37</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2755,6 +2963,7 @@
         <dc:identifier>ddp:DDP_00226</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: kickBall - 30. Can your son kick away a ball?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3bdeb34544c47dcb11a38</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2767,6 +2976,7 @@
         <dc:identifier>ddp:DDP_00227</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: pickUp - 31. Can your son pick up a small object (for example, a coin)?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3be2934544c47dcb11a39</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2779,6 +2989,7 @@
         <dc:identifier>ddp:DDP_00228</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: openCloseDoor - 32. Can your son open and close a door? (A remote control may not be used)</rdfs:label>
         <rdfs:seeAlso>f29:5fb3be5f34544c47dcb11a3a</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2791,6 +3002,7 @@
         <dc:identifier>ddp:DDP_00229</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: closeLock - 33. Can your son close a lock?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3be9534544c47dcb11a3b</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2803,6 +3015,7 @@
         <dc:identifier>ddp:DDP_00230</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: openDoorKey - 34. Can your son open a door with a key?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3bef134544c47dcb11a3c</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2815,6 +3028,7 @@
         <dc:identifier>ddp:DDP_00231</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: pressPedal - 35. Can your son press a pedal with his foot?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3bf1e34544c47dcb11a3d</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2827,6 +3041,7 @@
         <dc:identifier>ddp:DDP_00232</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canWashBody - 36. Can your son wash his body?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3bf4c34544c47dcb11a3e</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2839,6 +3054,7 @@
         <dc:identifier>ddp:DDP_00233</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canWashFace - 37. Can your son wash his face?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3bff134544c47dcb11a3f</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2851,6 +3067,7 @@
         <dc:identifier>ddp:DDP_00234</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canDryBody - 38. Can your son dry his body?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c0b034544c47dcb11a40</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2863,6 +3080,7 @@
         <dc:identifier>ddp:DDP_00235</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canBrushTeeth - 39. Can your son brush his teeth?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c39734544c47dcb11a41</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2875,6 +3093,7 @@
         <dc:identifier>ddp:DDP_00236</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canToilet - 40. Can your son go to the toilet (by this we don&apos;t mean to pee in a bottle, but actually sit on the toilet)?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c3d634544c47dcb11a42</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2887,6 +3106,7 @@
         <dc:identifier>ddp:DDP_00237</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canComb - 41. Can your son comb his hair?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c40934544c47dcb11a43</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2899,6 +3119,7 @@
         <dc:identifier>ddp:DDP_00238</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canPutTrousers - 42. Can your son put on his trousers?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c43934544c47dcb11a44</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2911,6 +3132,7 @@
         <dc:identifier>ddp:DDP_00239</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canPutTsh - 43. Can your son put on his t-shirt?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c46634544c47dcb11a45</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2923,6 +3145,7 @@
         <dc:identifier>ddp:DDP_00240</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: putShoes - 44. Can your son put his shoes on?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c4a034544c47dcb11a46</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2935,6 +3158,7 @@
         <dc:identifier>ddp:DDP_00241</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canEat - 45. Can your son eat well with a knife, fork and spoon?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c4f334544c47dcb11a47</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2947,6 +3171,7 @@
         <dc:identifier>ddp:DDP_00242</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canSandw - 46. Can your son prepare a sandwich?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c54034544c47dcb11a48</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2959,6 +3184,7 @@
         <dc:identifier>ddp:DDP_00243</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canDrink - 47. Can your son drink on his own?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c58434544c47dcb11a49</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2971,6 +3197,7 @@
         <dc:identifier>ddp:DDP_00244</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canAvoidRisk - 48. Can your son avoid risks that could lead to physical injury or damage (e.g. not just cross the road without looking or lighting a fire where it is not allowed)?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c5c134544c47dcb11a4a</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2983,6 +3210,7 @@
         <dc:identifier>ddp:DDP_00245</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: understBL - 49. Can your son understand other people&apos;s body language? (e.g., understand that a person is angry when that person looks angry or his hands ball up into fists)</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c60534544c47dcb11a4b</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -2995,6 +3223,7 @@
         <dc:identifier>ddp:DDP_00246</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: otherFeel - 50. Can your son take other people&apos;s feelings into account?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c63934544c47dcb11a4c</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3007,6 +3236,7 @@
         <dc:identifier>ddp:DDP_00247</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: speakToStrangers - 51. Does your son dare to speak to strangers? (e.g. to ask for directions)</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c67634544c47dcb11a4d</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3019,6 +3249,7 @@
         <dc:identifier>ddp:DDP_00248</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canCope - 52. Can your son cope well with most teachers and therapists?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c70c34544c47dcb11a4e</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3031,6 +3262,7 @@
         <dc:identifier>ddp:DDP_00249</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: relationships - 53. Can your son establish and maintain relationships with friends?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c73e34544c47dcb11a4f</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3043,6 +3275,7 @@
         <dc:identifier>ddp:DDP_00250</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: copeFamily - 54. Can your son cope well with his parents and, if there are any, siblings?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c76c34544c47dcb11a50</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3055,6 +3288,7 @@
         <dc:identifier>ddp:DDP_00251</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canWait - 55. Can your son well wait his turn?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c79c34544c47dcb11a51</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3067,6 +3301,7 @@
         <dc:identifier>ddp:DDP_00252</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canConcentrate - 56. Can your son concentrate well?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c7df34544c47dcb11a52</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3079,6 +3314,7 @@
         <dc:identifier>ddp:DDP_00253</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: goSchool - 57. Can your son go to school?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c80934544c47dcb11a53</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3091,6 +3327,7 @@
         <dc:identifier>ddp:DDP_00254</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canPlay - 58. Can your son play games or work at the computer?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c83934544c47dcb11a54</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3103,6 +3340,7 @@
         <dc:identifier>ddp:DDP_00255</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canEngage - 59. Can your son engage himself in a game or hobby?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c87334544c47dcb11a55</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3115,6 +3353,7 @@
         <dc:identifier>ddp:DDP_00256</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: takeSports - 60. Can your son take part in a sports activity? This may also be an adapted sport</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c8aa34544c47dcb11a56</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3127,6 +3366,7 @@
         <dc:identifier>ddp:DDP_00257</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: sleepWell - 61. Does your son fall asleep easily (this is allowed with night respiration, if your son has one)?</rdfs:label>
         <rdfs:seeAlso>f29:5fb5048b34544c47dcb11a57</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3139,6 +3379,7 @@
         <dc:identifier>ddp:DDP_00258</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: sleepWell2 - 62. Does your son sleep through the night (this is allowed with night respiration if your son has this)?</rdfs:label>
         <rdfs:seeAlso>f29:5fb638db0bc56d21c8514406</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3151,6 +3392,7 @@
         <dc:identifier>ddp:DDP_00259</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canStand - 63. Can your son (possibly with difficulty) stand?</rdfs:label>
         <rdfs:seeAlso>f29:5fb639d50bc56d21c8514407</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3163,6 +3405,7 @@
         <dc:identifier>ddp:DDP_00260</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: standShortTime - 64. Can your son stand for a short time (max 15 min)?</rdfs:label>
         <rdfs:seeAlso>f29:5fb63b280bc56d21c8514408</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3175,6 +3418,7 @@
         <dc:identifier>ddp:DDP_00261</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: standLongTime - 65. Can your son stand for a long time (several hours)? </rdfs:label>
         <rdfs:seeAlso>f29:5fb63b690bc56d21c8514409</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3187,6 +3431,7 @@
         <dc:identifier>ddp:DDP_00262</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: standLeg - 66. Can your son stand on one leg for at least 5 seconds?</rdfs:label>
         <rdfs:seeAlso>f29:5fb63c040bc56d21c851440a</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3199,6 +3444,7 @@
         <dc:identifier>ddp:DDP_00263</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canCycle - 67. Can your son ride a bicycle?</rdfs:label>
         <rdfs:seeAlso>f29:5fb63c5a0bc56d21c851440b</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3211,6 +3457,7 @@
         <dc:identifier>ddp:DDP_00264</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canWalk - 68. Can your son (possibly with difficulty) walk?</rdfs:label>
         <rdfs:seeAlso>f29:5fb63ca40bc56d21c851440c</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3223,6 +3470,7 @@
         <dc:identifier>ddp:DDP_00265</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: moveOnFoot - 69. Can your son move from one room to another on foot?</rdfs:label>
         <rdfs:seeAlso>f29:5fb63d220bc56d21c851440d</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3235,6 +3483,7 @@
         <dc:identifier>ddp:DDP_00266</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: climbLadder - 70. Can your son climb a ladder?</rdfs:label>
         <rdfs:seeAlso>f29:5fb63d560bc56d21c851440e</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3247,6 +3496,7 @@
         <dc:identifier>ddp:DDP_00267</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: walkOut - 71. Can your son walk outside: up to a maximum of 100 m?</rdfs:label>
         <rdfs:seeAlso>f29:5fb63db80bc56d21c851440f</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3259,6 +3509,7 @@
         <dc:identifier>ddp:DDP_00268</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: walkFlat - 72. Can your son walk on a level (flat) surface?</rdfs:label>
         <rdfs:seeAlso>f29:5fb63dfc0bc56d21c8514410</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3271,6 +3522,7 @@
         <dc:identifier>ddp:DDP_00269</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: walkUneven - 73. Can your son walk on uneven (rough/bumpy) ground? </rdfs:label>
         <rdfs:seeAlso>f29:5fb63e3f0bc56d21c8514411</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3283,6 +3535,7 @@
         <dc:identifier>ddp:DDP_00270</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: walkNoBump - 74. Can your son walk without bumping into anything (e.g. can walk at the market or in a shop, in traffic or other crowded places without bumping into anything)?</rdfs:label>
         <rdfs:seeAlso>f29:5fb63ff00bc56d21c8514412</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3295,6 +3548,7 @@
         <dc:identifier>ddp:DDP_00271</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canRun - 75. Can your son run?</rdfs:label>
         <rdfs:seeAlso>f29:5fb640370bc56d21c8514413</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3307,6 +3561,7 @@
         <dc:identifier>ddp:DDP_00272</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: canJump - 76. Can your son jump?</rdfs:label>
         <rdfs:seeAlso>f29:5fb640840bc56d21c8514414</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3319,6 +3574,7 @@
         <dc:identifier>ddp:DDP_00273</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: difSpelling - 1. Your son has difficulty with spelling</rdfs:label>
         <rdfs:seeAlso>f29:5fb642a90bc56d21c8514416</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3331,6 +3587,7 @@
         <dc:identifier>ddp:DDP_00274</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: diffLetters - 2. Your son has difficulty learning letters from names</rdfs:label>
         <rdfs:seeAlso>f29:5fb642f80bc56d21c8514417</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3343,6 +3600,7 @@
         <dc:identifier>ddp:DDP_00275</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: difPron - 3. Your son has difficulty pronouncing words</rdfs:label>
         <rdfs:seeAlso>f29:5fb643450bc56d21c8514418</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3355,6 +3613,7 @@
         <dc:identifier>ddp:DDP_00276</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: readSlow - 4. Your son reads slowly</rdfs:label>
         <rdfs:seeAlso>f29:5fb643880bc56d21c8514419</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3367,6 +3626,7 @@
         <dc:identifier>ddp:DDP_00277</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: readLevel - 5. Your son reads at a lower level than expected</rdfs:label>
         <rdfs:seeAlso>f29:5fb643ec0bc56d21c851441a</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3379,6 +3639,7 @@
         <dc:identifier>ddp:DDP_00278</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: extraHelp - 6. Your son gets extra help at school because of reading or spelling problems</rdfs:label>
         <rdfs:seeAlso>f29:5fb6446f0bc56d21c851441b</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3391,6 +3652,7 @@
         <dc:identifier>ddp:DDP_00279</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: worseAtArith - 7. Your son gets worse grades for arithmetic than for reading and spelling</rdfs:label>
         <rdfs:seeAlso>f29:5fb644d50bc56d21c851441c</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3403,6 +3665,7 @@
         <dc:identifier>ddp:DDP_00280</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: mistakes - 8. Your son makes careless mistakes during arithmetic, such as adding where there is a minus sign</rdfs:label>
         <rdfs:seeAlso>f29:5fb6458e0bc56d21c851441d</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3415,6 +3678,7 @@
         <dc:identifier>ddp:DDP_00281</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: arithConcept - 9. Your son has difficulty learning new arithmetic concepts such as tail division</rdfs:label>
         <rdfs:seeAlso>f29:5fb645c70bc56d21c851441e</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3427,6 +3691,7 @@
         <dc:identifier>ddp:DDP_00282</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: difArith - 10. Your son has difficulty learning early arithmetic facts/calculation knowledge</rdfs:label>
         <rdfs:seeAlso>f29:5fb646030bc56d21c851441f</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3439,6 +3704,7 @@
         <dc:identifier>ddp:DDP_00283</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: troubSL - 11. Your son has trouble with storylines</rdfs:label>
         <rdfs:seeAlso>f29:5fb646740bc56d21c8514420</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3451,6 +3717,7 @@
         <dc:identifier>ddp:DDP_00284</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: remInstr - 12. Your son has difficulty remembering multiple instructions at the same time</rdfs:label>
         <rdfs:seeAlso>f29:5fb648510bc56d21c8514421</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3463,6 +3730,7 @@
         <dc:identifier>ddp:DDP_00285</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: troubRem - 13. Your son has trouble remembering where he put things</rdfs:label>
         <rdfs:seeAlso>f29:5fb648c60bc56d21c8514422</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3475,6 +3743,7 @@
         <dc:identifier>ddp:DDP_00286</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: difRhymes - 14. Your son has difficulty learning rhymes</rdfs:label>
         <rdfs:seeAlso>f29:5fb649090bc56d21c8514423</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3487,6 +3756,7 @@
         <dc:identifier>ddp:DDP_00287</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: difRec - 15. Your son has difficulty recounting a story</rdfs:label>
         <rdfs:seeAlso>f29:5fb649640bc56d21c8514424</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3499,6 +3769,7 @@
         <dc:identifier>ddp:DDP_00288</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: forgetful - 16. Your son is forgetful in daily activities</rdfs:label>
         <rdfs:seeAlso>f29:5fb649da0bc56d21c8514425</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3511,6 +3782,7 @@
         <dc:identifier>ddp:DDP_00289</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: adjust - 17. Your son adjusts easily when plans change</rdfs:label>
         <rdfs:seeAlso>f29:5fb64a250bc56d21c8514426</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3523,6 +3795,7 @@
         <dc:identifier>ddp:DDP_00290</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: difOrg - 18. Your son has difficulty organizing and planning daily activities</rdfs:label>
         <rdfs:seeAlso>f29:5fb64a660bc56d21c8514427</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3535,6 +3808,7 @@
         <dc:identifier>ddp:DDP_00291</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: leaveTask - 19. Your son leaves tasks until last</rdfs:label>
         <rdfs:seeAlso>f29:5fb64ae80bc56d21c8514428</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -3547,6 +3821,7 @@
         <dc:identifier>ddp:DDP_00292</dc:identifier>
         <rdfs:label xml:lang="en">Questionnaire Activities: deskChaos - 20. His desk at school or at home is chaotic</rdfs:label>
         <rdfs:seeAlso>f29:5fb64b4e0bc56d21c8514429</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
     
 
@@ -4637,11 +4912,65 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/NCIT_C102559 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C102559">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Performed Medical Condition Result</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/NCIT_C121238 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C121238">
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
         <skos:prefLabel>Ability to Get Up from Kneeling</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C13306 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C13306">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Cardiac</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C13359 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C13359">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Gastrointestinal</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C15220 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C15220">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Diagnosis</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C16457 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C16457">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Comorbidity</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C171133 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C171133">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>COVID-19 Infection</skos:prefLabel>
     </owl:NamedIndividual>
     
 
@@ -4655,6 +4984,51 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/NCIT_C20993 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C20993">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Research or Clinical Assessment Tool</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C25271 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C25271">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Painful</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C25597 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C25597">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Nutritional</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C25656 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C25656">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Respiratory</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C25711 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C25711">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Urinary</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/NCIT_C62103 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C62103">
@@ -4664,11 +5038,29 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/NCIT_C94321 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C94321">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Neurocognitive</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/SYMP_0000401 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/SYMP_0000401">
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
         <skos:prefLabel>Wobble</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UBERON_0001434 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/UBERON_0001434">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Skeletal System</skos:prefLabel>
     </owl:NamedIndividual>
 </rdf:RDF>
 
