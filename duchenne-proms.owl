@@ -95,6 +95,7 @@
         <rdfs:label xml:lang="en">Diagnosis: Diagnosis Delay - Number of months/years</rdfs:label>
         <rdfs:seeAlso>f29:5c7024949d309719c05e2656</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15220"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C164877"/>
     </owl:Class>
     
 
@@ -218,6 +219,7 @@
         <dc:identifier>ddp:DDP_00012</dc:identifier>
         <rdfs:label xml:lang="en">Diagnosis: Thick calves</rdfs:label>
         <rdfs:seeAlso>f29:5e5e4dfc856f5021b8b6ec05</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0008981"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15220"/>
     </owl:Class>
     
@@ -259,6 +261,7 @@
         <dc:identifier>ddp:DDP_00015</dc:identifier>
         <rdfs:label xml:lang="en">Diagnosis: POSITIVE FAMILY HISTORY</rdfs:label>
         <rdfs:seeAlso>f29:5e5e4e6f856f5021b8b6ec08</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0032321"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15220"/>
     </owl:Class>
     
@@ -273,6 +276,7 @@
         <rdfs:label xml:lang="en">Physical outcomes: Mobility</rdfs:label>
         <rdfs:seeAlso>f29:5c7026da9d309719c05e265c</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C131922"/>
     </owl:Class>
     
 
@@ -299,6 +303,7 @@
         <rdfs:label xml:lang="en">Physical outcomes: Currently able to sit without support</rdfs:label>
         <rdfs:seeAlso>f29:5c70271b9d309719c05e265e</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C136154"/>
     </owl:Class>
     
 
@@ -325,6 +330,7 @@
         <rdfs:label xml:lang="en">Physical outcomes: 6 minutes walk test?</rdfs:label>
         <rdfs:seeAlso>f29:5c77e937f2fc051ee8f366c2</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C115789"/>
     </owl:Class>
     
 
@@ -338,6 +344,7 @@
         <rdfs:label xml:lang="en">Physical outcomes: 6 minutes walk test distance in meters</rdfs:label>
         <rdfs:seeAlso>f29:5c77e95df2fc051ee8f366c3</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C115805"/>
     </owl:Class>
     
 
@@ -351,6 +358,7 @@
         <rdfs:label xml:lang="en">Physical outcomes: 4 step climb test?</rdfs:label>
         <rdfs:seeAlso>f29:5c77e974f2fc051ee8f366c4</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C141689"/>
     </owl:Class>
     
 
@@ -364,6 +372,7 @@
         <rdfs:label xml:lang="en">Physical outcomes: 4-step climb in seconds</rdfs:label>
         <rdfs:seeAlso>f29:5c77e995f2fc051ee8f366c5</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C141706"/>
     </owl:Class>
     
 
@@ -377,6 +386,7 @@
         <rdfs:label xml:lang="en">Physical outcomes: North Star Assesment?</rdfs:label>
         <rdfs:seeAlso>f29:5c77e9a8f2fc051ee8f366c6</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C132531"/>
     </owl:Class>
     
 
@@ -390,6 +400,7 @@
         <rdfs:label xml:lang="en">Physical outcomes: North Star Assessment score in points</rdfs:label>
         <rdfs:seeAlso>f29:5c77e9c3f2fc051ee8f366c7</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C132555"/>
     </owl:Class>
     
 
@@ -403,6 +414,7 @@
         <rdfs:label xml:lang="en">Physical outcomes: Come up from supine to standing - Come up from supine to standing test?</rdfs:label>
         <rdfs:seeAlso>f29:5c77e9ddf2fc051ee8f366c8</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C141687"/>
     </owl:Class>
     
 
@@ -416,6 +428,7 @@
         <rdfs:label xml:lang="en">Physical outcomes: Come up from supine to standing in seconds</rdfs:label>
         <rdfs:seeAlso>f29:5c77ea2df2fc051ee8f366c9</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C141702"/>
     </owl:Class>
     
 
@@ -429,6 +442,7 @@
         <rdfs:label xml:lang="en">Physical outcomes: Wheelchair outdoors</rdfs:label>
         <rdfs:seeAlso>f29:5c77eb59f2fc051ee8f366ca</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C156186"/>
     </owl:Class>
     
 
@@ -442,6 +456,7 @@
         <rdfs:label xml:lang="en">Physical outcomes: Fulltime wheelchair</rdfs:label>
         <rdfs:seeAlso>f29:5c77ebb4f2fc051ee8f366cb</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C130965"/>
     </owl:Class>
     
 
@@ -454,6 +469,7 @@
         <dc:identifier>ddp:DDP_00030</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Loss of ambulation date</rdfs:label>
         <rdfs:seeAlso>f29:5c77ebcff2fc051ee8f366cc</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0006957"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
@@ -480,6 +496,7 @@
         <dc:identifier>ddp:DDP_00032</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Hands / Fingers contracture</rdfs:label>
         <rdfs:seeAlso>f29:5c77eda6f2fc051ee8f366cf</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0009473"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
@@ -493,6 +510,7 @@
         <dc:identifier>ddp:DDP_00033</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Foot contracture</rdfs:label>
         <rdfs:seeAlso>f29:5c77edd8f2fc051ee8f366d0</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0008366"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
@@ -506,6 +524,7 @@
         <dc:identifier>ddp:DDP_00034</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Jaw contracture (limited mouthopening)</rdfs:label>
         <rdfs:seeAlso>f29:5c77edf9f2fc051ee8f366d1</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0033333"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
@@ -519,6 +538,7 @@
         <dc:identifier>ddp:DDP_00035</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Knee contracture</rdfs:label>
         <rdfs:seeAlso>f29:5c77ee5df2fc051ee8f366d2</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0006380"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
@@ -532,6 +552,7 @@
         <dc:identifier>ddp:DDP_00036</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Scoliosis  contracture</rdfs:label>
         <rdfs:seeAlso>f29:5c77ee83f2fc051ee8f366d3</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0002650"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
@@ -545,6 +566,7 @@
         <dc:identifier>ddp:DDP_00037</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Schouder contracture</rdfs:label>
         <rdfs:seeAlso>f29:5c77ef9ff2fc051ee8f366d5</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0003044"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
@@ -558,6 +580,7 @@
         <dc:identifier>ddp:DDP_00038</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Neck contracture</rdfs:label>
         <rdfs:seeAlso>f29:5c77efdbf2fc051ee8f366d6</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0005997"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
@@ -571,6 +594,7 @@
         <dc:identifier>ddp:DDP_00039</dc:identifier>
         <rdfs:label xml:lang="en">Physical outcomes: Elbow contracture</rdfs:label>
         <rdfs:seeAlso>f29:5c77f01cf2fc051ee8f366d7</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0002987"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C102559"/>
     </owl:Class>
     
@@ -624,6 +648,7 @@
         <rdfs:label xml:lang="en">Heart condition: Use of pacemaker / ICD</rdfs:label>
         <rdfs:seeAlso>f29:5c702b649d309719c05e2676</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13306"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C94198"/>
     </owl:Class>
     
 
@@ -675,6 +700,7 @@
         <dc:identifier>ddp:DDP_00047</dc:identifier>
         <rdfs:label xml:lang="en">Heart condition: arrhythmia or conduction block at age</rdfs:label>
         <rdfs:seeAlso>f29:5c702bc89d309719c05e267b</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0011675"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13306"/>
     </owl:Class>
     
@@ -701,6 +727,7 @@
         <dc:identifier>ddp:DDP_00049</dc:identifier>
         <rdfs:label xml:lang="en">Heart condition: cardiomyopathy at age</rdfs:label>
         <rdfs:seeAlso>f29:5c702bf79d309719c05e267d</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0001639"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13306"/>
     </owl:Class>
     
@@ -857,6 +884,7 @@
         <dc:identifier>ddp:DDP_00061</dc:identifier>
         <rdfs:label xml:lang="en">Nutrition: Type of diet</rdfs:label>
         <rdfs:seeAlso>f29:5c7030a49d309719c05e268a</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15222"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25597"/>
     </owl:Class>
     
@@ -870,6 +898,7 @@
         <dc:identifier>ddp:DDP_00062</dc:identifier>
         <rdfs:label xml:lang="en">Nutrition: Other diet</rdfs:label>
         <rdfs:seeAlso>f29:5c7030b59d309719c05e268b</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C15383"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25597"/>
     </owl:Class>
     
@@ -896,6 +925,7 @@
         <dc:identifier>ddp:DDP_00064</dc:identifier>
         <rdfs:label xml:lang="en">Nutrition: Diet / outcome body mass test</rdfs:label>
         <rdfs:seeAlso>f29:5c7030f19d309719c05e268d</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C138901"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25597"/>
     </owl:Class>
     
@@ -909,6 +939,7 @@
         <dc:identifier>ddp:DDP_00065</dc:identifier>
         <rdfs:label xml:lang="en">Nutrition: Chewing</rdfs:label>
         <rdfs:seeAlso>f29:5c7031119d309719c05e268e</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0030193"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25597"/>
     </owl:Class>
     
@@ -935,6 +966,7 @@
         <dc:identifier>ddp:DDP_00067</dc:identifier>
         <rdfs:label xml:lang="en">Nutrition: Swallowing problems</rdfs:label>
         <rdfs:seeAlso>f29:5c70315d9d309719c05e2690</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C125410"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25597"/>
     </owl:Class>
     
@@ -987,6 +1019,7 @@
         <dc:identifier>ddp:DDP_00071</dc:identifier>
         <rdfs:label xml:lang="en">Gastrointestinal: Diarrhea</rdfs:label>
         <rdfs:seeAlso>f29:5e5e66e5856f5021b8b6ec10</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0002014"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13359"/>
     </owl:Class>
     
@@ -1000,6 +1033,7 @@
         <dc:identifier>ddp:DDP_00072</dc:identifier>
         <rdfs:label xml:lang="en">Gastrointestinal: Reflux (heartburn)</rdfs:label>
         <rdfs:seeAlso>f29:5e5e66f6856f5021b8b6ec11</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0002020"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13359"/>
     </owl:Class>
     
@@ -1026,6 +1060,7 @@
         <dc:identifier>ddp:DDP_00074</dc:identifier>
         <rdfs:label xml:lang="en">Gastrointestinal: PEG or tube feeding</rdfs:label>
         <rdfs:seeAlso>f29:5e5e6723856f5021b8b6ec13</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0033454"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13359"/>
     </owl:Class>
     
@@ -1039,6 +1074,7 @@
         <dc:identifier>ddp:DDP_00075</dc:identifier>
         <rdfs:label xml:lang="en">Gastrointestinal: Bloated feeling</rdfs:label>
         <rdfs:seeAlso>f29:5e5e6737856f5021b8b6ec14</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0003270"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13359"/>
     </owl:Class>
     
@@ -1065,6 +1101,7 @@
         <dc:identifier>ddp:DDP_00077</dc:identifier>
         <rdfs:label xml:lang="en">Gastrointestinal: Constipation</rdfs:label>
         <rdfs:seeAlso>f29:5e5e675b856f5021b8b6ec16</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0002019"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C13359"/>
     </owl:Class>
     
@@ -1728,6 +1765,7 @@
         <dc:identifier>ddp:DDP_00128</dc:identifier>
         <rdfs:label xml:lang="en">Bone health and orthopedics: Fracture</rdfs:label>
         <rdfs:seeAlso>f29:5c70369a9d309719c05e26c9</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0020110"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001434"/>
     </owl:Class>
     
@@ -1781,6 +1819,7 @@
         <rdfs:label xml:lang="en">(Technical) support: Support</rdfs:label>
         <rdfs:seeAlso>f29:5c7037619d309719c05e26d0</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C93300"/>
     </owl:Class>
     
 
@@ -1806,6 +1845,7 @@
         <dc:identifier>ddp:DDP_00134</dc:identifier>
         <rdfs:label xml:lang="en">(Technical) support: Arm support</rdfs:label>
         <rdfs:seeAlso>f29:5c70378e9d309719c05e26d2</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C50276"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
     </owl:Class>
     
@@ -1845,6 +1885,7 @@
         <dc:identifier>ddp:DDP_00137</dc:identifier>
         <rdfs:label xml:lang="en">(Technical) support: Brand of arm support</rdfs:label>
         <rdfs:seeAlso>f29:5e5e7c64856f5021b8b6ec1c</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C101668"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
     </owl:Class>
     
@@ -1871,6 +1912,7 @@
         <dc:identifier>ddp:DDP_00139</dc:identifier>
         <rdfs:label xml:lang="en">(Technical) support: Eye tracking</rdfs:label>
         <rdfs:seeAlso>f29:5e5e7ccc856f5021b8b6ec1f</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C176742"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
     </owl:Class>
     
@@ -1884,6 +1926,7 @@
         <dc:identifier>ddp:DDP_00140</dc:identifier>
         <rdfs:label xml:lang="en">(Technical) support: Speech</rdfs:label>
         <rdfs:seeAlso>f29:5e5e7ce2856f5021b8b6ec20</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C50184"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
     </owl:Class>
     
@@ -1910,6 +1953,7 @@
         <dc:identifier>ddp:DDP_00142</dc:identifier>
         <rdfs:label xml:lang="en">(Technical) support: Custom controller (gaming)</rdfs:label>
         <rdfs:seeAlso>f29:5e5e7d06856f5021b8b6ec22</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C49887"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C62103"/>
     </owl:Class>
     
@@ -1962,6 +2006,7 @@
         <dc:identifier>ddp:DDP_00146</dc:identifier>
         <rdfs:label xml:lang="en">Learning and behaviour outcomes: IQ score scale - Scale</rdfs:label>
         <rdfs:seeAlso>f29:5c7038909d309719c05e26d8</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C122920"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C94321"/>
     </owl:Class>
     
@@ -1975,6 +2020,7 @@
         <dc:identifier>ddp:DDP_00147</dc:identifier>
         <rdfs:label xml:lang="en">Learning and behaviour outcomes: Developmental delay </rdfs:label>
         <rdfs:seeAlso>f29:5c7038ba9d309719c05e26da</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0001263"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C94321"/>
     </owl:Class>
     
@@ -1988,6 +2034,7 @@
         <dc:identifier>ddp:DDP_00148</dc:identifier>
         <rdfs:label xml:lang="en">Learning and behaviour outcomes: Speech delay</rdfs:label>
         <rdfs:seeAlso>f29:5c7038ce9d309719c05e26db</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0000750"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C94321"/>
     </owl:Class>
     
@@ -2105,6 +2152,7 @@
         <dc:identifier>ddp:DDP_00157</dc:identifier>
         <rdfs:label xml:lang="en">Problems and comorbidity: (Pre) diabetes</rdfs:label>
         <rdfs:seeAlso>f29:5c703a269d309719c05e26e7</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/HP_0000819"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16457"/>
     </owl:Class>
     
@@ -2170,6 +2218,7 @@
         <dc:identifier>ddp:DDP_00162</dc:identifier>
         <rdfs:label xml:lang="en">Pain: Pregunta - Are you experiencing some kind of pain?</rdfs:label>
         <rdfs:seeAlso>f29:5e5e8192856f5021b8b6ec28</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C173346"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25271"/>
     </owl:Class>
     
@@ -2183,6 +2232,7 @@
         <dc:identifier>ddp:DDP_00163</dc:identifier>
         <rdfs:label xml:lang="en">Pain: Pain block</rdfs:label>
         <rdfs:seeAlso>f29:5e5e81f6856f5021b8b6ec29</rdfs:seeAlso>
+        <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C21072"/>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25271"/>
     </owl:Class>
     
@@ -4876,6 +4926,15 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/HP_0000819 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0000819">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Diabetes</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/HP_0001263 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0001263">
@@ -4894,11 +4953,191 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/HP_0001639 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0001639">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Hypertrophic cardiomyopathy</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0002014 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0002014">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Diarrhea</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0002019 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0002019">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Constipation</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0002020 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0002020">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Gastroesophageal reflux</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/HP_0002194 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0002194">
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
         <skos:prefLabel>Delayed ability to walk</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0002650 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0002650">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Scoliosis</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0002987 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0002987">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Elbow flexion contracture</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0003044 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0003044">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Shoulder flexion contracture</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0003270 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0003270">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Abdominal distention</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0005997 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0005997">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Neck flexion contracture</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0006380 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0006380">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Knee flexion contracture</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0006957 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0006957">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Loss of ability to walk</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0008366 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0008366">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Contractures involving the joints of the feet</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0008981 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0008981">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Calf hypertrophy</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0009473 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0009473">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Joint contracture of the hand</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0011675 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0011675">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Arrhythmia</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0020110 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0020110">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Bone fracture</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0030193 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0030193">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Fatigable weakness of chewing muscles</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0032321 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0032321">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Unaffected</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0033333 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0033333">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Jaw contracture</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/HP_0033454 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/HP_0033454">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Tube feeding</skos:prefLabel>
     </owl:NamedIndividual>
     
 
@@ -4912,6 +5151,15 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/NCIT_C101668 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C101668">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Medical Device Brand Name Family</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/NCIT_C102559 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C102559">
@@ -4921,11 +5169,83 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/NCIT_C115789 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C115789">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>6 Minute Walk Functional Test</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C115805 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C115805">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>6MWT - Distance at 6 Minutes</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/NCIT_C121238 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C121238">
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
         <skos:prefLabel>Ability to Get Up from Kneeling</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C122920 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C122920">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Intelligence Scale</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C125410 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C125410">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Have Difficulty Swallowing</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C130965 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C130965">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Wheelchair Usually Used</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C131922 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C131922">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Mobility Ability</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C132531 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C132531">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>North Star Ambulatory Assessment Clinical Classification</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C132555 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C132555">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>NSAA - Total</skos:prefLabel>
     </owl:NamedIndividual>
     
 
@@ -4948,6 +5268,60 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/NCIT_C136154 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C136154">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Sit in Chair Without Holding On</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C138901 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C138901">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Body Mass Index Finding</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C141687 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C141687">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Rising From Floor Test Functional Test</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C141689 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C141689">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Four Stair Ascend Test Functional Test</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C141702 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C141702">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Rising From Floor - Time to Rise From Floor</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C141706 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C141706">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>4-Stair Ascend - Time to Do 4-Stair Ascend</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/NCIT_C15220 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C15220">
@@ -4957,11 +5331,47 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/NCIT_C15222 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C15222">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Diet</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C15383 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C15383">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Special Diet Therapy</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C156186 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C156186">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Required a Wheelchair to Get Around the Neighborhood</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/NCIT_C16457 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C16457">
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
         <skos:prefLabel>Comorbidity</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C164877 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C164877">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Observation Result Action Taken Relationship Delay Duration</skos:prefLabel>
     </owl:NamedIndividual>
     
 
@@ -4984,11 +5394,38 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/NCIT_C173346 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C173346">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Pain Question</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C176742 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C176742">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Eye Tracking</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/NCIT_C20993 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C20993">
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
         <skos:prefLabel>Research or Clinical Assessment Tool</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C21072 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C21072">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Neural Block</skos:prefLabel>
     </owl:NamedIndividual>
     
 
@@ -5029,11 +5466,65 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/NCIT_C49887 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C49887">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Controller Device</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C50184 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C50184">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Speaker Device</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C50276 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C50276">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Handrest Device</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/NCIT_C62103 -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C62103">
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
         <skos:prefLabel>Device</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C86054 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C86054">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Brace</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C93300 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C93300">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Assistive Device</skos:prefLabel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C94198 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/NCIT_C94198">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:prefLabel>Cardiac Pacemaker</skos:prefLabel>
     </owl:NamedIndividual>
     
 
