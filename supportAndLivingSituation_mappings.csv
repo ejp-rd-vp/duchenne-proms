@@ -1,0 +1,8 @@
+databaseName,URI,pref_name
+parent,http://purl.obolibrary.org/obo/NCIT_C42709,Parent
+sibling,http://purl.obolibrary.org/obo/NCIT_C25204,Sibling
+otherFamilyMembers,http://purl.obolibrary.org/obo/NCIT_C41256,Family member
+helpers,http://purl.obolibrary.org/obo/NCIT_C53431, Nursing Assistant
+friends,http://purl.obolibrary.org/obo/NCIT_C72884,Friend
+institution,http://purl.obolibrary.org/obo/NCIT_C41206,Institution
+partner,http://purl.obolibrary.org/obo/NCIT_C100128,Partner

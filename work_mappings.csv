@@ -1,0 +1,5 @@
+databaseName,URI,pref_name
+administratief medewerker,http://purl.obolibrary.org/obo/NCIT_C122508,Secretaries and Administrative Assistants
+no,http://purl.obolibrary.org/obo/NCIT_C75563,Unemployed
+volunteer,http://purl.obolibrary.org/obo/NCIT_C171228,Volunteer Activity
+paid,http://purl.obolibrary.org/obo/NCIT_C173947,Paid Hours
