@@ -1,0 +1,11 @@
+databaseName, clinicianRoleURI, clinicianRolePrefName
+Neurologist,http://purl.obolibrary.org/obo/NCIT_C17721, Neurologist
+Cardiologist,http://purl.obolibrary.org/obo/NCIT_C125951, Cardiologist
+Rehabilitation doctor,http://purl.obolibrary.org/obo/NCIT_C93127, Rehabilitation Specialist
+Physiotherapist,http://purl.obolibrary.org/obo/NCIT_C53422, Physical Therapist
+Center for Homeventilation,http://purl.obolibrary.org/obo/NCIT_C25741, Physician
+Pulmonologist,http://purl.obolibrary.org/obo/NCIT_C93080, Pulmonologist
+Dentist/orthodontist,http://purl.obolibrary.org/obo/NCIT_C52654, Dentist
+Family doctor,http://purl.obolibrary.org/obo/NCIT_C25741, Physician
+Orthopeed,http://purl.obolibrary.org/obo/OOSTT_00000090, orthopedic surgeon role
+Ophthalmologist,http://purl.obolibrary.org/obo/NCIT_C17822, Ophthalmologist
