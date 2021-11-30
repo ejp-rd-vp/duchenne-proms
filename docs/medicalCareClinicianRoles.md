@@ -14,6 +14,6 @@ databaseName, clinicianRoleURI, clinicianRolePrefName
 
 ## Notes:
   * databaseName - the EXACT contents of the "clinician" field in the database
-  * clinicianRoleURI - matching URI ([NCIT](http://www.ontobee.org/ontology/NCIT) preferred) for the clinician role from the database
-  * clinicianRolePrefName - preferred name for the clinician role as stated in the ontology where its URI was extracted from
+  * clinicianRoleURI - matching URI ([NCIT](http://www.ontobee.org/ontology/NCIT) preferred) for the clinician role from the database. The default is http://purl.obolibrary.org/obo/NCIT_C25741
+  * clinicianRolePrefName - preferred name for the clinician role as stated in the ontology where its URI was extracted from. The default is "Physician"
   
