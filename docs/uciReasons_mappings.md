@@ -13,7 +13,7 @@ databaseName, reasonURI, reasonPrefName
 
 
 ## Notes:
-  * databaseName - the EXACT contents of the "Support" and "Living Situation" fields in the database
+  * databaseName - the **EXACT** contents of the "Support" and "Living Situation" fields in the database
   * reasonURI - matching URI ([NCIT](http://www.ontobee.org/ontology/NCIT) preferred) for the reason from the database
   * reasonPrefName - preferred name for the reason as stated in the ontology where its URI was extracted from
   

@@ -13,7 +13,7 @@ databaseName,workURI,workPrefName
 
 
 ## Notes:
-  * databaseName - the EXACT contents of the "Profession" or "Work" fields in the database
+  * databaseName - the **EXACT** contents of the "Profession" or "Work" fields in the database
   * workURI - matching URI ([NCIT](http://www.ontobee.org/ontology/NCIT) preferred) for the profession from the database
   * workPrefName - preferred name for the profession as stated in the ontology where its URI was extracted from
   

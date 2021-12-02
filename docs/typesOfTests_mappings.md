@@ -13,7 +13,7 @@ databaseName, testURI, testPrefName
 
 
 ## Notes:
-  * databaseName - the EXACT contents of the "Support" and "Living Situation" fields in the database
+  * databaseName - the **EXACT** contents of the "Support" and "Living Situation" fields in the database
   * testURI - matching URI ([NCIT](http://www.ontobee.org/ontology/NCIT) preferred) for the test from the database
   * testPrefName - preferred name for the test as stated in the ontology where its URI was extracted from
   

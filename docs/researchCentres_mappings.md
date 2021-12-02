@@ -13,7 +13,7 @@ databaseName,centerURI,centerPrefName
 
 
 ## Notes:
-  * databaseName - the EXACT contents of the "hospital" field in the database, unless it is "Other", then it should be the contents of the "otherHospital" field
+  * databaseName - the **EXACT** contents of the "hospital" field in the database, unless it is "Other", then it should be the contents of the "otherHospital" field
   * centerURI - matching URI ([ROR](https://ror.org/) preferred) for the hospital name from the database
   * centerPrefName - preferred name for the hospital as stated in the ontology where its URI was extracted from
   
