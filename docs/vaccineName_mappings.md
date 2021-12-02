@@ -13,9 +13,9 @@ databaseName,vaccineURI,vaccinePrefName,diseaseURI,diseasePrefName
 
 
 ## Notes:
-  * databaseName - the EXACT contents of the "name" field in the database
+  * databaseName - the **EXACT** contents of the "name" field in the database
   * vaccineURI - matching URI ([VO](http://www.ontobee.org/ontology/VO) preferred) for the name of the vaccine from the database
   * vaccinePrefName - preferred name for the vaccione as stated in the ontology where its URI was extracted from
-  * diseaseURI - matching URI ([NCIT](http://www.ontobee.org/ontology/NCIT) preferred) for the disease that is the target of the vaccine from the database
+  * diseaseURI - matching URI ([NCIT](http://www.ontobee.org/ontology/NCIT) preferred) for the disease that is the target of the vaccine from the database. IMPORTANT: When the vaccine has multiple diseases as its targets, please add them separated by a semi-colon (e.g. Diphtheria; Tetanus; Whooping Cough; Poliovirus)
   * diseasePrefName - preferred name for the disease that is the target of the vaccine from the database as stated in the ontology where its URI was extracted from
   
