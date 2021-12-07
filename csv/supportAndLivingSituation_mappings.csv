@@ -1,4 +1,4 @@
-databaseName,URI,pref_name
+databaseName,slsURI,slspref_name
 parent,http://purl.obolibrary.org/obo/NCIT_C42709,Parent
 sibling,http://purl.obolibrary.org/obo/NCIT_C25204,Sibling
 otherFamilyMembers,http://purl.obolibrary.org/obo/NCIT_C41256,Family member

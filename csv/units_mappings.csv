@@ -1,0 +1,6 @@
+fieldName,unitURI,unitLabel
+bloodpressure,http://purl.obolibrary.org/obo/NCIT_C49670,Millimeter of Mercury
+bloodpressure2,http://purl.obolibrary.org/obo/NCIT_C49670,Millimeter of Mercury
+pulse,http://purl.obolibrary.org/obo/NCIT_C49673,Beats per Minute
+lvef,http://purl.obolibrary.org/obo/NCIT_C25613,Percentage
+distance,http://purl.obolibrary.org/obo/NCIT_C71177,Kilometer

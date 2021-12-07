@@ -5,7 +5,7 @@ COVID-19,http://purl.obolibrary.org/obo/VO_0004908, COVID-19 Vaccine, http://pur
 B.M.R.,http://purl.obolibrary.org/obo/VO_0000731, Measles-Mumps-Rubella vaccine, http://purl.obolibrary.org/obo/NCIT_C96406; http://purl.obolibrary.org/obo/NCIT_C29888; http://purl.obolibrary.org/obo/NCIT_C85051, Measles; Mumps; Rubella Infection
 Meningococcal,http://purl.obolibrary.org/obo/VO_0000053, Neisseria meningitidis vaccine, http://purl.obolibrary.org/obo/NCIT_C26828, Meningitis
 D.K.T.P.,http://purl.obolibrary.org/obo/VO_0000742, Diphtheria-Tetanus-Pertussis-Poliovirus vaccine, http://purl.obolibrary.org/obo/NCIT_C34541; http://purl.obolibrary.org/obo/NCIT_C85185; http://purl.obolibrary.org/obo/NCIT_C85231; http://purl.obolibrary.org/obo/NCIT_C14259, Diphtheria; Tetanus; Whooping Cough; Poliovirus
-H.I.B.,http://purl.obolibrary.org/obo/VO_0003408, Haemophilus Influenzae B Vaccine, ---,Haemophilus influenzae b (Ross strain) capsular polysaccharide Meningococcal Protein Conjugate Vaccine
+H.I.B.,http://purl.obolibrary.org/obo/VO_0003408, Haemophilus Influenzae B Vaccine, WIP,Haemophilus influenzae b (Ross strain) capsular polysaccharide Meningococcal Protein Conjugate Vaccine
 Chicken-pox,http://purl.obolibrary.org/obo/VO_0000669, Varicella-zoster virus vaccine, http://purl.obolibrary.org/obo/NCIT_C97132, Chicken Pox
 D.T.P.,http://purl.obolibrary.org/obo/VO_0000738, Diphtheria-Tetanus-Pertussis vaccine, http://purl.obolibrary.org/obo/NCIT_C34541; http://purl.obolibrary.org/obo/NCIT_C85185; http://purl.obolibrary.org/obo/NCIT_C85231, Diphtheria; Tetanus; Whooping Cough
 Rotavirus,http://purl.obolibrary.org/obo/VO_0000658, Rotavirus Vaccine, http://purl.obolibrary.org/obo/NCIT_C2987, Diarrhea
