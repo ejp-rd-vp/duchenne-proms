@@ -5,7 +5,7 @@ Mappings for the data contained within the "Profession" and "Work" fields from t
 ## CSV file 
 
 ### CSV file
-Please find the CSV file [here](../csv/work_mappings.csv)
+Please find the CSV file [here](../term_mappings/work_mappings.csv)
 
 ### Columns
 

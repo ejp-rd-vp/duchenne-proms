@@ -5,7 +5,7 @@ Mappings for the units that correspond to each measures field in the database.
 ## CSV file 
 
 ### CSV file
-Please find the CSV file [here](../csv/units_mappings.csv)
+Please find the CSV file [here](../term_mappings/units_mappings.csv)
 
 ### Columns
 

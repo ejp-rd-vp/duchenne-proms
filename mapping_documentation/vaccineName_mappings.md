@@ -5,7 +5,7 @@ Mappings for the data contained within the "name" field from the vaccine data
 ## CSV file 
 
 ### CSV file
-Please find the CSV file [here](../csv/vaccineName_mappings.csv)
+Please find the CSV file [here](../term_mappings/vaccineName_mappings.csv)
 
 ### Columns
 

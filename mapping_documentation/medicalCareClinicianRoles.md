@@ -5,7 +5,7 @@ Mappings for the data contained within the "clinician" fields from the "general"
 ## CSV file 
 
 ### CSV file
-Please find the CSV file [here](../csv/medicalCareClinicianRoles_mappings.csv)
+Please find the CSV file [here](../term_mappings/medicalCareClinicianRoles_mappings.csv)
 
 ### Columns
 

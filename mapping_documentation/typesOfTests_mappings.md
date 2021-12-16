@@ -5,7 +5,7 @@ Mappings for the data contained within the "typeoftest" fields from the "cardiot
 ## CSV file 
 
 ### CSV file
-Please find the CSV file [here](../csv/typesOfTests_mappings.csv)
+Please find the CSV file [here](../term_mappings/typesOfTests_mappings.csv)
 
 ### Columns
 
