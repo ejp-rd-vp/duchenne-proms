@@ -5,7 +5,7 @@ Mappings for the data contained within the "reason" field from the "hospitalizat
 ## CSV file 
 
 ### CSV file
-Please find the CSV file [here](../csv/uciReasons_mappings.csv)
+Please find the CSV file [here](../term_mappings/uciReasons_mappings.csv)
 
 ### Columns
 

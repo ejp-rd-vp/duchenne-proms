@@ -5,7 +5,7 @@ Mappings for the data contained within the "Support" and "Living Situation" fiel
 ## CSV file 
 
 ### CSV file
-Please find the CSV file [here](../csv/supportAndLivingSituation_mappings.csv)
+Please find the CSV file [here](../term_mappings/supportAndLivingSituation_mappings.csv)
 
 ### Columns
 

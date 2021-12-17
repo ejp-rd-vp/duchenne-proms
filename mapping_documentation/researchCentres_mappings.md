@@ -5,7 +5,7 @@ Mappings for the data contained within the "hospital" and "otherHospital" fields
 ## CSV file 
 
 ### CSV file
-Please find the CSV file [here](../csv/researchCentres_mappings.csv)
+Please find the CSV file [here](../term_mappings/researchCentres_mappings.csv)
 
 ### Columns
 
