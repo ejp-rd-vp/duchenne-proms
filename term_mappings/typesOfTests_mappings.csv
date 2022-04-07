@@ -1,0 +1,11 @@
+databaseName, testURI, testPrefName
+Bone Densitometry (DEXA),http://purl.obolibrary.org/obo/NCIT_C48789, Dual X-ray Absorptiometry
+ECG,http://purl.obolibrary.org/obo/NCIT_C168186, Electrocardiogram
+MRI,http://purl.obolibrary.org/obo/NCIT_C16809, Magnetic Resonance Imaging
+24h holter,http://purl.obolibrary.org/obo/NCIT_C38064, Holter Monitoring
+Ultrasound,http://purl.obolibrary.org/obo/NCIT_C17230, Ultrasonography
+Blood gas test,http://purl.obolibrary.org/obo/NCIT_C71252, Arterial Blood Gas Measurement
+spirometry,http://purl.obolibrary.org/obo/NCIT_C85397, Spirometry
+Fixation or Fracture,http://purl.obolibrary.org/obo/NCIT_C16186, Orthopedic Surgical Procedure
+Scoliosis surgery,http://purl.obolibrary.org/obo/NCIT_C157976, Scoliosis and Kyphosis Deformity Correction
+sleep study,http://purl.obolibrary.org/obo/NCIT_C99553,Sleep Study

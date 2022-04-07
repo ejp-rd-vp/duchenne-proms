@@ -2684,9 +2684,9 @@
 
     <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00201">
         <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-        <dc:description xml:lang="en">5. Can your son&apos;s words make clear to others what he wants?</dc:description>
+        <dc:description xml:lang="en">5. Can your sons words make clear to others what he wants?</dc:description>
         <dc:identifier>ddp:DDP_00201</dc:identifier>
-        <rdfs:label xml:lang="en">Questionnaire Activities: makeClear - 5. Can your son&apos;s words make clear to others what he wants?</rdfs:label>
+        <rdfs:label xml:lang="en">Questionnaire Activities: makeClear - 5. Can your sons words make clear to others what he wants?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3b78a34544c47dcb11a1f</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
@@ -3139,9 +3139,9 @@
 
     <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00236">
         <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-        <dc:description xml:lang="en">40. Can your son go to the toilet (by this we don&apos;t mean to pee in a bottle, but actually sit on the toilet)?</dc:description>
+        <dc:description xml:lang="en">40. Can your son go to the toilet (by this we dont mean to pee in a bottle, but actually sit on the toilet)?</dc:description>
         <dc:identifier>ddp:DDP_00236</dc:identifier>
-        <rdfs:label xml:lang="en">Questionnaire Activities: canToilet - 40. Can your son go to the toilet (by this we don&apos;t mean to pee in a bottle, but actually sit on the toilet)?</rdfs:label>
+        <rdfs:label xml:lang="en">Questionnaire Activities: canToilet - 40. Can your son go to the toilet (by this we dont mean to pee in a bottle, but actually sit on the toilet)?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c3d634544c47dcb11a42</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
@@ -3256,9 +3256,9 @@
 
     <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00245">
         <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-        <dc:description xml:lang="en">49. Can your son understand other people&apos;s body language? (e.g., understand that a person is angry when that person looks angry or his hands ball up into fists)</dc:description>
+        <dc:description xml:lang="en">49. Can your son understand other peoples body language? (e.g., understand that a person is angry when that person looks angry or his hands ball up into fists)</dc:description>
         <dc:identifier>ddp:DDP_00245</dc:identifier>
-        <rdfs:label xml:lang="en">Questionnaire Activities: understBL - 49. Can your son understand other people&apos;s body language? (e.g., understand that a person is angry when that person looks angry or his hands ball up into fists)</rdfs:label>
+        <rdfs:label xml:lang="en">Questionnaire Activities: understBL - 49. Can your son understand other peoples body language? (e.g., understand that a person is angry when that person looks angry or his hands ball up into fists)</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c60534544c47dcb11a4b</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
@@ -3269,9 +3269,9 @@
 
     <owl:Class rdf:about="https://w3id.org/duchenne-proms#DDP_00246">
         <rdfs:subClassOf rdf:resource="https://w3id.org/duchenne-proms#prom_question"/>
-        <dc:description xml:lang="en">50. Can your son take other people&apos;s feelings into account?</dc:description>
+        <dc:description xml:lang="en">50. Can your son take other peoples feelings into account?</dc:description>
         <dc:identifier>ddp:DDP_00246</dc:identifier>
-        <rdfs:label xml:lang="en">Questionnaire Activities: otherFeel - 50. Can your son take other people&apos;s feelings into account?</rdfs:label>
+        <rdfs:label xml:lang="en">Questionnaire Activities: otherFeel - 50. Can your son take other peoples feelings into account?</rdfs:label>
         <rdfs:seeAlso>f29:5fb3c63934544c47dcb11a4c</rdfs:seeAlso>
         <dcat:theme rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
     </owl:Class>
