@@ -1,0 +1,289 @@
+ddp:DDP_00001,Diagnosis: What was your diagnosis?
+ddp:DDP_00002,Diagnosis: Date of diagnosis
+ddp:DDP_00003,Diagnosis: Diagnosis Delay - Number of months/years
+ddp:DDP_00004,Diagnosis: Diagnosis Delay 2 - Select months or years
+ddp:DDP_00005,Diagnosis: Delayed speech development
+ddp:DDP_00006,Diagnosis: Delayed motor development
+ddp:DDP_00007,Diagnosis: Developmental backlog
+ddp:DDP_00008,Diagnosis: Less endurance
+ddp:DDP_00009,Diagnosis: Behavioral problems
+ddp:DDP_00010,Diagnosis: Delay in walking
+ddp:DDP_00011,Diagnosis: Fall more frequently
+ddp:DDP_00012,Diagnosis: Thick calves
+ddp:DDP_00013,Diagnosis: Wobbly way of walking
+ddp:DDP_00014,Diagnosis: Difficulty to get up from the ground
+ddp:DDP_00015,Diagnosis: POSITIVE FAMILY HISTORY
+ddp:DDP_00016,Physical outcomes: Mobility
+ddp:DDP_00017,Physical outcomes: Other comments about mobility
+ddp:DDP_00018,Physical outcomes: Currently able to sit without support
+ddp:DDP_00019,Physical outcomes: Currently able to walk more than 5 meters (without any help/support)
+ddp:DDP_00020,Physical outcomes: 6 minutes walk test?
+ddp:DDP_00021,Physical outcomes: 6 minutes walk test distance in meters
+ddp:DDP_00022,Physical outcomes: 4 step climb test?
+ddp:DDP_00023,Physical outcomes: 4-step climb in seconds
+ddp:DDP_00024,Physical outcomes: North Star Assesment?
+ddp:DDP_00025,Physical outcomes: North Star Assessment score in points
+ddp:DDP_00026,Physical outcomes: Come up from supine to standing - Come up from supine to standing test?
+ddp:DDP_00027,Physical outcomes: Come up from supine to standing in seconds
+ddp:DDP_00028,Physical outcomes: Wheelchair outdoors
+ddp:DDP_00029,Physical outcomes: Fulltime wheelchair
+ddp:DDP_00030,Physical outcomes: Loss of ambulation date
+ddp:DDP_00031,Physical outcomes: Heel contracture
+ddp:DDP_00032,Physical outcomes: Hands / Fingers contracture
+ddp:DDP_00033,Physical outcomes: Foot contracture
+ddp:DDP_00034,Physical outcomes: Jaw contracture (limited mouthopening)
+ddp:DDP_00035,Physical outcomes: Knee contracture
+ddp:DDP_00036,Physical outcomes: Scoliosis  contracture
+ddp:DDP_00037,Physical outcomes: Schouder contracture
+ddp:DDP_00038,Physical outcomes: Neck contracture
+ddp:DDP_00039,Physical outcomes: Elbow contracture
+ddp:DDP_00040,Physical outcomes: measuring equipment - (Electronic) measuring equipment that is worn on your body, such as:
+ddp:DDP_00041,Physical outcomes: Other measuring equipment that is worn on your body?
+ddp:DDP_00042,Physical outcomes: Question - Do you have information to fill about your physical outcomes? (mobility, functional tests results, contractures…)
+ddp:DDP_00043,Heart condition: Use of pacemaker / ICD
+ddp:DDP_00044,Heart condition: heaert condition, not further specified
+ddp:DDP_00045,Heart condition: Unspecified heart condition began at age
+ddp:DDP_00046,Heart condition: heart condition, with arrhythmia or conduction block
+ddp:DDP_00047,Heart condition: arrhythmia or conduction block at age
+ddp:DDP_00048,Heart condition: heart condition, with cardiomyopathy
+ddp:DDP_00049,Heart condition: cardiomyopathy at age
+ddp:DDP_00050,Heart condition: I don’t know about my heart condition
+ddp:DDP_00051,Heart condition: Question - Do you have information about your heart condition?
+ddp:DDP_00052,Respiratory condition: Use a Cpap ventilator - Use a Cpap ventilator for snoring or sleep apneu
+ddp:DDP_00053,Respiratory condition: Cpap since
+ddp:DDP_00054,Respiratory condition: Night ventilation (Bipap)
+ddp:DDP_00055,Respiratory condition: Night ventilation (Bipap) since
+ddp:DDP_00056,Respiratory condition: Ventilation needed during most of the day
+ddp:DDP_00057,Respiratory condition: Ventilation needed during most of the day since
+ddp:DDP_00058,Respiratory condition: Ventilation needed during most of the day
+ddp:DDP_00059,Respiratory condition: Question - Do you have information about your respiratory condition?
+ddp:DDP_00060,Respiratory condition: Hours of ventiliation during the day
+ddp:DDP_00061,Nutrition: Type of diet
+ddp:DDP_00062,Nutrition: Other diet
+ddp:DDP_00063,Nutrition: Date of information provided about nutrition
+ddp:DDP_00064,Nutrition: Diet / outcome body mass test
+ddp:DDP_00065,Nutrition: Chewing
+ddp:DDP_00066,Nutrition: What are the chewing difficulties
+ddp:DDP_00067,Nutrition: Swallowing problems
+ddp:DDP_00068,Nutrition: Anders
+ddp:DDP_00069,Nutrition: Pregunta - Do you have information about your nutrition?
+ddp:DDP_00070,Gastrointestinal: Question - Do you have information about your gastrointestinal condition?
+ddp:DDP_00071,Gastrointestinal: Diarrhea
+ddp:DDP_00072,Gastrointestinal: Reflux (heartburn)
+ddp:DDP_00073,Gastrointestinal: Not clean for stool
+ddp:DDP_00074,Gastrointestinal: PEG or tube feeding
+ddp:DDP_00075,Gastrointestinal: Bloated feeling
+ddp:DDP_00076,Gastrointestinal: I have no information about my gastrointestinal condition
+ddp:DDP_00077,Gastrointestinal: Constipation
+ddp:DDP_00078,Gastrointestinal: How often do you have feces per week?
+ddp:DDP_00079,Urinary tract: Dribble
+ddp:DDP_00080,Urinary tract: Dribble Start Date
+ddp:DDP_00081,Urinary tract: Dribble End Date
+ddp:DDP_00082,Urinary tract: Feeling that bladder is not completely empty (urinary retention)
+ddp:DDP_00083,Urinary tract: urinary retention Start Date
+ddp:DDP_00084,Urinary tract: urinary retention End Date
+ddp:DDP_00085,Urinary tract: Incontinence
+ddp:DDP_00086,Urinary tract: Incontinence Start Date
+ddp:DDP_00087,Urinary tract: Incontinence End Date
+ddp:DDP_00088,Urinary tract: Hesitation (have to wait before pee gets out)
+ddp:DDP_00089,Urinary tract: Hesitation Start Date
+ddp:DDP_00090,Urinary tract: Hesitation End Date
+ddp:DDP_00091,Urinary tract: Bedwetting
+ddp:DDP_00092,Urinary tract: Bedwetting Start Date
+ddp:DDP_00093,Urinary tract: Bedwetting End Date
+ddp:DDP_00094,Urinary tract: Interrupted puddle
+ddp:DDP_00095,Urinary tract: Interrupted puddle Start Date
+ddp:DDP_00096,Urinary tract: Interrupted puddle End Date
+ddp:DDP_00097,Urinary tract: Frequent urination
+ddp:DDP_00098,Urinary tract: Frequent urination Start Date
+ddp:DDP_00099,Urinary tract: Frequent urination End Date
+ddp:DDP_00100,Urinary tract: Tension or compression pressures necessary to initiate urination
+ddp:DDP_00101,Urinary tract: Tension or compression pressures necessary Start Date
+ddp:DDP_00102,Urinary tract: Tension or compression pressures necessary End Date
+ddp:DDP_00103,Urinary tract: Slack puddle
+ddp:DDP_00104,Urinary tract: Slack puddle Start Date
+ddp:DDP_00105,Urinary tract: Slack puddle End Date
+ddp:DDP_00106,Urinary tract: Pain in the bladder
+ddp:DDP_00107,Urinary tract: Pain in the bladder Start Date
+ddp:DDP_00108,Urinary tract: Pain in the bladder End Date
+ddp:DDP_00109,Urinary tract: Pain in the urethra (e.g., burning sensation)
+ddp:DDP_00110,Urinary tract: Pain in the urethra Start Date
+ddp:DDP_00111,Urinary tract: Pain in the urethra End Date
+ddp:DDP_00112,Urinary tract: Reduced bladder feeling
+ddp:DDP_00113,Urinary tract: Reduced bladder feeling Start Date
+ddp:DDP_00114,Urinary tract: Reduced bladder feeling End Date
+ddp:DDP_00115,Urinary tract: Suddenly and urgently urinate
+ddp:DDP_00116,Urinary tract: Suddenly and urgently urinate Start Date
+ddp:DDP_00117,Urinary tract: Suddenly and urgently urinate End Date
+ddp:DDP_00118,Urinary tract: Peeing at night
+ddp:DDP_00119,Urinary tract: Peeing at night Start Date
+ddp:DDP_00120,Urinary tract: Peeing at night End Date
+ddp:DDP_00121,Urinary tract: Bladder catheter (tube) needed to empty bladder
+ddp:DDP_00122,Urinary tract: Bladder catheter (tube) needed to empty bladder Start Date
+ddp:DDP_00123,Urinary tract: Bladder catheter (tube) needed to empty bladder End Date
+ddp:DDP_00124,Urinary tract: Kidney stones
+ddp:DDP_00125,Urinary tract: Intervention needed?
+ddp:DDP_00126,Urinary tract: Other renal problems
+ddp:DDP_00127,Urinary tract: Question - Do you have information about your urinary tract condition?
+ddp:DDP_00128,Bone health and orthopedics: Fracture
+ddp:DDP_00129,Bone health and orthopedics: Splint type
+ddp:DDP_00130,Bone health and orthopedics: Other bone heath observation?
+ddp:DDP_00131,Bone health and orthopedics: Question - Do you have information about your bone health?
+ddp:DDP_00132,(Technical) support: Support
+ddp:DDP_00133,(Technical) support: Other kinds of technical support not mentioned?
+ddp:DDP_00134,(Technical) support: Arm support
+ddp:DDP_00135,(Technical) support: Type of arm support
+ddp:DDP_00136,(Technical) support: Question - Are you using any technical support?
+ddp:DDP_00137,(Technical) support: Brand of arm support
+ddp:DDP_00138,(Technical) support: How often do you use your arm support?
+ddp:DDP_00139,(Technical) support: Eye tracking
+ddp:DDP_00140,(Technical) support: Speech
+ddp:DDP_00141,(Technical) support: Custom mouse
+ddp:DDP_00142,(Technical) support: Custom controller (gaming)
+ddp:DDP_00143,(Technical) support: Home automation (environmental control)
+ddp:DDP_00144,(Technical) support: Do you hae anything else to say about technical support?
+ddp:DDP_00145,(Technical) support: What else do you want to say about technical support?
+ddp:DDP_00146,Learning and behaviour outcomes: IQ score scale - Scale
+ddp:DDP_00147,Learning and behaviour outcomes: Developmental delay 
+ddp:DDP_00148,Learning and behaviour outcomes: Speech delay
+ddp:DDP_00149,Learning and behaviour outcomes: Question - Do you have information about your learning and behaviour outcomes?
+ddp:DDP_00150,Problems and comorbidity: Neuropsychological issues
+ddp:DDP_00151,Problems and comorbidity: Comorbidity other than neuropsychological, psychiatric, or sleeping problems?
+ddp:DDP_00152,Problems and comorbidity: Psychiatric problems
+ddp:DDP_00153,Problems and comorbidity: other psyciatric problems
+ddp:DDP_00154,Problems and comorbidity: Snoring
+ddp:DDP_00155,Problems and comorbidity: Difficulties falling asleep
+ddp:DDP_00156,Problems and comorbidity: Frequently waking up at night
+ddp:DDP_00157,Problems and comorbidity: (Pre) diabetes
+ddp:DDP_00158,Problems and comorbidity: Allergy
+ddp:DDP_00159,Problems and comorbidity: Skin condition (incl. Nails)
+ddp:DDP_00160,Problems and comorbidity: Other diseases?
+ddp:DDP_00161,Problems and comorbidity: Question - Do you have neuropsychological, psychiatric, sleeping problems, or others?
+ddp:DDP_00162,Pain: Pregunta - Are you experiencing some kind of pain?
+ddp:DDP_00163,Pain: Pain block
+ddp:DDP_00164,COVID-19: Question - Do you have information to fill about COVID-19?
+ddp:DDP_00165,COVID-19: Have you been tested for COVID-19?
+ddp:DDP_00166,COVID-19: On what date were you tested for COVID-19
+ddp:DDP_00167,COVID-19: Did you have COVID-19 infection?
+ddp:DDP_00168,COVID-19: What were your symptoms?
+ddp:DDP_00169,COVID-19: What symptoms have you had that are not listed above? - What symptoms have you had that are not listed in the previous question?
+ddp:DDP_00170,COVID-19: How many days did your symptoms last?
+ddp:DDP_00171,COVID-19: Where were you treated?
+ddp:DDP_00172,COVID-19: How many days were you treated for?
+ddp:DDP_00173,COVID-19: Did you get a CT scan?
+ddp:DDP_00174,COVID-19: What was your lowest measured (oxygen) saturation? (in %)
+ddp:DDP_00175,COVID-19: I don’t know my lowest oxygen saturation
+ddp:DDP_00176,COVID-19: Did you require oxygen?
+ddp:DDP_00177,COVID-19: Were you intubated?
+ddp:DDP_00178,COVID-19: How many days were you intubated?
+ddp:DDP_00179,COVID-19: Did you keep taking your corticosteroids?
+ddp:DDP_00180,COVID-19: Did you have a stress dose (extra corticosteroids because of infection)?
+ddp:DDP_00181,COVID-19: Have you been on antibiotics?
+ddp:DDP_00182,COVID-19: How many days were you on antibiotics?
+ddp:DDP_00183,COVID-19: Antibiotic administration by infusion or pills?
+ddp:DDP_00184,COVID-19: What antibiotics?
+ddp:DDP_00185,COVID-19: Did anything change on your heart medication?
+ddp:DDP_00186,COVID-19: Heart medication field - what has changed?
+ddp:DDP_00187,COVID-19: What treatments have you had that are not listed above?
+ddp:DDP_00188,COVID-19: What other aspects would you like to report?
+ddp:DDP_00189,Questionnaire Activities: whoFills - Who is filling this questionnaire?
+ddp:DDP_00190,Questionnaire Activities: dateFilling - Date of filling
+ddp:DDP_00194,Questionnaire Activities: isOnCorts - Is your son on corticosteroids right now?
+ddp:DDP_00195,Questionnaire Activities: startCorts -  If so, at what age did your son start taking them? (age in years)
+ddp:DDP_00196,Questionnaire Activities: studyTNO - DO YOU GIVE PERMISSION TO SHARE YOUR ANSWERS TO THE QUESTIONNAIRE ACTIVITIES (WITH THE EXCEPTION OF THE QUESTIONS ABOUT LEARNING) WITH TNO? TNO GUARANTEES THAT YOUR DATA WILL ONLY BE USED FOR RESEARCH PURPOSES. THIRD PARTIES DO NOT HAVE ACCESS TO THE DATA COLLECTED. IN PUBLICATIONS ABOUT THE RESEARCH, THE (ANSWERS OF) INDIVIDUAL PARTICIPANTS ARE IN NO WAY RECOGNIZABLE.
+ddp:DDP_00197,Questionnaire Activities: simpleTask - 1. Can your son perform a simple task? (e.g. clean up something)
+ddp:DDP_00198,Questionnaire Activities: complexTask - 2. Can your son perform a job consisting of several parts? (e.g. make a school assignment and get himself ready for school)
+ddp:DDP_00199,Questionnaire Activities: listenStory - 3. Can your son listen attentively to a story?
+ddp:DDP_00200,Questionnaire Activities: tellStory - 4. Can your son tell a coherent story himself?
+ddp:DDP_00201,Questionnaire Activities: makeClear - 5. Can your son&apos;s words make clear to others what he wants?
+ddp:DDP_00202,Questionnaire Activities: canRead - 6. Can your son read and understand a piece of text?
+ddp:DDP_00203,Questionnaire Activities: writeSentence - 7. Can your son write a readable sentence of at least 5 words?
+ddp:DDP_00204,Questionnaire Activities: typeSentence - 8. Can your son type a readable sentence of at least 5 words?
+ddp:DDP_00205,Questionnaire Activities: drawCross - 9. Can your son draw a cross? (2 lines that clearly intersect)
+ddp:DDP_00206,Questionnaire Activities: layToSit - 10. Can your son sit down from lying down?
+ddp:DDP_00207,Questionnaire Activities: seatToStand - 11. Can your son stand from a seated position?
+ddp:DDP_00208,Questionnaire Activities: standToSit - 12. Can your son sit down from a standing position?
+ddp:DDP_00209,Questionnaire Activities: outBed - 13. Can your son get out of bed?
+ddp:DDP_00210,Questionnaire Activities: pickUp - 14. Can your son bend down and pick something up?
+ddp:DDP_00211,Questionnaire Activities: getUp - 15. Can your son get up from a crouching position?
+ddp:DDP_00212,Questionnaire Activities: bendKnee - 16. Can your son bend his knee?
+ddp:DDP_00213,Questionnaire Activities: changeSurface - 17. Can your son move from one surface to another while sitting?
+ddp:DDP_00214,Questionnaire Activities: sitChair - 18. Can your son sit on a chair?
+ddp:DDP_00215,Questionnaire Activities: getOnCar - 19. Can your son get in and out of a car?
+ddp:DDP_00216,Questionnaire Activities: liftCup - 20. Can your son lift a cup/glass from a table?
+ddp:DDP_00217,Questionnaire Activities: placeCup - 21. Can your son place a cup/glass on a table?
+ddp:DDP_00218,Questionnaire Activities: putBackpack - 22. Can your son put on a backpack?
+ddp:DDP_00219,Questionnaire Activities: hangCoat - 23. Can your son hang up a coat?
+ddp:DDP_00220,Questionnaire Activities: liftObject - 24. Can your son lift a heavy object?
+ddp:DDP_00221,Questionnaire Activities: carryHeavyObject - 25. Can your son carry and put down a heavy object?
+ddp:DDP_00222,Questionnaire Activities: moveTable - 26. Can your son move a table with his hands?
+ddp:DDP_00223,Questionnaire Activities: moveChair - 27. Can your son move a chair with his hands?
+ddp:DDP_00224,Questionnaire Activities: catchObject - 28. Can your son catch an object (e.g. a ball)?
+ddp:DDP_00225,Questionnaire Activities: throwObject - 29. Can your son throw an object (e.g., a ball)?
+ddp:DDP_00226,Questionnaire Activities: kickBall - 30. Can your son kick away a ball?
+ddp:DDP_00227,Questionnaire Activities: pickUp - 31. Can your son pick up a small object (for example, a coin)?
+ddp:DDP_00228,Questionnaire Activities: openCloseDoor - 32. Can your son open and close a door? (A remote control may not be used)
+ddp:DDP_00229,Questionnaire Activities: closeLock - 33. Can your son close a lock?
+ddp:DDP_00230,Questionnaire Activities: openDoorKey - 34. Can your son open a door with a key?
+ddp:DDP_00231,Questionnaire Activities: pressPedal - 35. Can your son press a pedal with his foot?
+ddp:DDP_00232,Questionnaire Activities: canWashBody - 36. Can your son wash his body?
+ddp:DDP_00233,Questionnaire Activities: canWashFace - 37. Can your son wash his face?
+ddp:DDP_00234,Questionnaire Activities: canDryBody - 38. Can your son dry his body?
+ddp:DDP_00235,Questionnaire Activities: canBrushTeeth - 39. Can your son brush his teeth?
+ddp:DDP_00236,Questionnaire Activities: canToilet - 40. Can your son go to the toilet (by this we don&apos;t mean to pee in a bottle, but actually sit on the toilet)?
+ddp:DDP_00237,Questionnaire Activities: canComb - 41. Can your son comb his hair?
+ddp:DDP_00238,Questionnaire Activities: canPutTrousers - 42. Can your son put on his trousers?
+ddp:DDP_00239,Questionnaire Activities: canPutTsh - 43. Can your son put on his t-shirt?
+ddp:DDP_00240,Questionnaire Activities: putShoes - 44. Can your son put his shoes on?
+ddp:DDP_00241,Questionnaire Activities: canEat - 45. Can your son eat well with a knife, fork and spoon?
+ddp:DDP_00242,Questionnaire Activities: canSandw - 46. Can your son prepare a sandwich?
+ddp:DDP_00243,Questionnaire Activities: canDrink - 47. Can your son drink on his own?
+ddp:DDP_00244,Questionnaire Activities: canAvoidRisk - 48. Can your son avoid risks that could lead to physical injury or damage (e.g. not just cross the road without looking or lighting a fire where it is not allowed)?
+ddp:DDP_00245,Questionnaire Activities: understBL - 49. Can your son understand other people&apos;s body language? (e.g., understand that a person is angry when that person looks angry or his hands ball up into fists)
+ddp:DDP_00246,Questionnaire Activities: otherFeel - 50. Can your son take other people&apos;s feelings into account?
+ddp:DDP_00247,Questionnaire Activities: speakToStrangers - 51. Does your son dare to speak to strangers? (e.g. to ask for directions)
+ddp:DDP_00248,Questionnaire Activities: canCope - 52. Can your son cope well with most teachers and therapists?
+ddp:DDP_00249,Questionnaire Activities: relationships - 53. Can your son establish and maintain relationships with friends?
+ddp:DDP_00250,Questionnaire Activities: copeFamily - 54. Can your son cope well with his parents and, if there are any, siblings?
+ddp:DDP_00251,Questionnaire Activities: canWait - 55. Can your son well wait his turn?
+ddp:DDP_00252,Questionnaire Activities: canConcentrate - 56. Can your son concentrate well?
+ddp:DDP_00253,Questionnaire Activities: goSchool - 57. Can your son go to school?
+ddp:DDP_00254,Questionnaire Activities: canPlay - 58. Can your son play games or work at the computer?
+ddp:DDP_00255,Questionnaire Activities: canEngage - 59. Can your son engage himself in a game or hobby?
+ddp:DDP_00256,Questionnaire Activities: takeSports - 60. Can your son take part in a sports activity? This may also be an adapted sport
+ddp:DDP_00257,Questionnaire Activities: sleepWell - 61. Does your son fall asleep easily (this is allowed with night respiration, if your son has one)?
+ddp:DDP_00258,Questionnaire Activities: sleepWell2 - 62. Does your son sleep through the night (this is allowed with night respiration if your son has this)?
+ddp:DDP_00259,Questionnaire Activities: canStand - 63. Can your son (possibly with difficulty) stand?
+ddp:DDP_00260,Questionnaire Activities: standShortTime - 64. Can your son stand for a short time (max 15 min)?
+ddp:DDP_00261,Questionnaire Activities: standLongTime - 65. Can your son stand for a long time (several hours)? 
+ddp:DDP_00262,Questionnaire Activities: standLeg - 66. Can your son stand on one leg for at least 5 seconds?
+ddp:DDP_00263,Questionnaire Activities: canCycle - 67. Can your son ride a bicycle?
+ddp:DDP_00264,Questionnaire Activities: canWalk - 68. Can your son (possibly with difficulty) walk?
+ddp:DDP_00265,Questionnaire Activities: moveOnFoot - 69. Can your son move from one room to another on foot?
+ddp:DDP_00266,Questionnaire Activities: climbLadder - 70. Can your son climb a ladder?
+ddp:DDP_00267,Questionnaire Activities: walkOut - 71. Can your son walk outside: up to a maximum of 100 m?
+ddp:DDP_00268,Questionnaire Activities: walkFlat - 72. Can your son walk on a level (flat) surface?
+ddp:DDP_00269,Questionnaire Activities: walkUneven - 73. Can your son walk on uneven (rough/bumpy) ground? 
+ddp:DDP_00270,Questionnaire Activities: walkNoBump - 74. Can your son walk without bumping into anything (e.g. can walk at the market or in a shop, in traffic or other crowded places without bumping into anything)?
+ddp:DDP_00271,Questionnaire Activities: canRun - 75. Can your son run?
+ddp:DDP_00272,Questionnaire Activities: canJump - 76. Can your son jump?
+ddp:DDP_00273,Questionnaire Activities: difSpelling - 1. Your son has difficulty with spelling
+ddp:DDP_00274,Questionnaire Activities: diffLetters - 2. Your son has difficulty learning letters from names
+ddp:DDP_00275,Questionnaire Activities: difPron - 3. Your son has difficulty pronouncing words
+ddp:DDP_00276,Questionnaire Activities: readSlow - 4. Your son reads slowly
+ddp:DDP_00277,Questionnaire Activities: readLevel - 5. Your son reads at a lower level than expected
+ddp:DDP_00278,Questionnaire Activities: extraHelp - 6. Your son gets extra help at school because of reading or spelling problems
+ddp:DDP_00279,Questionnaire Activities: worseAtArith - 7. Your son gets worse grades for arithmetic than for reading and spelling
+ddp:DDP_00280,Questionnaire Activities: mistakes - 8. Your son makes careless mistakes during arithmetic, such as adding where there is a minus sign
+ddp:DDP_00281,Questionnaire Activities: arithConcept - 9. Your son has difficulty learning new arithmetic concepts such as tail division
+ddp:DDP_00282,Questionnaire Activities: difArith - 10. Your son has difficulty learning early arithmetic facts/calculation knowledge
+ddp:DDP_00283,Questionnaire Activities: troubSL - 11. Your son has trouble with storylines
+ddp:DDP_00284,Questionnaire Activities: remInstr - 12. Your son has difficulty remembering multiple instructions at the same time
+ddp:DDP_00285,Questionnaire Activities: troubRem - 13. Your son has trouble remembering where he put things
+ddp:DDP_00286,Questionnaire Activities: difRhymes - 14. Your son has difficulty learning rhymes
+ddp:DDP_00287,Questionnaire Activities: difRec - 15. Your son has difficulty recounting a story
+ddp:DDP_00288,Questionnaire Activities: forgetful - 16. Your son is forgetful in daily activities
+ddp:DDP_00289,Questionnaire Activities: adjust - 17. Your son adjusts easily when plans change
+ddp:DDP_00290,Questionnaire Activities: difOrg - 18. Your son has difficulty organizing and planning daily activities
+ddp:DDP_00291,Questionnaire Activities: leaveTask - 19. Your son leaves tasks until last
+ddp:DDP_00292,Questionnaire Activities: deskChaos - 20. His desk at school or at home is chaotic
