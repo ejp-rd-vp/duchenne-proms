@@ -1,0 +1,348 @@
+,Diagnosis: What was your diagnosis?,http://purl.obolibrary.org/obo/NCIT_C15220
+,Diagnosis: Date of diagnosis,http://purl.obolibrary.org/obo/NCIT_C15220
+,Diagnosis: Diagnosis Delay - Number of months/years,http://purl.obolibrary.org/obo/NCIT_C15220
+,Diagnosis: Diagnosis Delay - Number of months/years,http://purl.obolibrary.org/obo/NCIT_C164877
+,Diagnosis: Diagnosis Delay 2 - Select months or years,http://purl.obolibrary.org/obo/NCIT_C15220
+,Diagnosis: Delayed speech development,http://purl.obolibrary.org/obo/HP_0000750
+,Diagnosis: Delayed speech development,http://purl.obolibrary.org/obo/NCIT_C15220
+,Diagnosis: Delayed motor development,http://purl.obolibrary.org/obo/HP_0001270
+,Diagnosis: Delayed motor development,http://purl.obolibrary.org/obo/NCIT_C15220
+,Diagnosis: Developmental backlog,http://purl.obolibrary.org/obo/HP_0001263
+,Diagnosis: Developmental backlog,http://purl.obolibrary.org/obo/NCIT_C15220
+,Diagnosis: Less endurance,http://purl.obolibrary.org/obo/MP_0012106
+,Diagnosis: Less endurance,http://purl.obolibrary.org/obo/NCIT_C15220
+,Diagnosis: Behavioral problems,http://purl.obolibrary.org/obo/HP_0000708
+,Diagnosis: Behavioral problems,http://purl.obolibrary.org/obo/NCIT_C15220
+,Diagnosis: Delay in walking,http://purl.obolibrary.org/obo/HP_0002194
+,Diagnosis: Delay in walking,http://purl.obolibrary.org/obo/NCIT_C15220
+,Diagnosis: Fall more frequently,http://purl.obolibrary.org/obo/NCIT_C15220
+,Diagnosis: Fall more frequently,http://purl.obolibrary.org/obo/NCIT_C172685
+,Diagnosis: Thick calves,http://purl.obolibrary.org/obo/HP_0008981
+,Diagnosis: Thick calves,http://purl.obolibrary.org/obo/NCIT_C15220
+,Diagnosis: Wobbly way of walking,http://purl.obolibrary.org/obo/NCIT_C15220
+,Diagnosis: Wobbly way of walking,http://purl.obolibrary.org/obo/SYMP_0000401
+,Diagnosis: Difficulty to get up from the ground,http://purl.obolibrary.org/obo/NCIT_C121238
+,Diagnosis: Difficulty to get up from the ground,http://purl.obolibrary.org/obo/NCIT_C15220
+,Diagnosis: POSITIVE FAMILY HISTORY,http://purl.obolibrary.org/obo/HP_0032321
+,Diagnosis: POSITIVE FAMILY HISTORY,http://purl.obolibrary.org/obo/NCIT_C15220
+,Physical outcomes: Mobility,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: Mobility,http://purl.obolibrary.org/obo/NCIT_C131922
+,Physical outcomes: Other comments about mobility,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: Currently able to sit without support,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: Currently able to sit without support,http://purl.obolibrary.org/obo/NCIT_C136154
+,Physical outcomes: Currently able to walk more than 5 meters (without any help/support),http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: 6 minutes walk test?,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: 6 minutes walk test?,http://purl.obolibrary.org/obo/NCIT_C115789
+,Physical outcomes: 6 minutes walk test distance in meters,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: 6 minutes walk test distance in meters,http://purl.obolibrary.org/obo/NCIT_C115805
+,Physical outcomes: 4 step climb test?,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: 4 step climb test?,http://purl.obolibrary.org/obo/NCIT_C141689
+,Physical outcomes: 4-step climb in seconds,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: 4-step climb in seconds,http://purl.obolibrary.org/obo/NCIT_C141706
+,Physical outcomes: North Star Assesment?,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: North Star Assesment?,http://purl.obolibrary.org/obo/NCIT_C132531
+,Physical outcomes: North Star Assessment score in points,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: North Star Assessment score in points,http://purl.obolibrary.org/obo/NCIT_C132555
+,Physical outcomes: Come up from supine to standing - Come up from supine to standing test?,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: Come up from supine to standing - Come up from supine to standing test?,http://purl.obolibrary.org/obo/NCIT_C141687
+,Physical outcomes: Come up from supine to standing in seconds,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: Come up from supine to standing in seconds,http://purl.obolibrary.org/obo/NCIT_C141702
+,Physical outcomes: Wheelchair outdoors,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: Wheelchair outdoors,http://purl.obolibrary.org/obo/NCIT_C156186
+,Physical outcomes: Fulltime wheelchair,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: Fulltime wheelchair,http://purl.obolibrary.org/obo/NCIT_C130965
+,Physical outcomes: Loss of ambulation date,http://purl.obolibrary.org/obo/HP_0006957
+,Physical outcomes: Loss of ambulation date,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: Heel contracture,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: Hands / Fingers contracture,http://purl.obolibrary.org/obo/HP_0009473
+,Physical outcomes: Hands / Fingers contracture,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: Foot contracture,http://purl.obolibrary.org/obo/HP_0008366
+,Physical outcomes: Foot contracture,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: Jaw contracture (limited mouthopening),http://purl.obolibrary.org/obo/HP_0033333
+,Physical outcomes: Jaw contracture (limited mouthopening),http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: Knee contracture,http://purl.obolibrary.org/obo/HP_0006380
+,Physical outcomes: Knee contracture,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: Scoliosis  contracture,http://purl.obolibrary.org/obo/HP_0002650
+,Physical outcomes: Scoliosis  contracture,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: Schouder contracture,http://purl.obolibrary.org/obo/HP_0003044
+,Physical outcomes: Schouder contracture,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: Neck contracture,http://purl.obolibrary.org/obo/HP_0005997
+,Physical outcomes: Neck contracture,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: Elbow contracture,http://purl.obolibrary.org/obo/HP_0002987
+,Physical outcomes: Elbow contracture,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: measuring equipment - (Electronic) measuring equipment that is worn on your body, such as:,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: Other measuring equipment that is worn on your body?,http://purl.obolibrary.org/obo/NCIT_C102559
+,Physical outcomes: Question - Do you have information to fill about your physical outcomes? (mobility, functional tests results, contractures…),http://purl.obolibrary.org/obo/NCIT_C102559
+,Heart condition: Use of pacemaker / ICD,http://purl.obolibrary.org/obo/NCIT_C13306
+,Heart condition: Use of pacemaker / ICD,http://purl.obolibrary.org/obo/NCIT_C94198
+,Heart condition: heaert condition, not further specified,http://purl.obolibrary.org/obo/NCIT_C13306
+,Heart condition: Unspecified heart condition began at age,http://purl.obolibrary.org/obo/NCIT_C13306
+,Heart condition: heart condition, with arrhythmia or conduction block,http://purl.obolibrary.org/obo/NCIT_C13306
+,Heart condition: arrhythmia or conduction block at age,http://purl.obolibrary.org/obo/HP_0011675
+,Heart condition: arrhythmia or conduction block at age,http://purl.obolibrary.org/obo/NCIT_C13306
+,Heart condition: heart condition, with cardiomyopathy,http://purl.obolibrary.org/obo/NCIT_C13306
+,Heart condition: cardiomyopathy at age,http://purl.obolibrary.org/obo/HP_0001639
+,Heart condition: cardiomyopathy at age,http://purl.obolibrary.org/obo/NCIT_C13306
+,Heart condition: I don’t know about my heart condition,http://purl.obolibrary.org/obo/NCIT_C13306
+,Heart condition: Question - Do you have information about your heart condition?,http://purl.obolibrary.org/obo/NCIT_C13306
+,Respiratory condition: Use a Cpap ventilator - Use a Cpap ventilator for snoring or sleep apneu,http://purl.obolibrary.org/obo/NCIT_C25656
+,Respiratory condition: Cpap since,http://purl.obolibrary.org/obo/NCIT_C25656
+,Respiratory condition: Night ventilation (Bipap),http://purl.obolibrary.org/obo/NCIT_C25656
+,Respiratory condition: Night ventilation (Bipap) since,http://purl.obolibrary.org/obo/NCIT_C25656
+,Respiratory condition: Ventilation needed during most of the day,http://purl.obolibrary.org/obo/NCIT_C25656
+,Respiratory condition: Ventilation needed during most of the day since,http://purl.obolibrary.org/obo/NCIT_C25656
+,Respiratory condition: Ventilation needed during most of the day,http://purl.obolibrary.org/obo/NCIT_C25656
+,Respiratory condition: Question - Do you have information about your respiratory condition?,http://purl.obolibrary.org/obo/NCIT_C25656
+,Respiratory condition: Hours of ventiliation during the day,http://purl.obolibrary.org/obo/NCIT_C25656
+,Nutrition: Type of diet,http://purl.obolibrary.org/obo/NCIT_C15222
+,Nutrition: Type of diet,http://purl.obolibrary.org/obo/NCIT_C25597
+,Nutrition: Other diet,http://purl.obolibrary.org/obo/NCIT_C15383
+,Nutrition: Other diet,http://purl.obolibrary.org/obo/NCIT_C25597
+,Nutrition: Date of information provided about nutrition,http://purl.obolibrary.org/obo/NCIT_C25597
+,Nutrition: Diet / outcome body mass test,http://purl.obolibrary.org/obo/NCIT_C138901
+,Nutrition: Diet / outcome body mass test,http://purl.obolibrary.org/obo/NCIT_C25597
+,Nutrition: Chewing,http://purl.obolibrary.org/obo/HP_0030193
+,Nutrition: Chewing,http://purl.obolibrary.org/obo/NCIT_C25597
+,Nutrition: What are the chewing difficulties,http://purl.obolibrary.org/obo/NCIT_C25597
+,Nutrition: Swallowing problems,http://purl.obolibrary.org/obo/NCIT_C125410
+,Nutrition: Swallowing problems,http://purl.obolibrary.org/obo/NCIT_C25597
+,Nutrition: Anders,http://purl.obolibrary.org/obo/NCIT_C25597
+,Nutrition: Pregunta - Do you have information about your nutrition?,http://purl.obolibrary.org/obo/NCIT_C25597
+,Gastrointestinal: Question - Do you have information about your gastrointestinal condition?,http://purl.obolibrary.org/obo/NCIT_C13359
+,Gastrointestinal: Diarrhea,http://purl.obolibrary.org/obo/HP_0002014
+,Gastrointestinal: Diarrhea,http://purl.obolibrary.org/obo/NCIT_C13359
+,Gastrointestinal: Reflux (heartburn),http://purl.obolibrary.org/obo/HP_0002020
+,Gastrointestinal: Reflux (heartburn),http://purl.obolibrary.org/obo/NCIT_C13359
+,Gastrointestinal: Not clean for stool,http://purl.obolibrary.org/obo/NCIT_C13359
+,Gastrointestinal: PEG or tube feeding,http://purl.obolibrary.org/obo/HP_0033454
+,Gastrointestinal: PEG or tube feeding,http://purl.obolibrary.org/obo/NCIT_C13359
+,Gastrointestinal: Bloated feeling,http://purl.obolibrary.org/obo/HP_0003270
+,Gastrointestinal: Bloated feeling,http://purl.obolibrary.org/obo/NCIT_C13359
+,Gastrointestinal: I have no information about my gastrointestinal condition,http://purl.obolibrary.org/obo/NCIT_C13359
+,Gastrointestinal: Constipation,http://purl.obolibrary.org/obo/HP_0002019
+,Gastrointestinal: Constipation,http://purl.obolibrary.org/obo/NCIT_C13359
+,Gastrointestinal: How often do you have feces per week?,http://purl.obolibrary.org/obo/NCIT_C13359
+,Urinary tract: Dribble,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Dribble Start Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Dribble End Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Feeling that bladder is not completely empty (urinary retention),http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: urinary retention Start Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: urinary retention End Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Incontinence,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Incontinence Start Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Incontinence End Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Hesitation (have to wait before pee gets out),http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Hesitation Start Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Hesitation End Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Bedwetting,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Bedwetting Start Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Bedwetting End Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Interrupted puddle,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Interrupted puddle Start Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Interrupted puddle End Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Frequent urination,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Frequent urination Start Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Frequent urination End Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Tension or compression pressures necessary to initiate urination,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Tension or compression pressures necessary Start Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Tension or compression pressures necessary End Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Slack puddle,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Slack puddle Start Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Slack puddle End Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Pain in the bladder,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Pain in the bladder Start Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Pain in the bladder End Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Pain in the urethra (e.g., burning sensation),http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Pain in the urethra Start Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Pain in the urethra End Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Reduced bladder feeling,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Reduced bladder feeling Start Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Reduced bladder feeling End Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Suddenly and urgently urinate,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Suddenly and urgently urinate Start Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Suddenly and urgently urinate End Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Peeing at night,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Peeing at night Start Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Peeing at night End Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Bladder catheter (tube) needed to empty bladder,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Bladder catheter (tube) needed to empty bladder Start Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Bladder catheter (tube) needed to empty bladder End Date,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Kidney stones,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Intervention needed?,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Other renal problems,http://purl.obolibrary.org/obo/NCIT_C25711
+,Urinary tract: Question - Do you have information about your urinary tract condition?,http://purl.obolibrary.org/obo/NCIT_C25711
+,Bone health and orthopedics: Fracture,http://purl.obolibrary.org/obo/HP_0020110
+,Bone health and orthopedics: Fracture,http://purl.obolibrary.org/obo/UBERON_0001434
+,Bone health and orthopedics: Splint type,http://purl.obolibrary.org/obo/UBERON_0001434
+,Bone health and orthopedics: Other bone heath observation?,http://purl.obolibrary.org/obo/UBERON_0001434
+,Bone health and orthopedics: Question - Do you have information about your bone health?,http://purl.obolibrary.org/obo/UBERON_0001434
+,(Technical) support: Support,http://purl.obolibrary.org/obo/NCIT_C62103
+,(Technical) support: Support,http://purl.obolibrary.org/obo/NCIT_C93300
+,(Technical) support: Other kinds of technical support not mentioned?,http://purl.obolibrary.org/obo/NCIT_C62103
+,(Technical) support: Arm support,http://purl.obolibrary.org/obo/NCIT_C50276
+,(Technical) support: Arm support,http://purl.obolibrary.org/obo/NCIT_C62103
+,(Technical) support: Type of arm support,http://purl.obolibrary.org/obo/NCIT_C62103
+,(Technical) support: Question - Are you using any technical support?,http://purl.obolibrary.org/obo/NCIT_C62103
+,(Technical) support: Brand of arm support,http://purl.obolibrary.org/obo/NCIT_C101668
+,(Technical) support: Brand of arm support,http://purl.obolibrary.org/obo/NCIT_C62103
+,(Technical) support: How often do you use your arm support?,http://purl.obolibrary.org/obo/NCIT_C62103
+,(Technical) support: Eye tracking,http://purl.obolibrary.org/obo/NCIT_C176742
+,(Technical) support: Eye tracking,http://purl.obolibrary.org/obo/NCIT_C62103
+,(Technical) support: Speech,http://purl.obolibrary.org/obo/NCIT_C50184
+,(Technical) support: Speech,http://purl.obolibrary.org/obo/NCIT_C62103
+,(Technical) support: Custom mouse,http://purl.obolibrary.org/obo/NCIT_C62103
+,(Technical) support: Custom controller (gaming),http://purl.obolibrary.org/obo/NCIT_C49887
+,(Technical) support: Custom controller (gaming),http://purl.obolibrary.org/obo/NCIT_C62103
+,(Technical) support: Home automation (environmental control),http://purl.obolibrary.org/obo/NCIT_C62103
+,(Technical) support: Do you hae anything else to say about technical support?,http://purl.obolibrary.org/obo/NCIT_C62103
+,(Technical) support: What else do you want to say about technical support?,http://purl.obolibrary.org/obo/NCIT_C62103
+,Learning and behaviour outcomes: IQ score scale - Scale,http://purl.obolibrary.org/obo/NCIT_C122920
+,Learning and behaviour outcomes: IQ score scale - Scale,http://purl.obolibrary.org/obo/NCIT_C94321
+,Learning and behaviour outcomes: Developmental delay ,http://purl.obolibrary.org/obo/HP_0001263
+,Learning and behaviour outcomes: Developmental delay ,http://purl.obolibrary.org/obo/NCIT_C94321
+,Learning and behaviour outcomes: Speech delay,http://purl.obolibrary.org/obo/HP_0000750
+,Learning and behaviour outcomes: Speech delay,http://purl.obolibrary.org/obo/NCIT_C94321
+,Learning and behaviour outcomes: Question - Do you have information about your learning and behaviour outcomes?,http://purl.obolibrary.org/obo/NCIT_C94321
+,Problems and comorbidity: Neuropsychological issues,http://purl.obolibrary.org/obo/NCIT_C16457
+,Problems and comorbidity: Comorbidity other than neuropsychological, psychiatric, or sleeping problems?,http://purl.obolibrary.org/obo/NCIT_C16457
+,Problems and comorbidity: Psychiatric problems,http://purl.obolibrary.org/obo/NCIT_C16457
+,Problems and comorbidity: other psyciatric problems,http://purl.obolibrary.org/obo/NCIT_C16457
+,Problems and comorbidity: Snoring,http://purl.obolibrary.org/obo/NCIT_C16457
+,Problems and comorbidity: Difficulties falling asleep,http://purl.obolibrary.org/obo/NCIT_C16457
+,Problems and comorbidity: Frequently waking up at night,http://purl.obolibrary.org/obo/NCIT_C16457
+,Problems and comorbidity: (Pre) diabetes,http://purl.obolibrary.org/obo/HP_0000819
+,Problems and comorbidity: (Pre) diabetes,http://purl.obolibrary.org/obo/NCIT_C16457
+,Problems and comorbidity: Allergy,http://purl.obolibrary.org/obo/NCIT_C16457
+,Problems and comorbidity: Skin condition (incl. Nails),http://purl.obolibrary.org/obo/NCIT_C16457
+,Problems and comorbidity: Other diseases?,http://purl.obolibrary.org/obo/NCIT_C16457
+,Problems and comorbidity: Question - Do you have neuropsychological, psychiatric, sleeping problems, or others?,http://purl.obolibrary.org/obo/NCIT_C16457
+,Pain: Pregunta - Are you experiencing some kind of pain?,http://purl.obolibrary.org/obo/NCIT_C173346
+,Pain: Pregunta - Are you experiencing some kind of pain?,http://purl.obolibrary.org/obo/NCIT_C25271
+,Pain: Pain block,http://purl.obolibrary.org/obo/NCIT_C21072
+,Pain: Pain block,http://purl.obolibrary.org/obo/NCIT_C25271
+,COVID-19: Question - Do you have information to fill about COVID-19?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: Have you been tested for COVID-19?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: On what date were you tested for COVID-19,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: Did you have COVID-19 infection?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: What were your symptoms?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: What symptoms have you had that are not listed above? - What symptoms have you had that are not listed in the previous question?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: How many days did your symptoms last?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: Where were you treated?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: How many days were you treated for?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: Did you get a CT scan?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: What was your lowest measured (oxygen) saturation? (in %),http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: I don’t know my lowest oxygen saturation,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: Did you require oxygen?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: Were you intubated?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: How many days were you intubated?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: Did you keep taking your corticosteroids?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: Did you have a stress dose (extra corticosteroids because of infection)?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: Have you been on antibiotics?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: How many days were you on antibiotics?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: Antibiotic administration by infusion or pills?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: What antibiotics?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: Did anything change on your heart medication?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: Heart medication field - what has changed?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: What treatments have you had that are not listed above?,http://purl.obolibrary.org/obo/NCIT_C171133
+,COVID-19: What other aspects would you like to report?,http://purl.obolibrary.org/obo/NCIT_C171133
+,Questionnaire Activities: whoFills - Who is filling this questionnaire?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: dateFilling - Date of filling,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: isOnCorts - Is your son on corticosteroids right now?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: startCorts -  If so, at what age did your son start taking them? (age in years),http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: studyTNO - DO YOU GIVE PERMISSION TO SHARE YOUR ANSWERS TO THE QUESTIONNAIRE ACTIVITIES (WITH THE EXCEPTION OF THE QUESTIONS ABOUT LEARNING) WITH TNO? TNO GUARANTEES THAT YOUR DATA WILL ONLY BE USED FOR RESEARCH PURPOSES. THIRD PARTIES DO NOT HAVE ACCESS TO THE DATA COLLECTED. IN PUBLICATIONS ABOUT THE RESEARCH, THE (ANSWERS OF) INDIVIDUAL PARTICIPANTS ARE IN NO WAY RECOGNIZABLE.,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: simpleTask - 1. Can your son perform a simple task? (e.g. clean up something),http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: complexTask - 2. Can your son perform a job consisting of several parts? (e.g. make a school assignment and get himself ready for school),http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: listenStory - 3. Can your son listen attentively to a story?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: tellStory - 4. Can your son tell a coherent story himself?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: makeClear - 5. Can your sons words make clear to others what he wants?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canRead - 6. Can your son read and understand a piece of text?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: writeSentence - 7. Can your son write a readable sentence of at least 5 words?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: typeSentence - 8. Can your son type a readable sentence of at least 5 words?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: drawCross - 9. Can your son draw a cross? (2 lines that clearly intersect),http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: layToSit - 10. Can your son sit down from lying down?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: seatToStand - 11. Can your son stand from a seated position?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: standToSit - 12. Can your son sit down from a standing position?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: outBed - 13. Can your son get out of bed?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: pickUp - 14. Can your son bend down and pick something up?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: getUp - 15. Can your son get up from a crouching position?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: bendKnee - 16. Can your son bend his knee?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: changeSurface - 17. Can your son move from one surface to another while sitting?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: sitChair - 18. Can your son sit on a chair?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: getOnCar - 19. Can your son get in and out of a car?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: liftCup - 20. Can your son lift a cup/glass from a table?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: placeCup - 21. Can your son place a cup/glass on a table?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: putBackpack - 22. Can your son put on a backpack?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: hangCoat - 23. Can your son hang up a coat?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: liftObject - 24. Can your son lift a heavy object?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: carryHeavyObject - 25. Can your son carry and put down a heavy object?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: moveTable - 26. Can your son move a table with his hands?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: moveChair - 27. Can your son move a chair with his hands?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: catchObject - 28. Can your son catch an object (e.g. a ball)?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: throwObject - 29. Can your son throw an object (e.g., a ball)?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: kickBall - 30. Can your son kick away a ball?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: pickUp - 31. Can your son pick up a small object (for example, a coin)?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: openCloseDoor - 32. Can your son open and close a door? (A remote control may not be used),http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: closeLock - 33. Can your son close a lock?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: openDoorKey - 34. Can your son open a door with a key?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: pressPedal - 35. Can your son press a pedal with his foot?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canWashBody - 36. Can your son wash his body?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canWashFace - 37. Can your son wash his face?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canDryBody - 38. Can your son dry his body?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canBrushTeeth - 39. Can your son brush his teeth?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canToilet - 40. Can your son go to the toilet (by this we dont mean to pee in a bottle, but actually sit on the toilet)?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canComb - 41. Can your son comb his hair?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canPutTrousers - 42. Can your son put on his trousers?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canPutTsh - 43. Can your son put on his t-shirt?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: putShoes - 44. Can your son put his shoes on?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canEat - 45. Can your son eat well with a knife, fork and spoon?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canSandw - 46. Can your son prepare a sandwich?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canDrink - 47. Can your son drink on his own?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canAvoidRisk - 48. Can your son avoid risks that could lead to physical injury or damage (e.g. not just cross the road without looking or lighting a fire where it is not allowed)?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: understBL - 49. Can your son understand other peoples body language? (e.g., understand that a person is angry when that person looks angry or his hands ball up into fists),http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: otherFeel - 50. Can your son take other peoples feelings into account?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: speakToStrangers - 51. Does your son dare to speak to strangers? (e.g. to ask for directions),http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canCope - 52. Can your son cope well with most teachers and therapists?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: relationships - 53. Can your son establish and maintain relationships with friends?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: copeFamily - 54. Can your son cope well with his parents and, if there are any, siblings?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canWait - 55. Can your son well wait his turn?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canConcentrate - 56. Can your son concentrate well?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: goSchool - 57. Can your son go to school?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canPlay - 58. Can your son play games or work at the computer?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canEngage - 59. Can your son engage himself in a game or hobby?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: takeSports - 60. Can your son take part in a sports activity? This may also be an adapted sport,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: sleepWell - 61. Does your son fall asleep easily (this is allowed with night respiration, if your son has one)?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: sleepWell2 - 62. Does your son sleep through the night (this is allowed with night respiration if your son has this)?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canStand - 63. Can your son (possibly with difficulty) stand?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: standShortTime - 64. Can your son stand for a short time (max 15 min)?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: standLongTime - 65. Can your son stand for a long time (several hours)? ,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: standLeg - 66. Can your son stand on one leg for at least 5 seconds?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canCycle - 67. Can your son ride a bicycle?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canWalk - 68. Can your son (possibly with difficulty) walk?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: moveOnFoot - 69. Can your son move from one room to another on foot?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: climbLadder - 70. Can your son climb a ladder?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: walkOut - 71. Can your son walk outside: up to a maximum of 100 m?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: walkFlat - 72. Can your son walk on a level (flat) surface?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: walkUneven - 73. Can your son walk on uneven (rough/bumpy) ground? ,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: walkNoBump - 74. Can your son walk without bumping into anything (e.g. can walk at the market or in a shop, in traffic or other crowded places without bumping into anything)?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canRun - 75. Can your son run?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: canJump - 76. Can your son jump?,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: difSpelling - 1. Your son has difficulty with spelling,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: diffLetters - 2. Your son has difficulty learning letters from names,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: difPron - 3. Your son has difficulty pronouncing words,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: readSlow - 4. Your son reads slowly,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: readLevel - 5. Your son reads at a lower level than expected,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: extraHelp - 6. Your son gets extra help at school because of reading or spelling problems,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: worseAtArith - 7. Your son gets worse grades for arithmetic than for reading and spelling,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: mistakes - 8. Your son makes careless mistakes during arithmetic, such as adding where there is a minus sign,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: arithConcept - 9. Your son has difficulty learning new arithmetic concepts such as tail division,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: difArith - 10. Your son has difficulty learning early arithmetic facts/calculation knowledge,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: troubSL - 11. Your son has trouble with storylines,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: remInstr - 12. Your son has difficulty remembering multiple instructions at the same time,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: troubRem - 13. Your son has trouble remembering where he put things,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: difRhymes - 14. Your son has difficulty learning rhymes,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: difRec - 15. Your son has difficulty recounting a story,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: forgetful - 16. Your son is forgetful in daily activities,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: adjust - 17. Your son adjusts easily when plans change,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: difOrg - 18. Your son has difficulty organizing and planning daily activities,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: leaveTask - 19. Your son leaves tasks until last,http://purl.obolibrary.org/obo/NCIT_C20993
+,Questionnaire Activities: deskChaos - 20. His desk at school or at home is chaotic,http://purl.obolibrary.org/obo/NCIT_C20993
