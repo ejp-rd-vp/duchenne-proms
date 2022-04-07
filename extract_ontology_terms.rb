@@ -9,7 +9,7 @@ PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX dc: <http://purl.org/dc/elements/1.1/>
 PREFIX dcat: <http://www.w3.org/ns/dcat#>
-select ?l ?t where {
+select ?f ?l ?t where {
 ?p rdfs:subClassOf <https://w3id.org/duchenne-proms#prom_question> .
 ?p rdfs:label ?l .
 ?p dcat:theme ?t .
